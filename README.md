@@ -2,4 +2,4 @@
 
 > 壹刻传媒壁纸
 
-所有壁纸归档cdn链接 https://cdn.jsdelivr.net/gh/shaobeichen/node-crawler@master/yikechuanmei/total.json
+所有壁纸归档 cdn 链接 https://cdn.jsdelivr.net/gh/shaobeichen/yikechuanmei-crawler@main/total.json

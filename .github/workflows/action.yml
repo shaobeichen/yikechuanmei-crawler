@@ -1,9 +1,9 @@
-name: 'yikechuanmei'
+name: 'run'
 
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 21 * * *'
 

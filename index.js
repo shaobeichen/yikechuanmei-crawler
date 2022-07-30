@@ -465,7 +465,7 @@ const main = async () => {
       return !v.includes('icon') && suffix.includes(itemSuffix)
     })
 
-    const base = 'https://cdn.jsdelivr.net/gh/LeachZhou/node-crawler@master/yikechuanmei/archive'
+    const base = 'https://cdn.jsdelivr.net/gh/shaobeichen/yikechuanmei-crawler@main/archive'
     const wallpaperUrlBase = `${base}/${dirName}/wallpaper/`
     const wallpaperUrl = wallpaperFilesFilter.map((v) => wallpaperUrlBase + v)
 
