@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022073101" updatetime="20220731">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="26EEE40F980692823989CCBCE1D28E2F.jpg" title="甜美系小花旦" content="甜美可人的周也，是一位有着很大潜力的新一代人气小花旦。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298443_0.html?0551" packagename=""/>
+			<image src="8662744CAFB5A728A8A0E63DBA992D34.jpg" title="非科班明星盘点" content="来盘点一下九位“半道出家”的女演员，她们虽不是科班出身，但都是实力派！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215169.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F7C4E37B8886E6F371356B550CE4C880.jpg" title="圈内小花谭松韵" content="不急于求成，默默打磨演技，谭松韵用实际行动证明自己是实力派演员。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625030.html?meetting=1657695636970" packagename=""/>
+			<image src="A4CF15BD51245AA00394CC89E13B199E.jpg" title="关晓彤魅力十足" content="关晓彤身穿黑色连衣裙，大秀曼妙好身材，美得不可方物。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7124391241378447910/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428171" packagename=""/>
+		</type>
+	</switch>
+</layout>
