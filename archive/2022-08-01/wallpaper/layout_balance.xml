@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080101" updatetime="20220801">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1B2D4E77C1BF9F74FD8515883AA0C5E3.jpg" title="新疆美女明星" content="盘点来自新疆的女明星，她们个个颜值出众，美得独具特色。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623705.html?meetting=1653692438196" packagename=""/>
+			<image src="D616AC73DD0A393B3A9B49DF627C374B.jpg" title="宝藏女孩程潇" content="有一种“清纯”叫程潇，是一个明明可以靠脸，却偏偏要拼实力的宝藏女孩。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/300991_0.html?616" packagename=""/>
+			<image src="96D1EFEEEA004713D1FD59C05BC5B287.jpg" title="周洁琼的演员梦" content="周洁琼曾在节目中表示，她前期做偶像，就是为了之后能转行当演员。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215164.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="22CABC4B32E6584E5751775ED7A11EAA.jpg" title="孟子义走心发言" content="孟子义走心发言：“原来我也可以被那么多人喜欢。”让人难过又心疼。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7124690321883120159/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428170" packagename=""/>
+		</type>
+	</switch>
+</layout>
