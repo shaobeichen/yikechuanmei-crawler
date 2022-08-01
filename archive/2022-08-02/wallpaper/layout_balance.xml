@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080201" updatetime="20220802">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="66E12C4043702CDAA7502A130F8D3587.jpg" title="古力娜扎的神颜" content="自古新疆出美女，古力娜扎这颜值太高了，宛如仙女下凡。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301715_0.html?635" packagename=""/>
+			<image src="385CEB02AC4CFEC19431761ACA141BC5.jpg" title="实力演员杨紫" content="从一度无戏可拍，到再次爆红，杨紫用精湛的演技走出了自己的路。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625029.html?meetting=1657695034802" packagename=""/>
+			<image src="C5FE8623A181F3D2C88641B0FEDCE84D.jpg" title="甜美可爱宋祖儿" content="童星出道的宋祖儿出落得越发有女人味了，甜美中带有性感和成熟。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7119823643584250372/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428174" packagename=""/>
+			<image src="DEA40DB8B6B4F940CDBC0DCA6CD9D157.jpg" title="淡颜美人天花板" content="刘诗诗完全贯彻了她“人淡如菊”的风格，给人一种温柔优雅的美感。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215672.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
