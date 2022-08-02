@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080302" updatetime="20220803">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1482A2B51B42D18D6729858E595151BC.jpg" title="周洁琼优雅尽显" content="再一次被周洁琼的大胆惊艳到了，身着清新小裙子的她时髦又大气。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298513_0.html?0515" packagename=""/>
+			<image src="A0D4F0A22F1BBAFC79A9646B091B249F.jpg" title="宝藏男孩白敬亭" content="非科班出身，孤身一人勇闯娱乐圈，白敬亭凭借自己的努力闯出了一片天。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625027.html?meetting=1657695035580" packagename=""/>
+			<image src="51B4353D8B0A16BCE55B6F117063E4EA.jpg" title="金晨写真大片" content="金晨身穿修身长裙，完美展现窈窕纤美身姿，优雅又迷人。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7124177175124804136/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=407523" packagename=""/>
+			<image src="B1F5F8917CD2C7291FAD1CEF13E82693.jpg" title="沉稳男神赵又廷" content="赵又廷的深邃目光让人无法忽视，他饰演的很多角色都令人印象深刻。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215679.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
