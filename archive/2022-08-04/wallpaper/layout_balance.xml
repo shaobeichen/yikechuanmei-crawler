@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080402" updatetime="20220804">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="67F542B0399308511F81AB022B01DBF6.jpg" title="实力演员朱一龙" content="“十年磨一剑”的朱一龙，跑龙套10年，他凭借出色的演技终爆红。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/299246_0.html?0537" packagename=""/>
+			<image src="E2D76A11FAD44D58A830D3371AEFEE39.jpg" title="佟丽娅的奋斗史" content="这位女演员因跨界主持春晚被称为春晚女神，佟丽娅的奋斗史太励志。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624147.html?meetting=1655275234526" packagename=""/>
+			<image src="055123464DE27FCA9A5E1425390E5DC5.jpg" title="才情兼备孙怡" content="孙怡出生在吉林集安，在看似有点柔弱的外表下，却有着北方人的豪爽个性。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6646998350878999054/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427442" packagename=""/>
+			<image src="62618E31B39B4D97ABDA5DA2B37943D9.jpg" title="花魁女星大比美" content="古偶剧中，花魁是必不可少的角色，让我们来欣赏一下各剧中出现的花魁！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215681.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
