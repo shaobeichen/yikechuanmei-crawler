@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080502" updatetime="20220805">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3432EAB777D4E11830546189EB6E9E74.jpg" title="古装女书生盘点" content="四位女星的书生造型，张敏英气，鞠婧祎清秀，其余两位也是经典。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3602873.html?meetting=1652482835716" packagename=""/>
+			<image src="C3BD87EB5648624A37B7FE73673C6C76.jpg" title="钟欣潼乘风归来" content="为了参加《乘风破浪》，钟欣潼做出了很大的牺牲，肉眼可见地瘦了一圈。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/299360_0.html?0549" packagename=""/>
+			<image src="E45817A53158AAA3DAA15A691606E1DF.jpg" title="阚清子气质迷人" content="阚清子知性又优雅，一颦一笑，动人心弦，确实有古典美人的感觉。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7123439283465421324/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428425" packagename=""/>
+			<image src="DA4FC6320FE8F9FD9DD46DCD8448FCA0.jpg" title="吴磊实至名归" content="吴磊在新剧里表现得十分的精彩，凭借着“荷尔蒙爆表”的造型出圈！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215688.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
