@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080602" updatetime="20220806">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2D326CFF8D9F852E026A58CC91E377CA.jpg" title="暖男马天宇" content="马天宇真是宝藏男孩，真诚又温暖，不愧是娱乐圈公认的暖男。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/303671_0.html?6221" packagename=""/>
+			<image src="6558DA902E0F3679ED43EB9A3073DF88.jpg" title="暖心天使周也" content="曾饰演问题少女，却因性格在综艺中圈粉无数，周也戏里戏外的巨大反差让观众直呼惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625230.html?meetting=1658296837783" packagename=""/>
+			<image src="3887CDD6EDAAF88EC1E80840A285D8A4.jpg" title="张雪迎清新造型" content="张雪迎一身清新的造型，少女感满满，让人心动。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7023575404724093448/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428415" packagename=""/>
+			<image src="45D7B9406A619D37231B6A7931490FF4.jpg" title="娄艺潇热血人生" content="娄艺潇除了是一名演员，她在音乐上的造诣也颇高。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215693.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
