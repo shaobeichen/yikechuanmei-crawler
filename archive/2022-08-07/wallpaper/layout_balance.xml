@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080702" updatetime="20220807">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C7C70F93414FD4B1F9EC67ED26EC9FF1.jpg" title="拼搏的钟楚曦" content="在钟楚曦“野心勃勃”的背后，是一次又一次极致努力的拼搏。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624019.html?meetting=1654591834331" packagename=""/>
+			<image src="590328BCBFD99D2623F1041DF7563A54.jpg" title="全能女神韩雪" content="优秀艺人韩雪拥有迷人的气质和坦率的个性，沉浮于娱乐圈，却始终不浮躁、不炒作。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304848_0.html?6270" packagename=""/>
+			<image src="5C353450B9229D582F639D694818049D.jpg" title="酷帅有型赵小棠" content="赵小棠制服造型亮相《你好星期六》白衣纤影显摩登酷飒。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7084853208589599262/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427441" packagename=""/>
+			<image src="C46300DFD5879905E50C4ED52273A17C.jpg" title="姚晨的华丽转身" content="姚晨有着不服输、努力向上的精神，即使遇到困难，她也是用实际行动去证明自己。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215695.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
