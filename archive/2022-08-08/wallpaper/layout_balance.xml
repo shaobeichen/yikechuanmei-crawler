@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080802" updatetime="20220808">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="924BAB6FD0AF919257F61D5C3B769B23.jpg" title="金晨的逆风翻盘" content="凭借选秀综艺翻红，演技大获赞赏，金晨的实力得到了大众的认可。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298446_0.html?0544" packagename=""/>
+			<image src="627C02E0E6AA9CC72F10A803A37478D3.jpg" title="宋祖儿的成长录" content="从古灵精怪的小哪吒，到敢爱敢恨的乔四美，宋祖儿完成了从童星到实力演员的转变。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625035.html?meetting=1657695035411" packagename=""/>
+			<image src="79375E21C6E56891F734DA17DEE76839.jpg" title="知性美女童谣" content="童谣是典雅美女的代表，有着知性温柔的外在形象，精致大气的五官线条，气质迷人。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7123561095104922119/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428359" packagename=""/>
+			<image src="E38D3FE8C915CB7AA4E5DFBC99C412AC.jpg" title="宋祖儿热度不减" content="宋祖儿人气一路飞升，各大综艺和时尚封面都有她的身影。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215696.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
