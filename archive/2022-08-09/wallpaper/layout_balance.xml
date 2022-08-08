@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080901" updatetime="20220809">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="0845FE6D649D29B188BDB350E2E536B3.jpg" title="舞蹈爱豆曾可妮" content="从曾可妮的《青你2》时期开始，带你回顾这位实力女孩的青春成长历程。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624145.html?meetting=1655459435156" packagename=""/>
+			<image src="F303D05544D590AA2ED121BA0DECE4D5.jpg" title="甜酷女孩赵露思" content="处事游刃有余又保有天真的甜酷女孩赵露思，远比我们想象的更加努力。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/306957_0.html?7113" packagename=""/>
+			<image src="2CC2AFAA45629A5ED3B848900599086B.jpg" title="王俊凯的演技" content="王俊凯用行动证明，对自己饰演的角色足够用心对待，就是一个好演员！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7127543005552181793/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428403" packagename=""/>
+			<image src="BA4C85BD3E06F109CCEFF223589AE241.jpg" title="暑假档女王杨紫" content="杨紫热播新剧获好评，她不负众望的成为了耀眼的那颗“星”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216083.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
