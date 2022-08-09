@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081001" updatetime="20220810">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="41E3B92E16CE496C0F3779A13A4CE30F.jpg" title="明星艺考状元" content="学业拍戏两不误，吴磊、易烊千玺等人简直是娱乐圈的“艺考王者”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3596610.html?meetting=1654593033805" packagename=""/>
+			<image src="ADDEE42AC539EB6EED287C4192F0FF60.jpg" title="乔欣的门外世界" content="那个夏天，乔欣好像打开了一个新世界的小窗子，眺望着不同世界里的人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/308274_0.html?7129" packagename=""/>
+			<image src="E9183ACF7D8FC71367ED05B495876BE5.jpg" title="关晓彤穿搭迷人" content="礼裙是时尚圈中能全方位展现女性魅力的单品，关晓彤的礼裙穿搭尽显迷人气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7026247662680818206/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428373" packagename=""/>
+			<image src="6F47A97147ED64A446A9542C0AB2C700.jpg" title="杨颖逆风归来" content="杨颖没有偶像包袱，她既能搞笑又能吃苦，赢得了很多粉丝的喜爱和肯定。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216053.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
