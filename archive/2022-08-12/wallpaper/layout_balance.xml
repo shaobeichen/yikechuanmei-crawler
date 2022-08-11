@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081201" updatetime="20220812">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="FFC3BB0CC0A58080599C3E28AA8B2665.jpg" title="圈中的星二代" content="高考超重点分数线，多次获影视大奖，关晓彤一次次给我们带来惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625236.html?meetting=1658297436524" packagename=""/>
+			<image src="57942250B85CEA980ECEDF165C05A2CA.jpg" title="傅菁：草根追梦" content="在傅菁身上，有一种奇妙的矛盾感，她在工作中干练沉稳，生活中软糯温和，可飒可柔。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/306020_0.html?7112" packagename=""/>
+			<image src="F92DA8C73BEF15F5409C4D77A7619952.jpg" title="浓颜美人娜扎" content="她俏脸清丽脱俗，秀眸明亮如水，置身室内花海，一颦一笑宛如油画中的少女，美得不可方物。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7123874915157754383/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428559" packagename=""/>
+			<image src="85A159091BF07F7EE6C1817DEE7BFF75.jpg" title="黄子韬毫无包袱" content="黄子韬抛下偶像包袱，大胆挑战光头造型，让他的人气水涨船高。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216069.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="77964D9D89621D98E5507E2D3C4E925D.jpg" title="吴磊表演获赞" content="吴磊对新剧角色的精彩演绎，连原著作者都赞不绝口！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216636.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="DE920A96E3FA5115981F726CA9E25C3B.jpg" title="宋轶古装新剧" content="《赘婿》后，宋轶又有爆款剧，搭档3位90后小生，未播先火。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7109471511030956547/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428666" packagename=""/>
+		</type>
+	</switch>
+</layout>
