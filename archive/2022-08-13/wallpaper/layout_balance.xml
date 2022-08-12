@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081301" updatetime="20220813">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6813BFA5F2A4F7895743EFDE1A94032C.jpg" title="甜美可人的唐嫣" content="正能量满满的唐嫣，即使人生中又多了一个角色，依然明艳动人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/282005_0.html?0540" packagename=""/>
+			<image src="30BE46986CA75B518FE4ED6D9E72D006.jpg" title="状态在线的梅婷" content="经过岁月的沉淀和时间的打磨后，梅婷的从容愈加让人着迷。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624827.html?meetting=1657092034512" packagename=""/>
+			<image src="206E14859BB6191A60CDC432BFCE1F7E.jpg" title="赵露思哭戏封神" content="《月生沧海》中，赵露思哭戏代入感强，从隐忍到爆发层层递进。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7129710095709127199/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428581" packagename=""/>
+			<image src="48734A0E5A4BDE16AF6696B28EBEE6A3.jpg" title="95后小花旦" content="95后“四小花旦”出炉，她们不仅颜值高，而且发展势头良好。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216070.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F6234D80AE41126BB7AF93D1CF66EBD3.jpg" title="唐装美人吴谨言" content="吴谨言虽然没有饰演过唐朝美人，可她却因一组唐装造型而上了热搜！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214131.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C650A87159EECCF39E8D3502CEC5CE69.jpg" title="优雅女神张嘉倪" content="张嘉倪性感又不失清纯，既有岁月的优雅也有少女的靓丽，这样的反差感让她获得更多粉丝的喜爱。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7112365117454664229/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428704" packagename=""/>
+		</type>
+	</switch>
+</layout>
