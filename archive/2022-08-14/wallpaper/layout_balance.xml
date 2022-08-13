@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081401" updatetime="20220814">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="FAE4F9778BCBA3BA06F3290CF903C951.jpg" title="演技出色的男星" content="不断磨炼演技，不断超越自己，说他凭演技火出圈，罗晋当之无愧！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3622525.html" packagename=""/>
+			<image src="CCA44BED912955B81474683FB4453C0A.jpg" title="实力团宠万茜" content="为何万茜在《浪姐》中成团宠，带你看幕后故事，解开疑团.©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298677_0.html?0541" packagename=""/>
+			<image src="B429AE8AB41BA6472D8070841619D8FD.jpg" title="多变少女赖美云" content="赖美云发布绿野仙踪生日写真，穿露肩白纱裙浪漫梦幻。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7117512246669869572/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428577" packagename=""/>
+			<image src="71A5522EF82952A45D134180CE13D01B.jpg" title="娇俏可人虞书欣" content="虞书欣既有高雅气质，又有顶级明星的自信，不管在哪个圈子，她都是吸睛的存在。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216074.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
