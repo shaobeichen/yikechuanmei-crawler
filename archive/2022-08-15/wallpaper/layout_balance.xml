@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081501" updatetime="20220815">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="DED40D09C2D32348077CF99AE99FAA34.jpg" title="健身达人金晨" content="金晨从小练习跳舞，长大后坚持健身，还为新剧练出八块腹肌。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3622920.html?meetting=1650668435846" packagename=""/>
+			<image src="F292711F9DAE80DFE1FE13CA620A96E0.jpg" title="活出真我的杨紫" content="一路被黑，一路成长，杨紫活出了自己最真实的样子。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298541_0.html?0504" packagename=""/>
+			<image src="DA59A561300B03C188AF725AFE6F2AD4.jpg" title="王俊凯的爆发力" content="王俊凯的《重生之门》入围金鹰奖，成为S+++级别的爆款电视剧！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216047.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C27EFFA3B9DE5A345A5FFF34A45A9C14.jpg" title="美少女陈意涵" content="《星汉灿烂》陈意涵饰演娇纵任性的何昭君，虽然戏份不多却成功出圈。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7124974377350922782/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428557" packagename=""/>
+		</type>
+	</switch>
+</layout>
