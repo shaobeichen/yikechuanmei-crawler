@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081601" updatetime="20220816">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8E378F4E04C4EBA38BA5B41107D776FF.jpg" title="带攻气感的女星" content="娱乐圈的美女明星众多，但她们身上却有一种英气逼人的美，让人印象深刻。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/307345_0.html?7120" packagename=""/>
+			<image src="4E5E02AAA7E45A14F79039A3F94DFDF7.jpg" title="初恋女孩李兰迪" content="不管外界评论如何，她都能坚守初心，李兰迪不止有初恋脸，演技才是她的最佳武器。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625597.html?meetting=1659594039646" packagename=""/>
+			<image src="D3B11A719E52FE7195F6F75FB6C06C1A.jpg" title="旗袍美人周洁琼" content="从练习生到歌手到舞蹈导师到演员，周洁琼的每一次自我提升和转型都极其励志。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7131929331080839714/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428771" packagename=""/>
+			<image src="D6A0651E40F1D62594E6755E6A8D2E76.jpg" title="娜扎的造型惊艳" content="娜扎的一组造型走红网络，仪态端庄的她让网友看到了什么叫“东方美人”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217176.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
