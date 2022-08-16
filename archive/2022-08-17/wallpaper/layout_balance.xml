@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081702" updatetime="20220817">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C5ECE383CD644F558830329265F48104.jpg" title="刘诗诗自由绽放" content="刘诗诗身上总透着一份从容与淡然，她坦然做自己，不被外界影响。
+©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/307551_0.html?7122" packagename=""/>
+			<image src="04E8E9BBAECE42E2561A671653CFE051.jpg" title="宝藏男孩魏大勋" content="从默默无闻到综艺男神，魏大勋成功的背后，是一次又一次极致努力的拼搏。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625574.html?meetting=1659594038773" packagename=""/>
+			<image src="5A039F1B3BCF46D5899547FA76C218FA.jpg" title="李沁任嘉伦新剧" content="李沁新剧未播先火，在剧中她和任嘉伦上演了一场跨越千年的爱恋。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7130512690233000482/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428778" packagename=""/>
+			<image src="83209D53AD6FC62BAE0007B123BB7319.jpg" title="蔡文静新剧吸睛" content="蔡文静新剧开机，搭档圈内两位男神，让观众充满了期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217168.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
