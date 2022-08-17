@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081801" updatetime="20220818">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6C3FE8E4EEBD18C30D034E15F7B956A7.jpg" title="骨感女神孙怡" content="孙怡个人形象气质很出挑，演技优秀备受赞誉的她，深得网友们的喜爱和认可。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/262548_0.html?603" packagename=""/>
+			<image src="D78B225D896AC46C05BFD710C2974D19.jpg" title="孤勇者赵丽颖" content="7年龙套生涯，从平凡女孩儿一路逆袭，赵丽颖终于守得云开见月明，终成影视剧大女主。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625598.html?meetting=1659594039532" packagename=""/>
+			<image src="9ACFA2E2BC527A570E8C5E54A3DDB2A3.jpg" title="李易峰颜值回归" content="李易峰出席百花奖，生图颜值出众，网友：又被李易峰帅到了！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216634.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="FD41B601E945BE38349D2D45F81E4DEF.jpg" title="冰雨火" content="致敬黑暗中逐光前行的无名英雄，老戏骨王劲松、刘奕君实力加盟！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/i473O2j9Cw" packagename=""/>
+			<image src="9C911D909FE707A08BB5EE8A92D77284.jpg" title="白鹿新剧来袭" content="白鹿合作三位男神主演的《宁安如梦》已经正式官宣，让人颇为期待。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7130896464582033920/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428829" packagename=""/>
+		</type>
+	</switch>
+</layout>
