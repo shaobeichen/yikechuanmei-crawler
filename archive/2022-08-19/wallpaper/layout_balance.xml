@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022081901" updatetime="20220819">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="970C9C8D876D561FA45F74571D52D5A1.jpg" title="邂逅纯色经典" content="纯色系穿搭简约不失高级，减少视觉疲劳的同时也能轻松解决穿衣问题。图：后古摄影©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/226380?lock_screen_content_id=789" packagename=""/>
+		</type>
+	</switch>
+</layout>
