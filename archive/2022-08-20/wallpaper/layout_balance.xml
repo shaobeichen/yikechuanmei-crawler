@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082001" updatetime="20220820">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E39E0A4891140BC6A8291BAB9B6619C4.jpg" title="百变谭松韵" content="从《甄嬛传》中天真的淳儿，到《请叫我总监》中霸气的宁檬，谭松韵融入了角色，突破了自我。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625573.html?meetting=1659594040696" packagename=""/>
+			<image src="35FB8975510B49168EF9533125A45491.jpg" title="实力演员赵丽颖" content="赵丽颖用精湛的演技，演绎了一个个生动的角色，交出了优异的成绩单。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217169.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DE3E8640868F0A7F317745EF1632DDCF.jpg" title="沉香如屑" content="尽显中国传统文化之美，唯美意境引领仙侠讨论热潮。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hLRp3kdZwk" packagename=""/>
+			<image src="7F0AB91253FB3CA34122DAB358C3D0C9.jpg" title="彭昱畅的少年感" content="瘦下来的彭昱畅重回颜值巅峰，少年感满满！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7016335032193352231/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427816" packagename=""/>
+			<image src="DAFAA4486EE65C3636323A1B8B00DFA7.jpg" title="95后小花" content="影视、综艺与时尚三路并行，95后演员宋妍霏正在全面蓄力，绽放独特自我。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/311775_0.html?8103" packagename=""/>
+		</type>
+	</switch>
+</layout>
