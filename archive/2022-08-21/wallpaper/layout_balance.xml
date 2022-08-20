@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082101" updatetime="20220821">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1197059467CF0D1AAD3315F92D9B152A.jpg" title="气质女神宋轶" content="绝美狐狸眼妩媚娇俏，颜值演技她都有，她就是娱乐圈的演技派演员宋轶。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625553.html?meetting=1659593436236" packagename=""/>
+			<image src="C06FDCB740579602B53D110341265D62.jpg" title="男子汉韩东君" content="韩东君与李斯丹妮的表现，让他们的新综艺成功“封神”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216649.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DE5301851F055873A33C841AE9B14280.jpg" title="一秒CP达成" content="赵今麦郭俊辰牵手、接吻、结婚……时隔三年终于等到孩子长大了。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hMKNNlZ95u" packagename=""/>
+			<image src="5044E10F14C4A2C5F590DC03DCAD7F76.jpg" title="侧颜女神盘点" content="董洁的鼻子是直鼻中的典范，英挺的直鼻让她的气场瞬间拉满。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7089356512229327400/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428815" packagename=""/>
+			<image src="9DFD896283C1C8E66F5F1BB52FB1CF08.jpg" title="“拽姐”于文文" content="歌手出道却因电影歌曲爆火，如今凭借亮眼表演，于文文重回歌坛。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/312887_0.html?8111" packagename=""/>
+		</type>
+	</switch>
+</layout>
