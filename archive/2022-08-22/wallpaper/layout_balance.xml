@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082201" updatetime="20220822">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5D04A9EEF6BF98F5EEFA1ED96A7C0583.jpg" title="搞笑的迪丽热巴" content="可爱俏皮的迪丽热巴，在脱口秀中机智圆场，还展现“巴式”反催婚技巧，幽默有梗惹人喜爱。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625424.html?meetting=1658991638066" packagename=""/>
+			<image src="55E37746A9E4BAA00D51295DA3CD63E7.jpg" title="张艺兴的演员路" content="从爱豆转型为演员的张艺兴，向观众证明了配角并不比主角差！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216631.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="444E06B4C76CCA7BB89D0BA06AD41455.jpg" title="玫瑰之战" content="律师职场生存战！袁泉再返职场厮杀，携手黄晓明俞飞鸿搞事业，太飒了！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/i1Gjayzltu" packagename=""/>
+			<image src="D27D2453A3A0967A1A83A30A59C5DB00.jpg" title="特立独行的宋茜" content="喜欢打破规则的宋茜是一个特立独行的人，而这份独特给了她很多不一样的乐趣。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/307031_0.html?7115" packagename=""/>
+			<image src="7F800343616D6060AE32D05DB055AFF1.jpg" title="翩翩少年王俊凯" content="无论遇到什么困难，王俊凯都永不言退，如破茧成蝶般顽强成长。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7084186716336046604/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428882" packagename=""/>
+		</type>
+	</switch>
+</layout>
