@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082301" updatetime="20220823">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="EC5C0527884A900EF4BC25CD198E4BD0.jpg" title="温柔佳人刘诗诗" content="人生路漫漫，变化的是时间，不变的是刘诗诗对演技的打磨和对角色塑造的用心。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625567.html?meetting=1659594039244" packagename=""/>
+			<image src="B39C5A7EB3F8D5DFED6C0CF47422B792.jpg" title="金晨华丽回归" content="一代师姐金晨再回《乘风破浪3》，红短裙耀眼明艳，熟悉的BGM响起，还是熟悉的味道！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hNjf0kNLGw" packagename=""/>
+			<image src="CCA8EF0F70920BB9303BB19771FE491A.jpg" title="美女演员孟子义" content="孟子义就像画里走出来的古典美女，成为众多影视作品中的一道清新的风景。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/311786_0.html?8104" packagename=""/>
+			<image src="696F7148FFEE309FC7A2F04AE2928E4F.jpg" title="李冰冰身材管理" content="李冰冰除了冻龄外，常年不变的还有她近乎完美的身材。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217054.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3C008BD69A6518E8088178D1B65C588F.jpg" title="国民女星关晓彤" content="关晓彤是大家看着长大的女明星，因为经常在剧中演别人的女儿，所以有着“国民闺女”之称。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7123215405564297767/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428989" packagename=""/>
+		</type>
+	</switch>
+</layout>
