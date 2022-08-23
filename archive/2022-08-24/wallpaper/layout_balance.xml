@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082301" updatetime="20220823">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="45A06A063DD5AA5DBBB462115FA8021F.jpg" title="高级原木风" content="原木风家具的特点是简约实用，其特有的自然纹理给人以温馨舒适，放松不压抑的感觉。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7082318266831733281/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428891" packagename=""/>
+			<image src="F792430D570643DA6840C59B42ECA0E9.jpg" title="满天星的花语" content="白色是纯洁的颜色，满天星又可表达爱情，因此可将白色的满天星送给爱人，表达自己纯洁的爱意。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7075990679540744735/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429016" packagename=""/>
+			<image src="13402D253E84B542BDCE7F08E8E282C1.jpg" title="夏花养殖冷知识" content="在花瓶里，加入一点啤酒，这样便能延长鲜花的保鲜期！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217021.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="A209C9B7A281B08E8F2238CFF90F6145.jpg" title="家居极简收纳术" content="保持桌面整洁的秘诀：不在桌上放东西，用完的东西马上拿走！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_216951.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
