@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082501" updatetime="20220825">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="56747A68BD8FA2AB4EE3FAD86F6E2430.jpg" title="动态美人鞠婧祎" content="酒红色亮片连衣裙加金色系配饰，清新甜妹化身甜酷辣妹，鞠婧祎在美妆界再掀起仿妆热潮。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625423.html?meetting=1658991638192" packagename=""/>
+			<image src="E7799EF30E7660471506514B25063D2E.jpg" title="隐藏赢家吴谨言" content="这个夏天，吴谨言有了新的身份。她不断挑战自己，无论是演戏，还是唱跳，她都能征服全场。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/312904_0.html?8112" packagename=""/>
+			<image src="B6BBD81C0460D36B108EFDFE0295B05F.jpg" title="国民闺女关晓彤" content="正是因为关晓彤将演戏看成不能输的事业，所以她才能成为当之无愧的新时代小花。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217045.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="4F55E338819B3E4E08F10CEF2393DAB9.jpg" title="蒋勤勤优雅知性" content="蒋勤勤气质古典，温柔婉约，是位如水一样的女子。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7107063456112689664/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429086" packagename=""/>
+		</type>
+	</switch>
+</layout>
