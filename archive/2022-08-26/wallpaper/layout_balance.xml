@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082601" updatetime="20220826">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D68B4774B98A06C483EBAD1285691DD0.jpg" title="坚守初心的王源" content="年少出道的王源，一直坚守着热爱音乐的初心，全力以赴奔赴梦想。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/303978_0.html?6225" packagename=""/>
+			<image src="3EEF483D2680B3A083BBFAF0439E35BC.jpg" title="全能女神娄艺潇" content="出道就是巅峰，做得了演员，唱得了歌剧，娄艺潇就是娱乐圈中的斜杠艺人。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625456.html?meetting=1658991637186" packagename=""/>
+			<image src="20B72F48C55DE89A156DE139FBD0E5B8.jpg" title="章若楠甜度爆表" content="章若楠在综艺《你好星期六》中，再一次挑战了婚纱造型，惊艳四座。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217043.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F505393FB5EEC969A30A8D424E05BD0E.jpg" title="沈月甜剧来袭" content="沈月总能自如拿捏高糖小甜剧，她那富有感染力的笑容，足以治愈每个人的心。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217914.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="77AD844D1C89FCE02008847530918ADA.jpg" title="刘诗诗的穿搭" content="刘诗诗的穿搭优雅又吸睛，干净又清冷，正如她给大众的印象，不张扬、不刻意，简而不凡。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7134493707784667685/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429119" packagename=""/>
+			<image src="B5B64D7F8DDF429F877E7EB6BC778297.jpg" title="“小猎豹”郑恺" content="他是《奔跑吧》里的小猎豹，在贡献许多综艺名场面的同时，他也是影视剧中深受大众喜爱的演员。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7135262622219338243/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429099" packagename=""/>
+		</type>
+	</switch>
+</layout>
