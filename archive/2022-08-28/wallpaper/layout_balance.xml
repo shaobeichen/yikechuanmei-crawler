@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082801" updatetime="20220828">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E997799C4133203361E3DC69E8408A7A.jpg" title="李现认真做自己" content="优秀的演员眼睛会说话，单靠眼神就能传递出角色的灵魂，李现就是如此。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217036.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="40C59E9EEE75A282298627ABDB882C05.jpg" title="神奇的角色设定" content="这些角色的设定平平无奇，出演的演员却个个长相惊艳，让人惊喜！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625940.html?meetting=1660803036067" packagename=""/>
+			<image src="FB424D9CE1043CAF7D98A08B3EC90EAA.jpg" title="二十不惑第二季" content="关晓彤携姐妹团再燃青春，上演跌宕起伏的25岁，呈现后青春众生相。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/i9beLAYPQs" packagename=""/>
+			<image src="D3E8B728542975197734A122A90FBBC8.jpg" title="虞书欣魅力独特" content="见惯了虞书欣平日里的搞怪模样，如此恬静温柔的她，真是让人眼前一亮！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314329_0.html?8210" packagename=""/>
+			<image src="9E329055DA8D095B0C62857C1671AB80.jpg" title="王俊凯演技好评" content="王俊凯打破常规，不断挑战自我，在电影中的全情投入，让观众见证了他的成长。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7133880174810087936/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429200" packagename=""/>
+		</type>
+	</switch>
+</layout>
