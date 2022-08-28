@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022082802" updatetime="20220828">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="4A71EB0686AD14912A27C9E0A944D26C.jpg" title="万能穿衣法则" content="取长补短式穿搭的灵活性极强，能帮助不同身型的女孩找到最适合自己的时髦法则！图：辛伊©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/226342?lock_screen_content_id=794" packagename=""/>
+			<image src="242C85D2D86D29E3E8C75C08D2A47B55.jpg" title="打造清新穿搭" content="舒适的面料搭配简单的配色，无形中为穿搭减负，轻松奔赴早秋时光。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/100001/12641" packagename=""/>
+		</type>
+	</switch>
+</layout>
