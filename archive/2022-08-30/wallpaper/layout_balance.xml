@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022083001" updatetime="20220830">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CE818D45B1146DE263B3BD032C4A2252.jpg" title="人生赢家万茜" content="当歌手发专辑，做演员和国际导演合作，如今的万茜可谓是人生赢家。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625921.html?meetting=1660803035019" packagename=""/>
+			<image src="D1DDD190410791B1CA49A1A888D7F14D.jpg" title="披荆斩棘张云龙" content="张云龙回归披荆斩棘舞台，再一次握着麦上台表演，更加率性洒脱。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/iay2ZJmZW0" packagename=""/>
+			<image src="AD6B185CEF9A63CF29FE0200D8F0490E.jpg" title="杨超越谧蓝大片" content="杨超越身着浅蓝纱裙，海藻般的浓密卷发披散下来，仿佛是坐在礁石上的人鱼公主。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314204_0.html?8209" packagename=""/>
+			<image src="BF60E5F1B5BB444CAECED9B00AEA77AB.jpg" title="银幕上的奚梦瑶" content="以模特身份闻名的奚梦瑶，演起电影来同样引人注目。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7071247874423620127/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=419609" packagename=""/>
+			<image src="2D7A3080D0D877578AE84C2A49C21D0D.jpg" title="王俊凯带来惊喜" content="王俊凯打开了电影的大门，他不仅对电影有了新的认知，还感受到电影强劲的生命力。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217537.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
