@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022083101" updatetime="20220831">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="31FC8CBA907BBF20ACAE5D1EF512CE47.jpg" title="古装女神宋轶" content="《风起洛阳》温婉，《赘婿》精练，宋轶的古装扮相从来都不会让观众失望。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625896.html?meetting=1660803035428" packagename=""/>
+			<image src="D83D8BAA2E8E78A92A6704EFB25166D5.jpg" title="龚俊解锁新角色" content="科技与现实碰撞，人类与AI置换，龚俊解锁人工智能角色，挑战全新风格！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314131_0.html?8205" packagename=""/>
+			<image src="203C4F161C96FA5BBAAF82E2099A14A7.jpg" title="披荆斩棘刘恺威" content="风风火火轰轰烈烈，唱着歌的刘恺威眼里依旧滚烫。 ©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/iay2ZJmZW0" packagename=""/>
+			<image src="A5CC3DD17FE4E89476E332522641BD8F.jpg" title="周也再拿王牌" content="周也新剧携手搭档演绎绝美爱恋，这对CP不仅颜值登对，而且演技也在线。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217534.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="935C800F3406A031884E1B4092D45B8D.jpg" title="人间清醒春夏" content="春夏就像是娱乐圈里的一股清流，在这个风云变幻的名利场里，她也能不急不慢地生活、拍戏。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6948029281352073739/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429303" packagename=""/>
+		</type>
+	</switch>
+</layout>
