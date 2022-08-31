@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090101" updatetime="20220901">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="32DF8E8DE76901EE3D246A44D7F247E1.jpg" title="拼命三娘吴谨言" content="从魏璎珞到乘风破浪的姐姐，吴谨言拼出了属于自己的大女主舞台。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625943.html?meetting=1660802438896" packagename=""/>
+			<image src="627DFB16D745B1D8ED1E86AC1D04F4A3.jpg" title="不忘初心的任敏" content="从现代剧到古装剧，从现实题材到科幻题材，任敏对待每一个角色都全情投入。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314114_0.html?8204" packagename=""/>
+			<image src="E13E90E172C8E7C210E4C1B6BDFEAC25.jpg" title="温柔绅士李易峰" content="很多人都知道李易峰帅气绅士，殊不知他其实也是一个“搞笑男孩”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217541.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DC67B4B2E4A1A330C38BC1D3508F712C.jpg" title="演技派李一桐" content="李一桐凭借不凡相貌和慵懒不羁的姿态收获观众喜爱，在《苍兰诀》中饰演司命星君一角美翻观众。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7134283140729979426/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429280" packagename=""/>
+		</type>
+	</switch>
+</layout>
