@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090201" updatetime="20220902">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A8B3B8058C074B3046E7E878C87E8309.jpg" title="柳岩不断往前冲" content="柳岩让自己“一直都在准备当中”，因为她要为不同的可能性、不同的行当打好基础。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217531.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8BC8C194C0463A7304E92190ED0EA809.jpg" title="新生小花赵今麦" content="从《少年派》到《开端》，赵今麦凭着出色的演技和漂亮率性的长相，被称为“国民闺女”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7125400727236903435/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429302" packagename=""/>
+			<image src="3B601AF2C420803346C442D361B0FC50.jpg" title="明星追剧也疯狂" content="实时播报追剧动态，见人就安利，没想到明星追起剧来一样“上头”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626102.html?meetting=1662006659224" packagename=""/>
+			<image src="AD367BC1D485C7D4A4FC175F28357C6A.jpg" title="王鹤棣的翻身仗" content="新生代演员王鹤棣演技快速提升，在爆火影视剧中大放光彩，强势逆袭！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314814_0.html?9101" packagename=""/>
+		</type>
+	</switch>
+</layout>
