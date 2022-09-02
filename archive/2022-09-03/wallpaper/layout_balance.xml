@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090301" updatetime="20220903">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3FE63261FE279E0C9ADF38C34B5C251A.jpg" title="御姐范女神王鸥" content="正因为王鸥对生活和事业充满了“野心”，才让她成功地在娱乐圈站稳了脚跟。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217552.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="976C18FBA61473D222B7056B68658520.jpg" title="闪光少女白鹿" content="非科班出身的白鹿凭着不矫情不做作的性格，赢得了很多人的喜欢。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7133501806302528041/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429039" packagename=""/>
+			<image src="A1F29883C2DB3ADA93CA6BA37D8EF1F2.jpg" title="纯爷们男星" content="这些男星杀出重围：白宇成熟、霍建华玩世不恭、黄轩洒脱不羁。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626104.html?meetting=1661497239342" packagename=""/>
+			<image src="6CE564E6C37B3B217EDB1021449BCF92.jpg" title="杨紫新剧获点赞" content="这部剧凭借甜虐交织、剧情点密集、画面精致等诸多亮点，获得观众的喜爱。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315279_0.html?9108" packagename=""/>
+		</type>
+	</switch>
+</layout>
