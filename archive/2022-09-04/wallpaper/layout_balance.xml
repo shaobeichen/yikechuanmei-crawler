@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090401" updatetime="20220904">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CF2A9D7184FE30847295CAC5904E5152.jpg" title="新生代明星盘点" content="近些年来，影视圈的“后浪”气势汹汹，涌现出了一大批新生代小花。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217558.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="9B41ECD7A52EA07643C5B05B984F9D79.jpg" title="独立女性董璇" content="回归单身生活后，董璇真正让人们看到了独立女性的温柔与从容。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7131519250119836200/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429041" packagename=""/>
+			<image src="B3CE17F905523E323EB34AA2131FE051.jpg" title="焦俊艳专注演戏" content="被调侃“剧抛脸”，焦俊艳淡然一笑，表示享受在不同角色中切换、探索的状态。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626068.html?meetting=1661497238821" packagename=""/>
+			<image src="F273EF8C359CFAF2C8368CD7CC27D24C.jpg" title="正能量迪丽热巴" content="除了演戏之外，给观众带来正能量这件事，是迪丽热巴一直坚持在做的。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315288_0.html?9109" packagename=""/>
+		</type>
+	</switch>
+</layout>
