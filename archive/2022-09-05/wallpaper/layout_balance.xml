@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090501" updatetime="20220905">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="75C417340849ADA4A23F1E6264FB00A7.jpg" title="舞蹈出身的明星" content="盘点演艺圈中一舞惊人的女明星，她们舞蹈出身，每一个都是实力派！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_217560.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="2FC4A3C6DB45EABDEC69DC53AB8A5C24.jpg" title="“少女”殷桃" content="殷桃的美，不是孱弱或者骨感，而是有力量感、有一点英气的神韵。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7137499482526155279/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429269" packagename=""/>
+			<image src="A391C4DF364EDD197731243D817A77DA.jpg" title="人气女王赵丽颖" content="人品、戏品兼具，赵丽颖的成功离不开她的好人品。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626098.html?meetting=1661497239453" packagename=""/>
+			<image src="FEAD24A9DF2DA5EA0CB73423BE5EDA55.jpg" title="鞠婧祎逆袭成功" content="鞠婧祎意识到自己的成长与成熟，更自然地与周遭沟通，更好地理解角色并表达自我。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315238_0.html?9107" packagename=""/>
+		</type>
+	</switch>
+</layout>
