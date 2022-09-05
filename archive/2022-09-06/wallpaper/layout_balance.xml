@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090602" updatetime="20220906">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="23159977CA1A371A74AC1014A750E1F6.jpg" title="金晨影视大盘点" content="在影视剧中金晨总能给人留下深刻印象。不管是现代装扮还是古代装扮，她的出镜造型都那么出挑。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7075881595881783841/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429273" packagename=""/>
+			<image src="D61F635ED90F15A1C735EA9038A3CED7.jpg" title="逆风生长毛晓彤" content="毕业两年没工作，为演戏大冬天被绑几个小时，如今毛晓彤终于熬出来了。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626111.html?meetting=1661496635641" packagename=""/>
+			<image src="853420EF2321450A3C3025C57DD6D748.jpg" title="下半年新开拍剧" content="女星们开启新剧拍摄模式，刘诗诗再演武侠古装剧，侠女风范十足！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314856_0.html?9103" packagename=""/>
+			<image src="D65720BA5AAFADB8250E18C4F0BBA3BE.jpg" title="宋佳演技出彩" content="宋佳不仅会选剧本，而且自身的演技也很出彩，获得了业内外人士的一致称赞！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218051.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
