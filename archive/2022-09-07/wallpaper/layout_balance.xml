@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090701" updatetime="20220907">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E694827FD7EB25592A5EC9709EEFB365.jpg" title="小荧幕掀起热潮" content="今年的小荧屏很是热闹，各类剧集争相霸屏，让观众大饱眼福。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314189_0.html?8207" packagename=""/>
+			<image src="B00E4F885EB7D8E2E98E408B425708EA.jpg" title="倪虹洁做回自己" content="倪虹洁不忘初心，饰演了一个又一个小角色，靠演技得到了业界和观众的认可。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218056.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="31F4ECF3E3997AAB569084C6FEB6CFD4.jpg" title="实力歌手张靓颖" content="张靓颖是专为影视剧歌曲而生的人，那些年她唱的歌你可能都听过。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626278.html?meetting=1662456033315" packagename=""/>
+			<image src="E3CD1F5635D62F5F2553D610F703ED2E.jpg" title="邻家女孩章若楠" content="章若楠向往生命的盎然，享受美食的力量，在《中餐厅6》中给大家留下了深刻的印象。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7131285123797910023/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429529" packagename=""/>
+		</type>
+	</switch>
+</layout>
