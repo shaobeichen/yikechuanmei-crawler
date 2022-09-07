@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090801" updatetime="20220908">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="197D9D382647D9DA661EEB88C8D419C2.jpg" title="赵露思实力圈粉" content="赵露思处于事业高速发展阶段，正在为成为“好演员”而不断努力着。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315302_0.html?9110" packagename=""/>
+			<image src="F98F2F2EEEA28D9B8FE7BF030427098B.jpg" title="陈都灵形象转变" content="陈都灵从清纯“小耳朵”成长为标志美人，剧中的造型美出新高度！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218058.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8FA0B6F56493019F47DF430628224AE4.jpg" title="新锐演员韩东君" content="从玄幻剧大男主，到现实题材的配角，韩东君对演艺事业的热爱让人敬佩。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626287.html?meetting=1662456033661" packagename=""/>
+			<image src="48B196DEA6DA3AA5D02DB2B653FFB182.jpg" title="鬼马精灵赖美云" content="小个子穿搭模板赖美云，简单的便服，也能呈现出满满时尚气息。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7140143517216571918/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429525" packagename=""/>
+		</type>
+	</switch>
+</layout>
