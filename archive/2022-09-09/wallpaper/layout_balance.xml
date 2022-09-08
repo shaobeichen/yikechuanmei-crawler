@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022090901" updatetime="20220909">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8E655C3AAFC69D7A41D988AE63C43610.jpg" title="关晓彤收获好评" content="关晓彤青春剧本色出演，演技大爆发，赢得了口碑和观众的青睐。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/313967_0.html?8203" packagename=""/>
+			<image src="8B4635FAED0BC2FE2B41ABDCBD7AE77C.jpg" title="李宇春长红不衰" content="李宇春从“草根”到“巨星”，她凭借自己的实力，火了整整十七年。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218061.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="A438E97F94414662B2BB12E990F76F2D.jpg" title="刘亦菲颜值在线" content="《梦华录》后刘亦菲又一新剧将袭。总是古装造型的刘亦菲，这次现代装造型也十分惊艳。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7109351601067786793/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429519" packagename=""/>
+			<image src="01E1B457FDDE03C803C1CFD8A1F1E252.jpg" title="四川辣妹陈钰琪" content="因太爱演戏，她熬夜看剧本到哭，陈钰琪用自身经历证明，娱乐圈看的是实力。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626288.html?meetting=1662610834640" packagename=""/>
+		</type>
+	</switch>
+</layout>
