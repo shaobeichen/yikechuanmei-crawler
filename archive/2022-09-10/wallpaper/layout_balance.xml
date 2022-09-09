@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091001" updatetime="20220910">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3696F1CE369F820171477CB70B33980C.jpg" title="叔圈男神李光洁" content="李光洁对角色的研究和琢磨程度都会让观众感慨：“有他，剧稳了！”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7130200668010922532/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429272" packagename=""/>
+			<image src="8A7ADCFA8A35ECEF81BFEFAC6C84BA87.jpg" title="周也青春绽放时" content="从初涉表演的懵懂到有自己的理解和尝试，周也在成为一名演员的路上走得扎实稳健。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315078_0.html?9105" packagename=""/>
+			<image src="F7CE8BDD300F1082FADE1A2476BF8F8E.jpg" title="宋轶携新剧来袭" content="宋轶经过这些年的打拼，出演了许多经典热门的古偶剧，为大众所喜爱。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218063.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="804A72A6F1A4A3FE672E497A040AF78E.jpg" title="谭松韵苦尽甘来" content="历经磨难后，谭松韵用不懈的努力告诉我们：越努力越幸运。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626280.html?meetting=1662625836421" packagename=""/>
+		</type>
+	</switch>
+</layout>
