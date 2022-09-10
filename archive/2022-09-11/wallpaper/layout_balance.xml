@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091101" updatetime="20220911">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7A3C0A48E678F099BD6BE9C6F508A54D.jpg" title="王源新歌首发" content="王源的新歌，充满了青春与活力，让网友不禁怀念起自己的学生时代。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218066.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8BA82B674A970914F825EBC237804E36.jpg" title="赵樱子气质脱俗" content="赵樱子是一位清纯可人的山东姑娘，五官精致大气，高挑的身姿，展现不凡气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7140154250583097867/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429602" packagename=""/>
+			<image src="1ABE465C44804EF12F6635D640BBBD56.jpg" title="黄景瑜新剧来袭" content="黄景瑜新剧厚积薄发，人设反差感太大令人惊喜，具备爆款潜质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316190_0.html?9205" packagename=""/>
+			<image src="82780D0621F0670357EDDD012B5459F4.jpg" title="校花演员吴倩" content="吴倩演技精湛、自带灵气，仅凭一部剧就奠定了校园剧女神的地位。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626513.html?meetting=1662626434189" packagename=""/>
+		</type>
+	</switch>
+</layout>
