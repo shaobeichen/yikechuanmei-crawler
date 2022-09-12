@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091301" updatetime="20220913">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2FD2C518E33FF2D6A0255CC2482A4192.jpg" title="冻龄女神徐百惠" content="徐百惠在偶像剧流量当道的时代，开辟了自己的一方天地。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6867427062437642752/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429513" packagename=""/>
+			<image src="6683147962739D6ED452F32383DDF3AE.jpg" title="孟子义口碑逆袭" content="孟子义用具有感染力的表演，让追剧的观众产生共情，沉浸剧中无法自拔。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316439_0.html?9209" packagename=""/>
+			<image src="B4B615A5DD98EB606C27A7077472802F.jpg" title="实力派演员王凯" content="王凯再度出演“大制作”，新剧造型帅气又吸睛！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218544.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="44ECA86509AFDD093F65C9B6BD812788.jpg" title="不被定义的李纯" content="反派专业户是对李纯最大的刻板印象，从阴柔的卫嬿婉到追求完美的刘净，李纯在不断突破自我。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626496.html?meetting=1662627036414" packagename=""/>
+		</type>
+	</switch>
+</layout>
