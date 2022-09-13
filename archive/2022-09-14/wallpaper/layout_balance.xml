@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091401" updatetime="20220914">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="32207E4B50A4C707A3095038CFF47E1E.jpg" title="赵今麦破局成长" content="赵今麦打破了荧幕的“闺女”形象，不知不觉已经出落成能扛起口碑的演技派演员。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/315057_0.html?9104" packagename=""/>
+			<image src="402E9D5595E82CBA1E8706B24A92A907.jpg" title="实力派演员许凯" content="21岁出道，凭借《延禧攻略》饰演富察·傅恒一角迅速走红，给观众留下了深刻印象。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7134239742824612352/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429612" packagename=""/>
+			<image src="249E6E04361EF07C926EB405D04928FA.jpg" title="乐观女孩虞书欣" content="虞书欣有一种神奇的魔力，她可以迅速把负面情绪置之脑后，不断给人带来快乐。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218545.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DD75EE9AB9F07FF802D64C3FFFB54CB3.jpg" title="杨颖古装大赏" content="《太极》里的英气，《风起陇西》里的美艳，杨颖的古装扮相给观众带来了太多惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626412.html?meetting=1662764437422" packagename=""/>
+		</type>
+	</switch>
+</layout>
