@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091501" updatetime="20220915">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5E7685691E76756E6D27CEE827E6C9B7.jpg" title="内娱古典美人" content="祝绪丹着一袭白裙，拂长袖起舞，轻盈飘逸，美若天仙。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7140540559646786059/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429608" packagename=""/>
+			<image src="BB08F0943AFF7C994827AC1CF10AC7C4.jpg" title="刘敏涛新剧杀青" content="科班出身的刘敏涛用演技圈粉，她的新剧不仅未播先火，而且有望成为爆款！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218554.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C5175DC77029E6532DA434D3120DEAA8.jpg" title="舞台女王佟丽娅" content="从花车上的舞者到春晚主持人，从青涩的李再爱到可爱的安琪，佟丽娅变成了真正的舞台女王。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626503.html?meetting=1662627036006" packagename=""/>
+			<image src="24ADEE954E54F3B5EF080C9AF0107589.jpg" title="苏有朋戏曲唱腔" content="音乐表演，不止于音乐，舞台是能够大胆做梦的地方，一起看他们的精彩演绎。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316389_0.html?9208" packagename=""/>
+			<image src="BBB9C1A517B91DFACAD3AFAB7307ABAA.jpg" title="覆流年" content="爽文大女主！《覆流年》邢菲、翟子路、经超的极致虐恋。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/ikMRjFB9Dy" packagename=""/>
+		</type>
+	</switch>
+</layout>
