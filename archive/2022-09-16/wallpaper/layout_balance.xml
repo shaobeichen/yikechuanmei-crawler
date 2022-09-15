@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091602" updatetime="20220916">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="613478C0EDF661BFD9CC3CA235A3174E.jpg" title="爱豆转型当演员" content="从练习生到歌手到舞蹈导师到演员，周洁琼的每一次自我提升和转型都非常励志。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7140551554876178948/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429607" packagename=""/>
+			<image src="509892B6BE5E6B42CE9880FB8037A833.jpg" title="章若楠实力圈粉" content="章若楠出得厅堂，入得厨房，不作不闹，不争不抢，确认令人心生好感。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316211_0.html?9206" packagename=""/>
+			<image src="9C1C2EAD2080484353990A1910D1D9B6.jpg" title="高挑冷艳的张俪" content="张俪凭借美貌吸引了不少人的目光，她肤白貌美配上大长腿，简直是女团的标配！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218556.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F13D876BC4C55E9B5D8C70489FEF6FAB.jpg" title="百变演员白敬亭" content="开朗大方的陆之昂，高冷帅气的邢克垒，白敬亭用这些角色告诉你，他可不仅仅是位“综艺咖”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626447.html?meetting=1662764437314" packagename=""/>
+			<image src="84C9E7DA9270416099AACFA8BE135ADE.jpg" title="她们的名字" content="金世佳饰演女主下属，颜值过硬，工作技能满分。该剧也从不同维度提供更多女性视角，收获好评！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/ip3ElmWjWU" packagename=""/>
+		</type>
+	</switch>
+</layout>
