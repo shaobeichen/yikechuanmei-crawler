@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091702" updatetime="20220917">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4AD3B57569B535A938B66E913143120D.jpg" title="王丽坤新剧来袭" content="王丽坤新剧，不管是特效还是布景，都让观众感受到了满满的诚意。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218567.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="6AE0C91A1AAD91610EC158A62E66F6B0.jpg" title="气质美人章子怡" content="章子怡漂亮又有张力，美得摄人心魄，被称为“声色艺全的刀马旦”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626504.html?meetting=1662764437208" packagename=""/>
+			<image src="8D44A2D73E33751AA7B6B2337758EAAC.jpg" title="简言的夏冬" content="以为是敌人实则队友，朱亚文和万茜加起来800个心眼子，爽爆！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/ifyw6AkyaI" packagename=""/>
+			<image src="7D21684DCE8075B13791F453145E206E.jpg" title="令人惊喜的宋茜" content="作为演员的宋茜，不断挑战自我，给观众带来更多好的角色，逐渐建立起自己的天地。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317207_0.html?9307" packagename=""/>
+			<image src="B1FF6CB8B250B8C868C09FC7F231A49B.jpg" title="刘诗诗裙装穿搭" content="刘诗诗晒秋日时尚造型写真照片，低头沉思显尽悠闲静谧时光。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7018743644018491912/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429796" packagename=""/>
+		</type>
+	</switch>
+</layout>
