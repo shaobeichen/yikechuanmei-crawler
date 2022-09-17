@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091802" updatetime="20220918">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="63EF23ECE1DB17D4983CCD04B7C7BB1B.jpg" title="古风美人鞠婧祎" content="鞠婧祎的古装照让人赏心悦目，双眸似一汪清水，清新脱俗美若天仙！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316046_0.html?9202" packagename=""/>
+			<image src="0294C77CFB912336CA2921F17BDDC169.jpg" title="拼命三娘柳岩" content="除了美貌，柳岩还有很多面值得被看见，《梦华录》的孙三娘仅仅是个好的开始。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626233.html?meetting=1662456033457" packagename=""/>
+			<image src="B705414F5E8B948CD0783CCD4E8081D9.jpg" title="许佳琪风格百变" content="许佳琪时而优雅高冷，时而酷飒有型，她可以是御姐仙女，也可以是可爱甜妹。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218568.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="CAACA7B36AFEF6477F00549C7FC185D8.jpg" title="亲爱的生命" content="阵容奢华！宋茜、王晓晨穿白大褂演白衣天使。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/iqAnmavEfm" packagename=""/>
+			<image src="F5BE08B2632DD495CCC4AC5769AD9104.jpg" title="贵公子井柏然" content="井柏然的人品和演技让他备受青睐，不少大制作的作品都找他担任男主，期待他的待播剧。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7058563023031501342/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429767" packagename=""/>
+		</type>
+	</switch>
+</layout>
