@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022091902" updatetime="20220919">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B389BD2AD031161CAB1B7900EBED0015.jpg" title="赵丽颖花絮曝光" content="赵丽颖用演技征服着观众，她塑造的角色总是能给观众带来惊喜！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218872.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="00CF1215D205B54C81733D2B974904FF.jpg" title="甜妹赵露思" content="剧中是甜宠担当，剧外被赞人间清醒，她实现了网红到明星的华丽逆袭，她就是赵露思。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626540.html?meetting=1662764437040" packagename=""/>
+			<image src="7D2B9844FFCBB5CA4AA868630379C93D.jpg" title="王俊凯突破自我" content="为力求真实的角色表现，王俊凯在电影中突破自我，精益求精。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317031_0.html?9301" packagename=""/>
+			<image src="294D2CABCC9CE735C317A4E6D51331ED.jpg" title="美少女徐艺洋" content="徐艺洋作为新生代少女偶像，凭借甜美的气质吸粉无数。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7094871068870967839/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429793" packagename=""/>
+		</type>
+	</switch>
+</layout>
