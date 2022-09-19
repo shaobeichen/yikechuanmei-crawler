@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092001" updatetime="20220920">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D7F1205E3AE13DB3F2981E360E1C75A9.jpg" title="素颜女神王丽坤" content="凭一张素颜照火出圈后，王丽坤被名导相中出演《七剑下天山》，从此片约不断。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626539.html?meetting=1662764436596" packagename=""/>
+			<image src="D642FD4EEE9760C75F0AB51541B92EAF.jpg" title="唐嫣晒初秋随拍" content="唐嫣分享初秋随拍，展露治愈甜美笑容，身穿米白色毛衣，显得温柔大气。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317306_0.html?9310" packagename=""/>
+			<image src="57740D6CE48CBAA25EF76C23A64AAA64.jpg" title="哈妮克孜的美" content="哈妮克孜从小就是美人坯子，父母为她取名哈妮克孜，在维语中的意思是“女子中的翘楚”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7133838693974114856/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429867" packagename=""/>
+			<image src="9DF78E98E4D61D9C6692184C092CCF94.jpg" title="白鹿出演仙侠剧" content="白鹿再次挑战仙侠剧，光看演员阵容，就让观众对该剧充满期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218910.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
