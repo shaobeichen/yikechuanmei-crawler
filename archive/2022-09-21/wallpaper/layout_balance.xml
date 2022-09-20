@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092101" updatetime="20220921">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="DC14802D26608BD77278674C44F3C7A4.jpg" title="百搭女星杨紫" content="细数近些年与杨紫搭档过的男明星，个个都拥有高颜值和好演技！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317047_0.html?9303" packagename=""/>
+			<image src="48C73A64356471A0DC08446A1BC1BEBF.jpg" title="青春女星陈意涵" content="陈意涵身穿中国风的新式旗袍来到山林中，长发用流苏玉簪随意一插，美得清新灵动，浑然天成。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7143533604977558048/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429798" packagename=""/>
+			<image src="FCD703774845DB2940BACC1D113818C8.jpg" title="马伊琍事业重启" content="马伊琍迎来事业“第二春”，46岁的马伊琍，依旧形象好气质佳，新剧一部接一部。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218919.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="076DCBADCB68A6CA9036E178B28E7CF3.jpg" title="实力演员宋祖儿" content="既敢于演配角，又敢于突破自我，因为宋祖儿相信：好演技不会被埋没，好角色自己会说话。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626742.html?meetting=1663662636752" packagename=""/>
+		</type>
+	</switch>
+</layout>
