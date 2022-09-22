@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092301" updatetime="20220923">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="105022803E44B566EECE1A2EA9A0D9C2.jpg" title="新晋男神王鹤棣" content="王鹤棣主演的电视剧《浮图缘》首发预告，他在剧中扮演了让人闻风丧胆的“肖掌印”，引发观众期待。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7143512763598389793/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429876" packagename=""/>
+			<image src="B04A591020965500193AB632D085316B.jpg" title="独立女性张雨绮" content="张雨绮凭借霸气的人设和直爽的性格，获得了广大观众的青睐。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218954.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C817427A5D562C6B1ED22AD343614190.jpg" title="职场女神宋茜" content="宋茜新剧收视率登顶，昔日女团队长终于转型成为成熟女演员。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626768.html?meetting=1663662636166" packagename=""/>
+			<image src="DB2FB2C7C2C3B2A030094C3EE8731E04.jpg" title="唐艺昕幸福秘诀" content="从恋爱时像偶像剧一般的甜蜜，到如今婚后生活，唐艺昕依旧过得如此浪漫。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318148_0.html?9407" packagename=""/>
+		</type>
+	</switch>
+</layout>
