@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092401" updatetime="20220924">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A72A9BCBEA9F834B8024E3845E14C6C3.jpg" title="黄圣依影视盘点" content="盘点黄圣依主演的影视剧，每一部都堪称经典！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218961.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="AE4B2F61512BB27AAD58DBD866D15EE2.jpg" title="芭蕾小仙女" content="张艺凡用一支舞惊艳观众，刷爆社交平台，获得“芭蕾小仙女”的美称。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7134602086440256040/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430041" packagename=""/>
+			<image src="B982222CD6592063A94451D5FE69E7FC.jpg" title="金晨秋装大赏" content="金晨沙滩秋装大秀美图释出，针织毛衣配优雅的拖地长裙，凸显温婉大气的气质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317835_0.html?9402" packagename=""/>
+			<image src="03D44B800F5AADD38A65BF858BF2C7B8.jpg" title="关晓彤综艺造型" content="古装造型柔美，红装造型俊朗，关晓彤的综艺造型可谓是风格百变。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626676.html?meetting=1663312234488" packagename=""/>
+		</type>
+	</switch>
+</layout>
