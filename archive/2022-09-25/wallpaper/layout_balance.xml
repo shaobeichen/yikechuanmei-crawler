@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092501" updatetime="20220925">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="43678CE325DF3AA449B702CCCFF09220.jpg" title="赏龚俊油画大片" content="龚俊这次的复古写意大片充满油画质感，每一张都像是精彩绝伦的人像艺术品。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/316373_0.html?9207" packagename=""/>
+			<image src="6D09D8C607B23BB1E7414DC6D8712F90.jpg" title="赵丽颖拍戏趣事" content="细节见人品，小事见态度，《有匪》群演爆料：“赵丽颖常请喝饮料，从不摆明星架子。”©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626282.html?meetting=1662689432505" packagename=""/>
+			<image src="B05D181717C21592822FB2112C6C692B.jpg" title="张艺兴师生情深" content="谈及张艺兴近几年的成长，前辈夸他是一个真正的“五好学生”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218964.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E498D65576488B64991DFFA26E91CB36.jpg" title="实力女星蔡文静" content="蔡文静凭借《阳光之下》走进大众视野，随后更是出演多部作品，演技得到观众认可。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7017054897975706116/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430044" packagename=""/>
+		</type>
+	</switch>
+</layout>
