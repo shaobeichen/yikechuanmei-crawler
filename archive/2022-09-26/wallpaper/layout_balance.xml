@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092601" updatetime="20220926">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7A86652F73E29D2965DAC3FA62D026B0.jpg" title="吴磊的精彩人生" content="鲜衣怒马少年时，吴磊对世界满怀新鲜感和好奇心，一路成长，一路撷取星光。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/314821_0.html?9102" packagename=""/>
+			<image src="5AA3722EDF0D027EB63FE41A9C0EE766.jpg" title="刘涛身材抢镜" content="刘涛作为观众心目中的女神，一直在坚持健身，她不仅四肢纤细，而且美貌如初！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219464.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="512AA5E83FAC1495EC72D007BD2FB474.jpg" title="脱颖而出的花旦" content="娱乐圈多位小花旦崛起，她们手握数个代表作品默默发力，如今口碑飙升。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626809.html?meetting=1663662636642" packagename=""/>
+			<image src="F2E21F1182410D6433C33B2A44F4B232.jpg" title="陈瑶与孤独相伴" content="陈瑶是一个生活中充满仪式感的女孩，她愿意感受和体验美好的事物，并将其中的温暖分享给大家。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7145368347906114079/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430076" packagename=""/>
+		</type>
+	</switch>
+</layout>
