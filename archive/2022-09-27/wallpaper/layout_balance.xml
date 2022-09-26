@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092702" updatetime="20220927">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="07D5C9D9041256077E614F6D82AEAFC8.jpg" title="童颜女神毛晓彤" content="长相可爱的毛晓彤也在尝试多种风格，如今的短直发，看起来干练十足。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318180_0.html?9409" packagename=""/>
+			<image src="B1A163085B974E1022C7F61F5849A845.jpg" title="古装女神刘诗诗" content="从青涩小花到古装女神，刘诗诗时隔多年再演古装剧，该剧海报双曝光的创意形式令人眼前一亮。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7143521406423171625/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430042" packagename=""/>
+			<image src="A1C445D11145ED0C8BB84363BD3D8B83.jpg" title="古偶人设天花板" content="盘点近年大火的古装偶像剧中，那些“天花板”级别女主人设！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219322.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="86CEE521756206F2D9397DAFC7FB46E9.jpg" title="敬业演员宋威龙" content="提前半个月死磕剧本，针对台词进行魔鬼训练，宋威龙将古装角色演绎得活灵活现靠的是他的努力。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627014.html?meetting=1663974037864" packagename=""/>
+		</type>
+	</switch>
+</layout>
