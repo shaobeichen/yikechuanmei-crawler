@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092801" updatetime="20220928">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B21CDC881861FF5098BE8EB9C6DEF7B1.jpg" title="鞠婧祎风格多变" content="无论是甜美可爱少女风，还是性感妩媚姐姐风，鞠婧祎都能轻松驾驭，堪称“百变女神”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626257.html?meetting=1662456033559" packagename=""/>
+			<image src="52529E4A9E58E4A017B7077AF6F37BE8.jpg" title="许佳琪新剧杀青" content="无论是仙气飘飘，还是侠义风骨的角色，又酷又飒的许佳琪都能拿捏得稳稳的。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317940_0.html?9404" packagename=""/>
+			<image src="8F15E4C3B0657BB27FFA9E5F94C96C69.jpg" title="白宇成熟稳重" content="白宇通过综艺节目，展示了影视角色外的另一个自己，让他的个人魅力得到展现。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_218569.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="97EF5BF6F1025AB557747585FA2B62CF.jpg" title="赵丽颖绝美造型" content="赵丽颖身穿紫色薄纱长裙，搭配海藻般的墨黑长发，直播状态绝佳，对镜招手十分亲切。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7139680244201898528/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430293" packagename=""/>
+		</type>
+	</switch>
+</layout>
