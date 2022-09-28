@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022092901" updatetime="20220929">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="417E9541B9A712B31E4D3587CE65CBD4.jpg" title="杨颖红底大片" content="杨颖的时尚表现力，向来无可挑剔，在这一次的封面大片中，她再次征服广大网友。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317282_0.html?9308" packagename=""/>
+			<image src="7C05BDAB93FCDCD3148A91B02A6C2342.jpg" title="王楚然的成长" content="王楚然从饰演网剧到参与大制作，无论是古风还是现代造型都吸引观众的目光！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219328.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="83334BD453766FA47B67A3421C2ED20E.jpg" title="张嘉倪有多美" content="张嘉倪凭紫菱一角惊艳众人，出道十多年状态依然在，著名作家夸她摄人心魄。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627064.html?meetting=1663974037347" packagename=""/>
+			<image src="1AC771D1D81729F3E2268CFEC127253E.jpg" title="魅力女星辛芷蕾" content="心有所想，定有所得，偏见是可以打破的，机会是可以争取的，辛芷蕾打造了属于她的奇迹。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7147991950032388649/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430397" packagename=""/>
+		</type>
+	</switch>
+</layout>
