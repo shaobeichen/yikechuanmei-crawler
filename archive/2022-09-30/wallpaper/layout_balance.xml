@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022093001" updatetime="20220930">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D7A211E6FAC117BF3A6701B83465C5B5.jpg" title="虞书欣的代表作" content="虞书欣作品的火爆，再一次让其走向顶峰，一起盘点虞书欣出演过的电视剧。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/317873_0.html?9403" packagename=""/>
+			<image src="E25120FF5BAEDC3D97FB4F279B4E02C0.jpg" title="王俊凯的成名路" content="从无名练习生到少年偶像到演员，王俊凯不断为梦想努力拼搏，最终成就自我。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626959.html?meetting=1663974037252" packagename=""/>
+			<image src="05C0B4AA44C0F691E92C324A212C4BAF.jpg" title="宝藏女孩金晨" content="金晨不仅形象贴合剧中人物，而且对于角色的刻画和人物的塑造都有自己的理解。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219330.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="EFC1C54AC54DE376DCB1E5B6029FF3B1.jpg" title="身材天花板倪妮" content="内娱身材天花板倪妮，剧内外展示了超实用的穿搭，高级感十足，不愧是行走的穿搭“种草机”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7147876340526596639/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430396" packagename=""/>
+		</type>
+	</switch>
+</layout>
