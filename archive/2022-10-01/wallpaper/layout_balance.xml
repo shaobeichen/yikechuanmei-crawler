@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100101" updatetime="20221001">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CAE18A3F66001C78DDE57CD841FD243F.jpg" title="国风美人周洁琼" content="无论是优雅古典的汉服，还是当下正流行的新中式造型，周洁琼都能够轻松驾驭。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318800_0.html?9510" packagename=""/>
+			<image src="1DA773499B27CB21F14CF77364862F57.jpg" title="关晓彤新剧收官" content="关晓彤凭借精湛的演技和超高的国民度，使她的新剧成为年度国产青春剧的收视冠军！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219361.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="2AB204B85A1BD6949B03F0F1AD13318C.jpg" title="全能女神宋茜" content="10岁学舞蹈，22岁正式出道，如今的宋茜歌、舞、影视样样在行，堪称全能明星。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627065.html?meetting=1663974037452" packagename=""/>
+		</type>
+	</switch>
+</layout>
