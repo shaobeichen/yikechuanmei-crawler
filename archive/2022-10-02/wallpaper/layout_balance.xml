@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100201" updatetime="20221002">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="15067807C053569A9BCCCB56BBAACD0C.jpg" title="赵今麦的新开端" content="赵今麦在角色中成长，也在角色中蜕变，这个被观众看着长大的童星也能挑起大梁。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318779_0.html?9508" packagename=""/>
+			<image src="D6FAE5D18CFCBB81C6E37E33CAEBCA30.jpg" title="许凯的开挂人生" content="许凯在演绎之路上保持初心，带给观众许多精彩的角色和优秀的作品。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219336.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3BF3816C41B0393C46EF86DF34B529D7.jpg" title="赵露思新剧开播" content="《星汉灿烂》刚刚取得了不错的成绩，赵露思的新剧又强势开播，她的演技逐步受到观众的认可。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7148701305446613544/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430496" packagename=""/>
+			<image src="DB24BCEE57F59778A606A32FF8E71ABF.jpg" title="被低估的沈梦辰" content="从主持人到演员，再到如今的女团成员，沈梦辰终于乘风破浪，大放异彩。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627330.html?meetting=1664439635729" packagename=""/>
+		</type>
+	</switch>
+</layout>
