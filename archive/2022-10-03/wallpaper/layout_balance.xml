@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100301" updatetime="20221003">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9A9AE385FD23CB44F913069CF6341FD0.jpg" title="张含韵破茧成蝶" content="张含韵再度翻红，凭借自己过硬的实力，成功圈了一波“路人粉”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219342.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="4D5A0468CCF6FD7E6B459629D06724B2.jpg" title="走心演员祝绪丹" content="祝绪丹靠代入式演戏法造就多个经典角色，连导演都连连称赞。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627072.html?meetting=1663974036488" packagename=""/>
+			<image src="8EA943327138D66D262753E4809F2F2E.jpg" title="任嘉伦的进化史" content="从寂寂无名到热播剧男主，有着坎坷经历的任嘉伦，逆境突起，成就璀璨的自己。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/319340_0.html?9604" packagename=""/>
+			<image src="741B9CCF80E7242F91823E34778FB477.jpg" title="孟佳清爽造型" content="孟佳身穿蓝色条纹吊带短裙配上大波浪卷发和长靴，呈现了她特有的清爽气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6845861195056939534/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430454" packagename=""/>
+		</type>
+	</switch>
+</layout>
