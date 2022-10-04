@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100501" updatetime="20221005">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="288F68BF838B8458BA7C3C0AA8858D6F.jpg" title="朱一龙厚积薄发" content="在娱乐圈蛰伏十多年之后，面对爆红，朱一龙做到了心静如水。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318790_0.html?9509" packagename=""/>
+			<image src="8B3667837B9ADB4FB0545854B12CE777.jpg" title="邢菲新剧潜力大" content="邢菲突破角色圈，开始扩宽戏路，摆脱了以往甜美的风格。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219684.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="23613475991A23689908A795D171ACC3.jpg" title="漫画少女程潇" content="程潇一直被网友称作“从漫画中走出来的美少女”。她的五官精致甜美，漫画感十足。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6678888800795492878/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430419" packagename=""/>
+			<image src="235B61E6060C0ACE2D21DB124D012A51.jpg" title="娱乐圈学霸盘点" content="谁说明星学习不佳，以韩雪为例的女星就是娱乐圈中的美女学霸。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627322.html?meetting=1664439635388" packagename=""/>
+		</type>
+	</switch>
+</layout>
