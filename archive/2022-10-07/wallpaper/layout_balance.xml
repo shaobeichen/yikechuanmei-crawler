@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100701" updatetime="20221007">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9459C74C035B28FFAA7CAD7256822CE3.jpg" title="李现的滚烫人生" content="李现的身上有一种深邃的少年感，冷冽又温暖，稳重又倔强。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/319334_0.html?9602" packagename=""/>
+			<image src="171350799EAE79B70C0698F49F8EE7BA.jpg" title="周也的反差感" content="周也凭借高超的演技，让她成为了一众小花中的翘楚。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219686.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="71AFE4376E07082F9A86E560D8EF2613.jpg" title="赵粤开启新篇章" content="谦逊认真的态度与扎实的舞蹈功底，让赵粤在舞台、综艺与时尚等多方面都有着不俗表现。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116744960464110110/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430406" packagename=""/>
+			<image src="D8B6A95A54EC15F78527217ADB13EA7C.jpg" title="港风女星盘点" content="当她们画上港风妆容后，美得惊为天人，谭松韵堪称百变精灵。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627347.html?meetting=1664456910619" packagename=""/>
+		</type>
+	</switch>
+</layout>
