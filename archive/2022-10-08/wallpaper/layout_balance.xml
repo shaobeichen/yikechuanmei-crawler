@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100801" updatetime="20221008">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2E4A8E39760BAFF5EEFCEE9B01CA8BC9.jpg" title="后生可畏的文淇" content="文淇凭借着她那张“有故事”的脸，在演员当中做到了出类拔萃。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318736_0.html?9505" packagename=""/>
+			<image src="F75E35DBF257E308986C19612CB25494.jpg" title="王鸥的演员路" content="王鸥用心刻画每一个角色，不断给观众带来更多优秀的影视作品。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219693.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="837EF325118AD07F414404D1399C8C65.jpg" title="陈瑶梦回岳绮罗" content="陈瑶身穿一袭复古长纱裙，戴头纱好似精灵，仿佛梦回《无心法师》的岳绮罗，美得让人心动。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7148705713471439367/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430490" packagename=""/>
+			<image src="0AC609CBFC08A18F4D2EB97A851CF6C3.jpg" title="赵露思的成名史" content="从不知名的小网红，到内娱顶流95后小花，赵露思的成功绝非偶然。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627273.html?meetting=1664440237011" packagename=""/>
+		</type>
+	</switch>
+</layout>
