@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022100901" updatetime="20221009">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="AAA50F9B4524826AB9727913B6110A2A.jpg" title="圈中的美女舞者" content="金晨6岁学舞，曾多次荣获专业舞蹈奖项，堪称娱乐圈中的专业舞者。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627071.html?meetting=1663974037022" packagename=""/>
+			<image src="2857CBDD01F480357BE9372D3D75C409.jpg" title="清冷感国风大片" content="张艺凡身穿白色长裙，干净素雅，国风造型尽显东方韵味，裙摆翩翩飞扬，凸显清冷优雅气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7141553229560824361/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430398" packagename=""/>
+			<image src="4082C089CCDF4492B46960882B781062.jpg" title="港风美人宋祖儿" content="宋祖儿的每次港风打扮都能美到出圈，打破了以往单纯可爱的形象。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/319524_0.html?9610" packagename=""/>
+			<image src="4FB645EE088206C30A78085724B3FE76.jpg" title="姚晨演技获好评" content="姚晨出演喜剧电影，不仅演技获好评，还凭借四川话圈粉。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219701.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
