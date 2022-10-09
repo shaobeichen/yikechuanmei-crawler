@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101001" updatetime="20221010">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="DD51B714F8517B1D95625F8E0C517526.jpg" title="中式美人王楚然" content="有颜值有演技的王楚然，凭借自己的努力在娱乐圈闯出了属于自己的一片天空。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/318732_0.html?9501" packagename=""/>
+			<image src="65D249E26BB72DDE81E3EF1F82156963.jpg" title="宝藏女孩虞书欣" content="《苍兰诀》成为玄幻剧“黑马”，虞书欣凭借剧中的“小兰花”一角再度火出圈。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627044.html?meetting=1663974037654" packagename=""/>
+			<image src="A7FA0857B53F95B82792EE414D257052.jpg" title="许佳琪身份转变" content="许佳琪从歌手转变为演员，让观众看到了她一步步的成长。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_219702.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8A41CAE4E952508A3E6DF0ADD040D0CD.jpg" title="关晓彤生日写真" content="关晓彤身穿白色紧身吊带裙，裙子上的亮钻设计璀璨如星河，整个造型充满静谧之美。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7144335774736122405/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430422" packagename=""/>
+		</type>
+	</switch>
+</layout>
