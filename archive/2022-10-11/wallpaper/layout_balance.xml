@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101004" updatetime="20221010">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="2064FF6E53F6F939D5BE6B8E4F6347DE.jpg" title="打造灵动感古风" content="年轻女性穿古装应该以轻松、灵动为主，方能彰显自由且蓬勃的生命力。图：荒桥©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/227224?lock_screen_content_id=826" packagename=""/>
+			<image src="D97DF1CC2637D8334F3634956F088C21.jpg" title="初秋同色系穿搭" content="同色系最易穿出高级感，深浅不一的色调，不同材质的碰撞，释放新的穿搭灵感。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/100001/14903" packagename=""/>
+		</type>
+	</switch>
+</layout>
