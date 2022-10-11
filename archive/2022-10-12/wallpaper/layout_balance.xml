@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101201" updatetime="20221012">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1B33CB46AEFE4D25A58825C0E988499F.jpg" title="龚俊新剧来袭" content="龚俊处理角色的情感把握有度，将翩翩公子的温文尔雅和鬼主的冷酷无情塑造得非常立体。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7132756259622699556/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=429601" packagename=""/>
+			<image src="86976EBB89D55421F9BBBC03945722B6.jpg" title="清醒自知的任敏" content="任敏把演戏视为终身事业，现在的她，正在这条路上继续勇敢地探索着。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/319367_0.html?9605" packagename=""/>
+			<image src="A0DCC8C1A2825725E319A73780E50B2E.jpg" title="擅长自黑的明星" content="美而自知的鞠婧祎不惧争议，大方地代言假发，她算是把“自黑”玩明白了。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627353.html?meetting=1664456911621" packagename=""/>
+			<image src="CCE6497614FD539730B4021D9C66DD05.jpg" title="全能艺人周洁琼" content="年纪轻轻的周洁琼一直在为梦想拼搏，从练习生到歌手到舞蹈导师到演员，经多年打磨成功转型。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220095.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
