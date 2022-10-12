@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101301" updatetime="20221013">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2C44214CB11FB1F7CBFBE28FB8C90FD9.jpg" title="演员阚清子" content="有着一股清冷桀傲气质的阚清子，不仅外形靓丽，演技也越发精湛。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304811_0.html?6268" packagename=""/>
+			<image src="DB20BAFBDB7F18C2865FF6D21CE1FEC0.jpg" title="双面娇娃张天爱" content="私下性格软萌，舞台上秒变御姐气场全开，张天爱的“反差萌”为她圈粉无数。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625724.html?meetting=1660198238973" packagename=""/>
+			<image src="A698A6F2BEB28CE0EC8FD6C7C3C871E9.jpg" title="“直球”女孩" content="告别《苍兰诀》中的小兰花，虞书欣在新剧中，又带来了“直球”女孩虞美人。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7148697488340353551/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430483" packagename=""/>
+			<image src="40C3661362C873472662A8DCD401A7BC.jpg" title="古装男神盘点" content="让我们一起来盘点下，近年电视剧中，那些如玉世无双的古装美男子！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220045.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
