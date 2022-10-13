@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101401" updatetime="20221014">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7FD6CC608B7B60B805287EEABDB7C3FE.jpg" title="项偞婧封面大片" content="在各种目光的凝视中，项偞婧用自己的肢体和面孔表现美，用自发的行动力传播着艺术对美的定义。©时尚芭莎" cpname="" download="" contenturl="https://h5hosting-drcn.dbankcdn.cn/cch5/global-themes-userPortal/music-theme-h5/magazine/eBookDetail.html?type=eBook&amp;themeVersion=12.0&amp;isoCode=CN&amp;language=zh_CN&amp;time=NQ3MQZ&amp;hitopID=2167518587&amp;designer=&amp;categoryId=" packagename=""/>
+			<image src="75D861E41E1450CA054D37A999F20E45.jpg" title="女明星妖精造型" content="同样是演女妖精，有人妩媚动人，有人端庄艳丽，而王丽坤演得太“真实”，惊艳众网友。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627291.html?meetting=1664439635619" packagename=""/>
+			<image src="029ABE48104B4D700D60902DE772F72E.jpg" title="胡一天成功蜕变" content="作为一个拥有无限可能性的演员，胡一天的蜕变令观众眼前一亮。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321217_0.html?1006" packagename=""/>
+			<image src="EAC7CE1F19FB56A904126C5E840022D0.jpg" title="古典美人王楚然" content="王楚然一身浅绿衣衫，笑着温婉动人，不笑时又清冷飘逸，“素衣难掩倾城色”，大概就是形容她的。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7153879432154071559/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430561" packagename=""/>
+			<image src="95F396894DAF8C206B204CE92CC53F51.jpg" title="王俊凯新片上映" content="王俊凯新片根据真实故事改编，是首部聚焦中国外交官撤侨故事的电影。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220447.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
