@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101701" updatetime="20221017">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="64703DC7867C8864AAA6DAFD9CD60688.jpg" title="张艺兴新歌上线" content="张艺兴新歌MV中西合璧，其中出现了不少中国元素，具有强大的冲击力！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220032.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E58CC138ADDAB938BD86DBABEAA2B870.jpg" title="清冷系小花盘点" content="这些长相清冷又有辨识度的95后小花，她们不仅颜值高，且演技非凡。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321299_0.html?1002" packagename=""/>
+			<image src="ED215084C08B9A56EBFD0A1A19589B81.jpg" title="邢菲的逆袭之路" content="从杂技演员逆袭为影视剧女一号，邢菲的成名故事比你想的更励志。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627723.html?meetting=1665645034524" packagename=""/>
+			<image src="B63760B996010E260939757498BCE05A.jpg" title="实力派演员海清" content="海清出演过很多都市情感剧，演技一流，自成一派，深受观众的喜爱，拥有“国民媳妇”的美称。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7078912518902546955/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430793" packagename=""/>
+		</type>
+	</switch>
+</layout>
