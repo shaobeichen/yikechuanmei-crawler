@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101801" updatetime="20221018">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9903FAC565D31CB174AA2F3034FB13AA.jpg" title="金晨晒完美身材" content="照片中的金晨浓妆出镜，红唇撩人，气质温婉，宛若雅典女神。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/311791_0.html?8108" packagename=""/>
+			<image src="E8B8D348D15B217CED456E5F84D83F84.jpg" title="徐海乔反转不断" content="徐海乔曾经演绎温柔男子，凭着深情走红，而如今一年却饰演了两个反派角色！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220434.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3313C4DAF600FBAFC0C83006FD63ADAD.jpg" title="邓家佳终成影后" content="经过多年磨砺，邓家佳终于摆脱了《爱情公寓》的“束缚”，摘下影后桂冠。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627803.html?meetting=1665645635726" packagename=""/>
+			<image src="B2EEE6F9A16D9A8940105D0DF36C81AC.jpg" title="实力女演员李沁" content="李沁自小学习昆曲，练就了一副好身段。进入演艺圈之后，更是塑造了无数经典的角色。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7154271211823022630/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430833" packagename=""/>
+		</type>
+	</switch>
+</layout>
