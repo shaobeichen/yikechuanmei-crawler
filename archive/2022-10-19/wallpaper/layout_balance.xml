@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022101901" updatetime="20221019">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="847127781953E4433A0069C040CC161C.jpg" title="国际超模何穗" content="何穗不仅身居国际名模行列，而且在圈内拥有超高的人气和影响力，深受大众喜爱。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220437.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="21793EAD27DC5F801A634B984C459DDF.jpg" title="任嘉伦经典之作" content="盘点任嘉伦演过的电视剧，多部作品集均破亿，经典角色历历在目。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321039_0.html?1010" packagename=""/>
+			<image src="33B8E6AD6AB0A010A57A936C9CC55148.jpg" title="明星家庭趣事" content="这些明星的家庭氛围太好了，宋妍霏的爸妈结婚30年，仍恩爱如初。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627743.html?meetting=1665645636152" packagename=""/>
+			<image src="B17BF9C8AE1F5BFE4D5E85BCA00B93C4.jpg" title="唐嫣的经典剧集" content="“既然琴瑟起，何以笙箫默。”《何以笙箫默》的后劲持续至今，唐嫣的演技一直被观众认可。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7153900771217129998/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430816" packagename=""/>
+		</type>
+	</switch>
+</layout>
