@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102002" updatetime="20221020">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="00903277601DC78F69DF4BD47414BBD7.jpg" title="古风美男龚俊" content="建议龚俊古装半永久！古装造型的他姿态优雅，闲庭信步间儒雅十足。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301318_0.html?644" packagename=""/>
+			<image src="FEBC7909C4B729FE7B130019E2A08E3C.jpg" title="蔡文静新剧热播" content="蔡文静的新剧引人关注，它虽有艺术成分，但都是根据真实案件改编。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220438.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="2FAF16AF210B2140BB3ABB3E43F5BA0B.jpg" title="演技炸裂的小花" content="蒋依依1岁拍广告，6岁成演员，她塑造的每个角色都给人留下了深刻的印象。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627722.html?meetting=1665645033531" packagename=""/>
+			<image src="2E47DE58C793222AB7DD5D6B72DB26A7.jpg" title="实力演员郭晓婷" content="郭晓婷童星出道，27岁就被封实力派，今年4剧连播演技获赞。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7155780110749270559/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431019" packagename=""/>
+		</type>
+	</switch>
+</layout>
