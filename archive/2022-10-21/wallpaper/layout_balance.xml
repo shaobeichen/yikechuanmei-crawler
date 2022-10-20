@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102001" updatetime="20221020">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="A0C835A4CAD5FFCBE193062F3DA8EF5C.jpg" title="花滑益处" content="花样滑冰是一项技巧与艺术性结合的运动，非常具有观赏性。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5405403" packagename=""/>
+			<image src="437995B3E27E623D21697C6D417CCA1E.jpg" title="摩托艇的原理" content=" 摩托艇喷射水流来产生动力，驾驶员控制的便是水流的方向。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00N4QXWZ0X027.html" packagename=""/>
+			<image src="A8D268DD78BFF6CA1737456185886931.jpg" title="秋季爬山要注意" content="爬山不仅可以作为一种减肥运动，还可以开阔视野、陶冶情操。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220297.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F547EED57498A0FF4D6354457C08877A.jpg" title="骑行注意事项" content="掌握这些骑行要领，才能确保骑行的安全，享受骑行乐趣。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7129705795826221608/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428575" packagename=""/>
+		</type>
+	</switch>
+</layout>
