@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102202" updatetime="20221022">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6BCE9979B338A9990AD27A5627B38D5B.jpg" title="杨紫新剧将袭" content="杨紫又一次用自己优秀的演技和满满的心意，为观众带来了一部佳作！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220037.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="0A703E3C4A11CAE30C39B0BF793BDA89.jpg" title="高帅男明星盘点" content="个个鹤立鸡群，却有着“长太高”的甜蜜烦恼，这些男星的身高真的很优越！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627734.html?meetting=1665645034100" packagename=""/>
+			<image src="D25294D97A071B48B7360849AD810A6F.jpg" title="红毯的定海神针" content="迪丽热巴的美貌，可以说是公认的，作为内娱颜值天花板之一，她的红毯走秀每次都冲上了热搜。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7036917062345785888/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430916" packagename=""/>
+			<image src="AB6D2EDFE7246DA89EA13B93FF786822.jpg" title="00后强势崛起" content="她们虽然年纪小，但演技不俗，已经成为能够独当一面的实力派演员。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322306_0.html?1017" packagename=""/>
+		</type>
+	</switch>
+</layout>
