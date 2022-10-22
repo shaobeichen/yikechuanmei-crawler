@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102301" updatetime="20221023">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6E5B3249913A0324E183089D3C6D476A.jpg" title="新一代国民女神" content="从不知名的龙套演员到新晋国民女神，李一桐靠演技征服观众，实现逆袭。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627801.html?meetting=1665645034419" packagename=""/>
+			<image src="A3B469DEA75F881EE3B7F6E898981B17.jpg" title="孔雪儿新剧阵容" content="孔雪儿凭借着超高的颜值、动人的舞姿和魅力四射的表演，让观众眼前一亮。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220449.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="0E4AC3AD9EE0D979033FF391FE173E53.jpg" title="陈都灵的待播剧" content="陈都灵携五部古装剧将至，精美造型火速出圈，被网友称为“天选古装人”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7151295877276058147/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430834" packagename=""/>
+			<image src="480CA3CAF65B1E5CA94ED4591E30E6C2.jpg" title="杨洋演绎复古风" content="杨洋纯白色西装造型亮相，在复古与优雅里演绎自在率性，光影下似白马王子。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322348_0.html?1020" packagename=""/>
+		</type>
+	</switch>
+</layout>
