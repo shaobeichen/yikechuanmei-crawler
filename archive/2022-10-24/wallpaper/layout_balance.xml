@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102401" updatetime="20221024">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="92EEC138A76933CB77418E08751DAE06.jpg" title="鞠婧祎出圈场面" content="盘点鞠婧祎火出圈的造型，风格百变惊艳十足，堪称穿搭教科书。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321283_0.html?1003" packagename=""/>
+			<image src="440FDB79E9279B64377831FEADABCCA0.jpg" title="赵小棠外表高冷" content="赵小棠凭借着“冷酷脸”，以及她飒爽的性格，圈粉无数！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_220451.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="376A3BD55943A56B2B38F50C885F0B72.jpg" title="赵丽颖复古写真" content="赵丽颖身穿浅色针织衫搭配小卷发，倚坐在落地窗前，慵懒惬意，为清凉的秋风带来了一丝温暖。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7153909645516784143/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430791" packagename=""/>
+			<image src="085356D2188E0A86540775FD89A31633.jpg" title="李现厚积薄发" content="在事业巅峰时期“消失”，李现不骄不躁，不断磨练自身演技，慢慢变成了更好的样子。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628047.html?meetting=1666167035703" packagename=""/>
+		</type>
+	</switch>
+</layout>
