@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102501" updatetime="20221025">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="F9E79757687AFF258EFF025C76ECACBB.jpg" title="张天爱待播剧" content="张天爱新剧将袭，剧照中，张天爱一身盔甲扮相，手持利剑指向前方，满满的故事感。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7155732328181301767/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430967" packagename=""/>
+			<image src="951D8E778EEDB359D34B699E4D772E06.jpg" title="年底好剧扎堆" content="国产剧在蓄力一年后将迎来集体发力，年底好剧不断，题材丰富，值得期待！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322175_0.html?1015" packagename=""/>
+			<image src="899EDAE733A5FE7849D6B03CF209AE76.jpg" title="李冰冰的成名史" content="从无人知晓到国际影后，李冰冰的成名之路远比你想得艰辛。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628015.html?meetting=1666167634625" packagename=""/>
+		</type>
+	</switch>
+</layout>
