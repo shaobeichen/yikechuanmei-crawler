@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102601" updatetime="20221026">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5B34A6D08C566D95BB4FD9B4BD33C40C.jpg" title="“战损”美人" content="李沁等四大美人凭“战损”装一战成名，在影视剧中镜头前留下了惊鸿一瞥。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627325.html?meetting=1664439635841" packagename=""/>
+			<image src="7D9FD0BD3FBDD174ABE0A3F8A5845D76.jpg" title="阚清子隐藏身份" content="阚清子在新剧中饰演汽车工程师，剧外的她竟然是个隐藏的赛车手。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322147_0.html?1014" packagename=""/>
+			<image src="E71A95DF88707EC9F08BE27D5CAE8548.jpg" title="热巴一人千面" content="热巴身穿皮质拼接连衣裙，搭配甜酷的双马尾编发，肆意洒脱，一下子就击中了粉丝的心。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7158296041551512102/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431249" packagename=""/>
+			<image src="59046445A114647C8430CD0246517269.jpg" title="偶像小生侯明昊" content="爱豆出身的侯明昊，可谓是唱跳全能，在演戏方面也颇有天赋！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221216.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
