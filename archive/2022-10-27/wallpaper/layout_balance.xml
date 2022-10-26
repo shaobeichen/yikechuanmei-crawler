@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102701" updatetime="20221027">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7D3E55644D9E93E3B7C4A3827C1B43A6.jpg" title="投资达人赵丽颖" content="在剧组担任监制，投资15家公司，赵丽颖成功从平凡女孩蜕变成投资达人！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627357.html?meetting=1664456911325" packagename=""/>
+			<image src="F1FBDD3E8474055D15CE4A97C0919C7D.jpg" title="毛晓彤的时尚感" content="毛晓彤的每一次穿搭都惊艳众人，她既能够轻松驾驭各种风格，又能够穿出专属的时尚潮流感。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322206_0.html?1016" packagename=""/>
+			<image src="13F15FF13DAF9CC2F66DFEDF85E667AE.jpg" title="陈瑶新剧照曝光" content="陈瑶新剧路透图中，她的侧颜看起来又飒又美，整个人英姿飒爽，格外帅气！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221206.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="02976A77A664E15046F5DCC9487DED99.jpg" title="冯女郎杨采钰" content="因成功塑造《芳华》中林丁丁一角，杨采钰从十八线小演员成功逆袭，成为新一代“冯女郎”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7158364737598751269/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431331" packagename=""/>
+		</type>
+	</switch>
+</layout>
