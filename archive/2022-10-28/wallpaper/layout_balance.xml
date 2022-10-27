@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102801" updatetime="20221028">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="60E78336C5CC026BD3415E6F468B5F0F.jpg" title="美妆达人虞书欣" content="戏内有颜有脑，戏外也是美妆达人，虞书欣不愧是行走的美妆博主。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321194_0.html?1007" packagename=""/>
+			<image src="BD9049282CFDC69972A82500EE552A30.jpg" title="刘涛新剧定档" content="刘涛以检察官的形象出现，为新剧提供了很多有趣的看点，让我们一起拭目以待吧！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221226.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F5852F372574E2269A6AF4C1BEE62792.jpg" title="元气少女沈月" content="沈月利落短发搭配白色长裙，学生气满满，随性漫步林荫老街，重拾青葱回忆。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7158735111045775903/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431337" packagename=""/>
+			<image src="A202ED5CE418B5C4C2CD9843AFB99CC9.jpg" title="剑眉男明星盘点" content="剑眉星目，面如冠玉，这七位男星的长相，完美击中了国人的审美！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628357.html?meetting=1666771236670" packagename=""/>
+		</type>
+	</switch>
+</layout>
