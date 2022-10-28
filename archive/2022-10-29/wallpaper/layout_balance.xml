@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022102901" updatetime="20221029">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2BA89CEC1A1C025EB12AABD2028110D2.jpg" title="宝藏女孩蔡文静" content="颜值与演技并存的蔡文静，被称为娱乐圈里的一股清流，不争不抢，不骄不躁，如今靠实力走红。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/321241_0.html?1004" packagename=""/>
+			<image src="F1252B79021856FF5F6AA6DEE433C0F4.jpg" title="圈内童星大盘点" content="幼时被誉为“最美哪吒”，如今又靠演技爆火出圈，宋祖儿活成了众人都羡慕的样子。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628023.html?meetting=1666167036324" packagename=""/>
+			<image src="DFEF5ED7C7D242DA72CD0F64D66C1FCE.jpg" title="陈都灵古装扮相" content="盘点陈都灵待播的六部古装剧，她的造型惊艳出圈，深受观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221221.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="23191E69A08C8AB96F44DC69DC55AFAA.jpg" title="谭松韵新剧开播" content="谭松韵挑战新角色，在新剧里面饰演创业女神，突破自己的舒适圈，敢于迎接新挑战。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7157159661576339971/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431295" packagename=""/>
+		</type>
+	</switch>
+</layout>
