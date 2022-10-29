@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022103002" updatetime="20221030">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C6BE75E805FBFCA31D1E77BF016C96E5.jpg" title="钟楚曦内心丰盈" content="明艳动人的外表只是钟楚曦展现出的浅显一面，她内心世界的活跃与勇敢，才是她的真正魅力所在。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322317_0.html?1019" packagename=""/>
+			<image src="996E109FD406BA9F7650B7AA1A37D541.jpg" title="综艺出圈造型" content="盘点综艺节目中出圈的女星造型，每个都极具魅力，让人印象深刻！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628056.html?meetting=1666167036184" packagename=""/>
+			<image src="4CBCE1AE85124FAA8A3A6796706E1651.jpg" title="费启鸣实力圈粉" content="费启鸣虽然不是科班出身，但他阳光可爱的形象和精彩的表演，圈粉无数！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221197.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="CAD239A5E67E6DA8928561B039A07EE5.jpg" title="短发女神周雨彤" content="干净利落的短发，让她拥有一股高冷御姐范，每一缕发丝都在彰显她的女神气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7064474740068516364/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431333" packagename=""/>
+		</type>
+	</switch>
+</layout>
