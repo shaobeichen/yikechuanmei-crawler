@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110105" updatetime="20221101">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="31AD3214AF54AF6D67318FA479BEF23A.jpg" title="性格爽朗的女星" content="这些女明星性格爽朗、敢说敢做，显得又美又飒，个个都极具观众缘！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628393.html?meetting=1666771237411" packagename=""/>
+			<image src="0685B5C87EC4803CC30721226F14984B.jpg" title="少年肆意成长" content="少年的意气风发与潇洒，在吴磊身上体现得淋漓尽致，他用自己独有的方式享受生活。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323228_0.html?1029" packagename=""/>
+			<image src="9363571A9917ECA63C3C86FD69B14EBF.jpg" title="白鹿携新剧来袭" content="白鹿出道至今，一直稳扎稳打，大胆尝试各类题材作品和角色，从而磨炼自身的演技。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221840.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C608EC4853CB0D6547AF82628811CCAA.jpg" title="宝藏女孩张艺凡" content="舞台上的她就像精灵一样，沉浸在舞蹈的世界里，用灵动唯美的舞蹈，给观众带来视觉的享受。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7042638525082206756/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=430786" packagename=""/>
+		</type>
+	</switch>
+</layout>
