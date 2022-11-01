@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110201" updatetime="20221102">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="EC9BB0FD3E06685270CCC27CDABCC1D3.jpg" title="实力小花关晓彤" content="勇敢直率的梁爽，傲娇的彭佳禾，关晓彤将这些角色诠释得入木三分，成功为自己的演技正名。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626962.html?meetting=1663974037157" packagename=""/>
+			<image src="BC1ED0E4B7F3B8854A440F8347F159A6.jpg" title="李一桐清醒自知" content="大红大紫是场流星雨，做演员是跑马拉松，出道七年，李一桐最不缺的就是耐心。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/322316_0.html?1018" packagename=""/>
+			<image src="F8B19CB1B272E401625E56A5915B00B4.jpg" title="黄小蕾的新高度" content="“百变演员”黄小蕾迎来了事业的“春天”，凭借两部热门新剧火爆全网！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221841.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="1DFFDB095853D61E4F72E462AFC9EACF.jpg" title="小品界的明星" content="作为小品界的“颜值担当”，张小斐的喜剧功力相当深厚！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6932439332661756420/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=418492" packagename=""/>
+		</type>
+	</switch>
+</layout>
