@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110302" updatetime="20221103">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="512465F0A8E99827D98163549562407D.jpg" title="娱乐圈甜妹盘点" content="甜妹安利！这些女明星个个清纯可爱，笑起来能甜过初恋。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628378.html?meetting=1666771237137" packagename=""/>
+			<image src="5626469C8C7FD4755313F330393EC1AA.jpg" title="周也清冷感气质" content="周也身穿黑色蕾丝裙惊艳亮相，气质清冷，贵气千金小姐范十足。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323218_0.html?1025" packagename=""/>
+			<image src="B7F119AA7D929936CB61E565B5E0B0C4.jpg" title="氧气少女张婧仪" content="张婧仪气质温婉，身穿绿色公主长裙，用镜头将一瞬的浪漫和温柔化作永恒。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7157965436758295077/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431197" packagename=""/>
+			<image src="DC983B04153D9BAED19C723EB53C4CE8.jpg" title="温柔甜妹徐梦洁" content="徐梦洁在剧中，不仅演技抢眼，而且与搭档的CP感也轻松拿捏！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221844.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
