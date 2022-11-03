@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110401" updatetime="20221104">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="607BC33CCAEC38A7608E37FA42BD5C4A.jpg" title="刘雯的逆袭之路" content="从普通女孩到国际超模，刘雯背后付出的努力比你想象得更多。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628320.html?meetting=1666771237289" packagename=""/>
+			<image src="45C653F506CC12B208E33CC3F11DA81F.jpg" title="天选古人刘诗诗" content="刘诗诗的绝美容颜和独特气质，总有一种超凡脱俗的感觉，令人念念不忘。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324215_0.html?1103" packagename=""/>
+			<image src="67322D73C098635AE4240FDE8809ADB3.jpg" title="气质女郎孔雪儿" content="孔雪儿身穿黑色渐变长裙，将性感与优雅完美结合，微卷长发更加凸显其温婉淑女的气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7161245367311368737/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431621" packagename=""/>
+			<image src="2304621CC16272D0B4E2AC55D1B1BC5D.jpg" title="王源双“丰收”" content="王源不仅新剧路透曝光，新歌花絮照也独家放送，迎来影视音乐双“丰收”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221850.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
