@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110501" updatetime="20221105">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A2952A3B537A7A875C15AF1ED75A41C1.jpg" title="惊艳时光的美人" content="这十位女星的容颜惊艳了时光，她们有的大气端庄，有的气质清冷，各有各的特点。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627339.html?meetting=1664439635249" packagename=""/>
+			<image src="0B2188E394C36A869804BF09A77D3BDC.jpg" title="唐嫣造型引热议" content="唐嫣新造型曝光，身穿迷你连衣裙大秀美腿，尽显优雅动人的气质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323108_0.html?1022" packagename=""/>
+			<image src="48E7662E71D739BCCF5940381E6BE245.jpg" title="优雅知性的秦岚" content="秦岚换了新发型显得更加灵动减龄，俏皮短发更好的修饰了她的脸型，打造出小巴掌脸的既视感。​©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7161248652126749222/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431622" packagename=""/>
+			<image src="84716000F18C7126F4DE5F275118F32D.jpg" title="许凯上演甜宠剧" content="许凯新剧备受期待，将上演一场职场御姐与草食系小奶狗的高甜姐弟恋！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221852.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
