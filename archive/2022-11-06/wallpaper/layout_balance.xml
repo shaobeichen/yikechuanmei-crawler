@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110601" updatetime="20221106">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="ACF14237C71356E99B8419EBA9CF9D84.jpg" title="圈中的神颜男星" content="或是五官清秀，或是风度翩翩，这些男星被誉为娱乐圈中的神颜男神！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628379.html?meetting=1666771237655" packagename=""/>
+			<image src="E01726B82AF3CFF049C2A1A8F4F10985.jpg" title="林允的逆袭之路" content="这些年，林允一直在成长蜕变，面对争议她乐观豁达，通过作品不断磨砺自己。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324110_0.html?1102" packagename=""/>
+			<image src="4B150292F097CDC2BF07409E801DE86B.jpg" title="姚晨封面大片" content="严谨不儿戏，放肆而又冷静，是姚晨作为演员的摇滚态度。©时尚芭莎" cpname="" download="" contenturl="https://h5hosting-drcn.dbankcdn.cn/cch5/global-themes-userPortal/music-theme-h5/magazine/eBookDetail.html?type=eBook&amp;themeVersion=12.0&amp;isoCode=CN&amp;language=zh_CN&amp;time=B66YKY&amp;hitopID=2167752911&amp;designer=&amp;categoryId=" packagename=""/>
+			<image src="309B3AB477E9D7A35100AFE81CD8648E.jpg" title="许佳琪可甜可盐" content="新晋女星许佳琪，可盐可甜造型多变，集性感与可爱于一身！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221859.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="CED2EF0A9B3F58CD41E7D6F27BD7540F.jpg" title="周洁琼风格百变" content="作为新一代的流量明星，周洁琼从未懈怠，时刻保持着最佳状态，让大家看见更多风格和特点的自己。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7081905282103919135/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431745" packagename=""/>
+		</type>
+	</switch>
+</layout>
