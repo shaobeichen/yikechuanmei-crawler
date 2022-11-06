@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110702" updatetime="20221107">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3CA803A39FDE1C863EA4F18421D4A40D.jpg" title="百搭少女赵露思" content="赵露思成为新一代的男神收割机，每部剧的男主角都拥有超高颜值。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323031_0.html?1024" packagename=""/>
+			<image src="B31398B455AAD920786EE2F1C718B721.jpg" title="绅士男神陈飞宇" content="从籍籍无名到当红小生，陈飞宇不仅帅气，还有着许多你意想不到的优点。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628691.html?meetting=1667445637223" packagename=""/>
+			<image src="736FE968B4467E9A7DF2BCD1F8807706.jpg" title="刘令姿一心上进" content="刘令姿希望能呈现一个更加立体的自己，努力去写出一本彩色的人生日记。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221856.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="72BA9589AA664022C5F4D21863490691.jpg" title="热巴美出新高度" content="白色长裙衬托出迪丽热巴白皙的皮肤，她的一颦一笑都流露出绝美的气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7161440494352876032/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431746" packagename=""/>
+		</type>
+	</switch>
+</layout>
