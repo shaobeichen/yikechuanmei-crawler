@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110801" updatetime="20221108">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E0ABBEEFA82E1BF33AECB14E115BA3AD.jpg" title="圆脸美人大PK" content="这些女星的脸部轮廓毫无攻击性，她们笑容甜美治愈，闪闪惹人爱。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628367.html?meetting=1666771237540" packagename=""/>
+			<image src="AF1AA7FC82651B713D4481CBA8C90774.jpg" title="95后齐头并进" content="从一枝独秀到百花齐放，娱乐圈年轻小花的格局发生了些许变动。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323133_0.html?1023" packagename=""/>
+			<image src="7FBF007D5064E2828E6178884051C156.jpg" title="人间清醒孙怡" content="如今的孙怡全身心投入到事业上，很感慨地说：“做自己是最舒服的。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7161855932396323328/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431409" packagename=""/>
+			<image src="E1B3C0AD9C1E471198D6FF07BF3D9886.jpg" title="“浓颜系”帅哥" content="盘点十位浓颜系男神“天花板”，他们帅到让人无法忽视！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222250.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
