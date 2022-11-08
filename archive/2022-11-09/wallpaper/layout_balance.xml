@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022110901" updatetime="20221109">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CD623A7B4E3A50CCB8DC96111A9708C0.jpg" title="女星COS图鉴" content="这些女明星的Cosplay造型好惊艳！各有各的特色，气质都是神还原。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628699.html?meetting=1667445633709" packagename=""/>
+			<image src="1890ECD8EC0D83B2526C74B7AE1A0B29.jpg" title="新晋小花徐艺洋" content="徐艺洋，是一位歌手出道的美少女，凭借高挑的身材和靓丽的外貌得到众多关注。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6977937896783430157/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431707" packagename=""/>
+			<image src="A46C41D3D5E1CBE72AE1945E463E2DFE.jpg" title="明星的隐藏技能" content="多才多艺的明星大盘点，他们不只会唱歌演戏，甚至连弹琴、画画等技能都各有所长！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222257.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C273930F1887DCD55639755B7D773FFA.jpg" title="王俊凯转型之路" content="不到2个月，王俊凯呈现2个经典角色，迎来了电影表演事业上的高峰期。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324318_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
