@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111002" updatetime="20221110">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="40719CECAC6172DE28015480410FA27C.jpg" title="正午阳光女演员" content="这些正午阳光剧中的年轻女演员，不仅演技一流，颜值还高，个个都是潜力股。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/323254_0.html?1027" packagename=""/>
+			<image src="2AF2E82A6FDA23447B3A4530E80F9BF3.jpg" title="中年大火的女星" content="从皇贵妃到女强人，童瑶饰演的角色多变，每次转变都让人惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628750.html?meetting=1667445637993" packagename=""/>
+			<image src="6AF2BD749A946E632D6CBAB3833EF535.jpg" title="周奇的综艺笑点" content="周奇的宝藏综艺，以真人秀的形式，记录了青年嘉宾比较理想的生活方式。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222260.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="7AC4E6107DABBE424B3392DB7DD5CF39.jpg" title="北影校花孟子义" content="除了天生的美貌，还有着一颗强大的内心，这就是孟子义最大的底气和幸运。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7066625147381498382/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431410" packagename=""/>
+		</type>
+	</switch>
+</layout>
