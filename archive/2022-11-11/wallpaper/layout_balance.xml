@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111102" updatetime="20221111">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D174EE2C11A79910FFC8D230D241E046.jpg" title="圈中的川渝美人" content="盘点圈中的川渝美人，她们或是英气十足，或是可爱灵动，极具观众缘！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628706.html?meetting=1667445639606" packagename=""/>
+			<image src="7C8CBE5FAB8A7B3E6E0EC483EB410394.jpg" title="张雪迎新剧将拍" content="张雪迎新古装奇幻剧，不光剧情精彩，而且全员皆是高颜值实力派演员！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222261.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="92C59E1AB657F30A1522E542AC050800.jpg" title="浓颜系帅哥盘点" content="娱乐圈中的“浓颜美男”，他们气质多样，有的帅气硬朗，有的则英气逼人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324450_0.html" packagename=""/>
+			<image src="43A3E14FECF97F3F674DB5202D824F30.jpg" title="星圈学霸赵今麦" content="赵今麦在演艺道路上从一而终，无名时默默沉淀便好，成名后猛抓机会一跃而上。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7163562151247249954/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431971" packagename=""/>
+		</type>
+	</switch>
+</layout>
