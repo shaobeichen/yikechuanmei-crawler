@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111202" updatetime="20221112">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8987BC85A44F28F75DF65ECDA468B9EA.jpg" title="圈内的古典美人" content="或清丽脱俗，或艳压群芳，这些女星的古装造型各个美若天仙。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628105.html" packagename=""/>
+			<image src="56005785582A1047B2ECC80E6B9E9F4E.jpg" title="二次元气质女星" content="可爱风女星赖美云，无论是动作还是造型，都总是会让人联想到二次元的画面！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222264.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="900A9F43C8F25E753101D115FDDB5BD3.jpg" title="古典美女王楚然" content="王楚然穿上古装的那一刻，原本只存在于书画中的洛神突然就有了立体形象。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7115696182852223492/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431412" packagename=""/>
+			<image src="C2DA9FA5352D8A3350D298B113401FDD.jpg" title="娱乐圈混血美女" content="娱乐圈中拥有超高颜值的混血女星，个个明艳动人，美若天仙！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325827_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
