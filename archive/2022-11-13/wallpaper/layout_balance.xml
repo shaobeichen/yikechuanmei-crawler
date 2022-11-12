@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111201" updatetime="20221112">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="3E4F73281AF5FEA27F1FB0B5CAF8A168.jpg" title="山地车骑行技巧" content="骑行转弯时，利用侧倾身体的方式来倾斜单车，将身体全部的重量加在斜面下方的踏板。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II018Q1XOVLVJCB.html" packagename=""/>
+			<image src="8705F22478B858302D1133946B6CC9AF.jpg" title="舞蹈之美" content="跳舞有利于形体的改善，这种良性的改善让人举手投足都更加有风范。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6938780902877299232/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431445" packagename=""/>
+			<image src="138C6FC5AD52B33BC7CF7327D1566A77.jpg" title="攀岩运动的魅力" content="它是一项集合乐趣与健身运动，给你一个锻炼美好形体的机会。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5522715" packagename=""/>
+			<image src="49E24AF9627BDEF9155A433676A62482.jpg" title="夯实瑜伽基础" content="俗话说：“万丈高楼平地起”，基础动作是瑜伽练习的重中之重。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222198.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
