@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111402" updatetime="20221114">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E570B7B98CB03C47327DCE8D68343400.jpg" title="张嘉倪的新技能" content="张嘉倪“发明”出带娃健身两不误的方式，既能燃烧卡路里，又能为自己的健康加码！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222276.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="D514E0D8BE373A187D0A55AF05655758.jpg" title="潜力无限的演员" content="不管是清新少女，还是鬼马精灵，为镜头而生的文淇蕴含着无限可能性。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325753_0.html" packagename=""/>
+			<image src="1C3A7876B4B611997E942861A9F21E71.jpg" title="郭碧婷的成名史" content="从查无此人到家喻户晓，郭碧婷向所有人证明了她的逆袭绝非偶然。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628948.html?meetting=1668053436510" packagename=""/>
+			<image src="816D89447947333AFF5CADE983FDFEB8.jpg" title="时尚达人热巴" content="迪丽热巴身穿粉色条纹裙，扎着一头高高的马尾，俏皮可爱的动作，尽显青春活力。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7162549501587177991/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431957" packagename=""/>
+		</type>
+	</switch>
+</layout>
