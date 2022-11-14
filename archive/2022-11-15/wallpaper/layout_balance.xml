@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111502" updatetime="20221115">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D2CFFE1A5DB9556D2486F7695CBD9688.jpg" title="圈中的舞蹈达人" content="专业舞蹈出身的女明星，她们各个身怀绝技，舞台表现力惊人。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628984.html?meetting=1668053438809" packagename=""/>
+			<image src="2A548834CC278CA6A1370947B7CEF4D2.jpg" title="杨紫的快乐源泉" content="杨紫从不忌讳“自黑”，搞笑爽朗的性格，让杨紫在演艺圈里通透自洽。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324419_0.html?1107" packagename=""/>
+			<image src="F797C94C0FD996E342D55B5FE681CAFD.jpg" title="张艺兴好评如潮" content="张艺兴的全球演唱会成功举办，为东南亚的观众和歌迷提供了三场高水准的视听盛宴。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222702.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="786ACD6445A4DACBC5BE2893DA337C8A.jpg" title="可盐可甜刘些宁" content="刘些宁古装造型精致又不失俏丽，着实让人眼前一亮。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7070824910704198174/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431416" packagename=""/>
+		</type>
+	</switch>
+</layout>
