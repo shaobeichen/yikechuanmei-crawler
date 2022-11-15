@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111602" updatetime="20221116">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D35539713BFEB968125F978E997D3630.jpg" title="用心表演的成毅" content="新作不断，屡有突破，一部戏又一部戏，如今的成毅，正稳扎稳打地带给观众以惊喜。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324578_0.html" packagename=""/>
+			<image src="92DAAB758644249C57FEAEFE54E23665.jpg" title="圈中的星女郎" content="这些星女郎的道路选择各不同，有的一路爆红，顺风顺水，有的回归家庭，幸福美满，实属人生赢家。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628969.html?meetting=1668053439717" packagename=""/>
+			<image src="7EFA71779BA70A4FB2A74AD878D84B6D.jpg" title="徐璐首部仙侠剧" content="徐璐新剧虐心指数升级，她的哭戏绝美，上演了一场仙侠虐恋！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222693.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="34322DA25E9A9A3D1E2838CB48923109.jpg" title="金鸡奖最佳男主" content="朱一龙凭借《人生大事》中的莫三妹一角，首次获得金鸡奖最佳男主角。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7165400881289232909/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432457" packagename=""/>
+		</type>
+	</switch>
+</layout>
