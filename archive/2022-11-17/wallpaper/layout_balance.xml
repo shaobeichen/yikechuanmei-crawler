@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111702" updatetime="20221117">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E40AF8BD8CE2FF4ED18CDEB9BF8E737C.jpg" title="拼命三娘宋茜" content="外国女团中的第一位中国队长，凭一己之力带火全团，她就是拼命三娘宋茜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628970.html?meetting=1668054033731" packagename=""/>
+			<image src="770317E1CC7CC2A594ACE952DD87BFF2.jpg" title="王俊凯备受瞩目" content="王俊凯悬疑剧不仅入选优秀网络视听作品，还获金鹰奖提名！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223190.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="852F5F314F43CF2915A9CB28ACFB86BD.jpg" title="梦回“师姐”" content="宣璐自出道以来拍摄了不少古装剧，而她的古典温婉形象也一直为人所称道。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7157986752085492235/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432583" packagename=""/>
+			<image src="_289286D2EC8DEEEF7FD012B3AE714F30.jpg" title="陈飞宇霸屏热搜" content="陈飞宇的娱乐圈之路可以说是一波三折，直到新剧播出后，他终于火了。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326818_0.html?1121" packagename=""/>
+		</type>
+	</switch>
+</layout>
