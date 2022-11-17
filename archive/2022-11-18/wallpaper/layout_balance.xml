@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111802" updatetime="20221118">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9084DE5C5030A08367E81B665FDCCAA0.jpg" title="唐嫣的成名史" content="从初出茅庐的无名小演员到跻身四大花旦，唐嫣的成功离不开其父亲的教育和自身努力。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628937.html?meetting=1668053437851" packagename=""/>
+			<image src="8D088D8375CB9A93EC256938A4B85FEA.jpg" title="内娱的精致美女" content="让人梦回敦煌的新疆美女哈尼克孜，她表演时的一颦一笑都极具风情。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7163833326212727337/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432027" packagename=""/>
+			<image src="5A8A067F89C9F17F7CD16E330902EDE1.jpg" title="许佳琪高甜新剧" content="高糖甜宠剧来袭，许佳琪搭档90后颜值人气小生，上演“童话”式爱情故事。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222706.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="6EE320CC43F9C00AA82A817E21719987.jpg" title="娱乐圈新生力量" content="这些优秀的年轻演员正在好好磨砺演技，力争成为中国电影的中坚力量。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326736_0.html?1129" packagename=""/>
+		</type>
+	</switch>
+</layout>
