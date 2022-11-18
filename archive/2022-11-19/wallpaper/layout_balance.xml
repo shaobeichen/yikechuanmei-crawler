@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111901" updatetime="20221119">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4138305B8B2176012C8B3B540619F3D5.jpg" title="鞠婧祎的成名路" content="从小小的无名练习生到当红偶像，鞠婧祎无惧流言，不断拼搏，最终成就自我。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628707.html?meetting=1667445033819" packagename=""/>
+			<image src="C3CED92333AAB75805C5006E982A6114.jpg" title="女明星红毯造型" content="盘点女明星们惊艳众人的红毯造型，风格多变，不愧是视觉盛宴，你被谁美到了？©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325642_0.html?1115" packagename=""/>
+			<image src="D625EC8BAE727BE23708ED2E34B86A9D.jpg" title="童谣低调有实力" content="童谣“修炼”了多年，大器晚成的她终于迎来了事业的春天！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_221217.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="FBBDF259084374495029A95D05AD494B.jpg" title="宝藏甜妹谭松韵" content="谭松韵身穿绿色纱裙，减龄又灵动，一张精致小圆脸给人温柔可爱、不问俗事的感觉。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7166518006720709155/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432639" packagename=""/>
+		</type>
+	</switch>
+</layout>
