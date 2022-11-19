@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022111901" updatetime="20221119">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="08DDABAD91A9493B53D063953D34E241.jpg" title="骑行误区" content="正确的蹬踏分为，踩、拉、提、推，4个连贯的动作。
+©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II00SBLQLYOSVAT.html" packagename=""/>
+			<image src="4F5AB30EFE007F15D6F6F7FDEFA83AF2.jpg" title="飞车狂人" content="摩托车特技表演向来充满了危险，但是很多人喜欢挑战极限，追求肾上腺激素飙升的快感。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6685842762492805635/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432398" packagename=""/>
+			<image src="300A12B3C219A7C3F6DFD79E3106992A.jpg" title="登山队的怪闻" content="在身体低温的情况下，人会做出很多无意识的动作，这是肌肉异常收缩导致的。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5526268" packagename=""/>
+			<image src="7287C76F8F0A79D9DCDBE67DCE84F226.jpg" title="贵族运动高尔夫" content="大部分高尔夫球场都实行会员制，会员打球需要先行购买价格不菲的会籍。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222621.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
