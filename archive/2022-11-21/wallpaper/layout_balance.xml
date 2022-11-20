@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112102" updatetime="20221121">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="FDB62AFA01E31CDBBF64BEA15DD0CABC.jpg" title="赵今麦新剧筹备" content="邻家妹妹初长成，赵今麦脱去稚气快速成长，新剧值得期待。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324353_0.html" packagename=""/>
+			<image src="36FF5A0F0F14015F2CAD9BF48CB7F793.jpg" title="关晓彤出演话剧" content="关晓彤不断地突破自己，不仅台词与表演功底获赞，而且展现了全新的形象。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_222714.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E43A0206725D3B589A8EA0FADE0A8B4B.jpg" title="成熟女神王珞丹" content="各种时尚风格王珞丹都能够完美诠释，就像她能够出演各种不同的角色一样，十分优秀。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7163133750241690119/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432057" packagename=""/>
+			<image src="A6B4A371D0D2C40EAAE41AED0EB87220.jpg" title="赵丽颖的逆袭路" content="从小小的饭店服务员到顶流大女主，赵丽颖的奋斗史实在太励志！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629225.html?meetting=1668669036354" packagename=""/>
+		</type>
+	</switch>
+</layout>
