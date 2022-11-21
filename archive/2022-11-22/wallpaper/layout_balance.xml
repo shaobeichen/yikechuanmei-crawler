@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112202" updatetime="20221122">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B9E09BB0251B772C5DA0509EA6F4D20E.jpg" title="王鹤棣笑料不断" content="社牛、自信、搞笑、从不怯场，每一点都在王鹤棣的身上展现得淋漓尽致。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326552_0.html" packagename=""/>
+			<image src="AE0155194529F97FBFCE063CB9784CB8.jpg" title="宜今宜古孙珍妮" content="孙珍妮身穿一袭橘黄明装，一颦一笑，一举一动，无不优雅美丽。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7145301814903226920/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432654" packagename=""/>
+			<image src="CDEDCD8F3F38CA27282E447E0708E42D.jpg" title="宝藏女孩周雨彤" content="不急于求成，默默沉淀打磨演技，周雨彤最终用作品证明了自己的真正实力。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629174.html?meetting=1668668434022" packagename=""/>
+			<image src="F041E501BC9722862ABFE797050DDBF3.jpg" title="黄晓明谍战剧" content="黄晓明谍战剧来袭，该剧筹备之初就备受瞩目！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223165.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
