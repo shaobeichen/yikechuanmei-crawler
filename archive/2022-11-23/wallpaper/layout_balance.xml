@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112301" updatetime="20221123">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1B09FC47D0D67D0D7BC97B60791F39D2.jpg" title="新生代小花任敏" content="新生代小花任敏电影电视剧两手抓，尝试了多个不同题材的作品，她的发展已远远超出年龄范畴。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7160469236530692638/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432585" packagename=""/>
+			<image src="7BD56E9744B80A18385439E9000BE8F4.jpg" title="毛晓彤翩若惊鸿" content="喜欢毛晓彤，不仅仅是因为她的才华，还有她那倾城的容颜，在得体衣服点缀下，是多么美丽！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326650_0.html" packagename=""/>
+			<image src="4F5D9A226C36A6A8FA78825007CE1BA6.jpg" title="秦岚的成名史" content="从琼瑶女主到温婉皇后，秦岚证明了想要成功就需有强大丰盈的内心。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629178.html?meetting=1668669037311" packagename=""/>
+			<image src="C779F61A30E9626F65196337664D5BE9.jpg" title="王凯新剧将播" content="王凯新剧中饰演飞行员，上演一场浪漫的云端之恋，引无数观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223164.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
