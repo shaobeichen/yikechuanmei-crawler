@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112402" updatetime="20221124">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3355F0881F6F1325D3E6591DDFB917B9.jpg" title="进击的苏有朋" content="苏有朋的人生角色始终在变化，背后的勤奋最终带来了舞台上的光芒四射。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325581_0.html" packagename=""/>
+			<image src="D52E0C4E584466DD04F7B039BA560616.jpg" title="真诚女孩孟子义" content="孟子义真诚发言：“我经历过人人喊打的日子，只能被动与世界为敌。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6984220964192027175/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432634" packagename=""/>
+			<image src="4E60B8E09544F7D2FCACE9D29655E190.jpg" title="朱一龙的成名史" content="十年坎坷终爆红，一路上稳扎稳打，他就是35届金鸡奖最佳男主角朱一龙。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629168.html?meetting=1668669039848" packagename=""/>
+			<image src="6CE1C3EF2B89CA5440E9D8C11A8AF06A.jpg" title="内娱甜妹徐梦洁" content="徐梦洁甜美的外表和个性的舞蹈，让粉丝一眼就记住了这个努力、爱笑的女孩。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223166.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
