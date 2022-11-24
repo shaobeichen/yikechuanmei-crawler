@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112502" updatetime="20221125">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="717D4BDE4F15DF3078A84AC08C61B1DF.jpg" title="热巴复古公主照" content="迪丽热巴印花短裙搭配复古卷发，恬静柔美中释放别样魅力，嫣然笑意增添温暖。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324102_0.html" packagename=""/>
+			<image src="318D09207ACBB72CCEBA8EDDDC40E7A5.jpg" title="94花大放异彩" content="不骄不躁、低调处事，那些默默努力的94花，终于观众们看见。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628999.html?meetting=1668053434179" packagename=""/>
+			<image src="E66E4DC0B69E3CF0D0914213FED21F76.jpg" title="新晋男神成毅" content="从青离帝君到基层法官，成毅的“分寸感”拿捏得太到位了。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7145292253072867879/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432577" packagename=""/>
+			<image src="24FF6126CCFE97DA80A24D759B61BA7A.jpg" title="刘诗诗气质出尘" content="刘诗诗凭借古装路透美上热搜，英姿飒爽的霸气侠女造型让人眼前一亮！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223162.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
