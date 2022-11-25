@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112601" updatetime="20221126">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C6738BC4383F683937E6D05F229E8536.jpg" title="唐艺昕保持明亮" content="从出道时的简单懵懂，到如今的自信从容，唐艺昕拥抱每一个阶段，尤为喜欢当下的自己。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325608_0.html?1114" packagename=""/>
+			<image src="9B644AAAC6B8C1F9334FE70DC6942421.jpg" title="娱乐圈异域美人" content="盘点6位新疆籍女星！个个貌美如花，明艳动人。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7012495222777152014/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432661" packagename=""/>
+			<image src="F64B89E34548DEF782208A9BDD1A287E.jpg" title="THE9现状" content="THE9解散后，成员们继续追梦，有人成为唱片界新秀，有人成为影视圈新宠。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629230.html?meetting=1668669033995" packagename=""/>
+			<image src="01827D11B2951FC865A2559646BEA1D1.jpg" title="阿云嘎临川四梦" content="梦世间事，万般总是情。大梦一场，人间烟火。©音乐" cpname="" download="" contenturl="https://campaign-drcn.music.dbankcloud.cn/camp/585118741474353152/index.html?appsafearguments=true&amp;activity=true&amp;operator=391&amp;share=true&amp;transparentstatusbar=true&amp;hideactionbar=true&amp;needback=true&amp;isext=true&amp;campid=585118741474353152" packagename=""/>
+			<image src="08D41E9CFA4637F31C31295D007DF981.jpg" title="许凯新剧照曝光" content="许凯在新剧中，俊美到无懈可击，让一如既往的帅气造型又多了点江湖气息。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223161.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
