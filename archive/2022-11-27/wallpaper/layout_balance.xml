@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112702" updatetime="20221127">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6D42AEBE1C4E700D5819DC8E2878598A.jpg" title="王鸥明艳动人" content="王鸥出席第33届电视剧飞天奖颁奖典礼，一袭红裙明艳动人，举手投足尽显独特魅力！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223160.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="7613E8747E281A1C0DF89276155A1D31.jpg" title="张婧仪荧幕变化" content="张婧仪有着源源不断的奋斗力和从容不迫的心态，她的前行之路自在而坚定。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/328071_0.html" packagename=""/>
+			<image src="D0ED2F21065020759EE676DAFC5044AD.jpg" title="新晋流量陈飞宇" content="多年专心打磨演技，凭能力说服观众，陈飞宇终于打破了星二代的刻板标签。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629454.html?meetting=1669330843477" packagename=""/>
+			<image src="15EEB681801A3BE974D1F46A721C9BF2.jpg" title="汉服美少女徐娇" content="金鸡奖红毯上百花争艳，徐娇的汉服却独成清流，体现了中国古典服饰的美。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7166063732723188255/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433799" packagename=""/>
+		</type>
+	</switch>
+</layout>
