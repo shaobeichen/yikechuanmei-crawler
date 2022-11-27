@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112802" updatetime="20221128">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3CE1AC3AA0752A9D8B0FA6304DC896B2.jpg" title="神颜小花周也" content="周也的气质独特，清冷又带着高贵，可以轻松驾驭各种风格的造型。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7162032912601236007/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=431793" packagename=""/>
+			<image src="1D6C6256732DFF9CE6EB734328BFF43A.jpg" title="森野少女杨超越" content="杨超越氛围感随拍，身穿流苏马甲漫步野外，金色阳光洒在发间，温柔又治愈。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/324340_0.html" packagename=""/>
+			<image src="8049F2FD7D8F2E1D6A77BA135683B412.jpg" title="赵丽颖一身傲骨" content="为了复刻年代感，赵丽颖红唇大波浪出演新剧，男主更是高颜值实力派！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223158.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C1ABB617BDEDF93541DA41A2FDDABD6F.jpg" title="有美人尖的明星" content="拥有美人尖的几位明星，他们或俊俏、或妩媚，个个气质非凡惹人羡。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629562.html?meetting=1669330837312" packagename=""/>
+		</type>
+	</switch>
+</layout>
