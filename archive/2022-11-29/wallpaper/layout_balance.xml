@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022112902" updatetime="20221129">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8871C8C0BBC493BC69C53EA26399B1AA.jpg" title="吴谨言古风大片" content="吴谨言一袭淡紫衫，飘飘若仙，小家碧玉的古风美人，让人眼前一亮。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326664_0.html" packagename=""/>
+			<image src="6849FD7180EF569598E7D84BB15E4176.jpg" title="泰勒斯威夫特" content="聆听Taylor Swift不眠夜的故事，拥抱真实的自己。©音乐" cpname="" download="" contenturl="https://portal-drcn.music.dbankcloud.cn/music-apph5-service/h5/index.html#/digitalalbumhome?transparentstatusbar=true&amp;hideactionbar=true&amp;theme=black&amp;share=true&amp;albumId=NEf1jOmcE7sFXM9n6&amp;fromWhere=102&amp;shareback=true" packagename=""/>
+			<image src="AF2127BA540318EAB4F1C83191995BAF.jpg" title="人间清醒宋祖儿" content="宋祖儿自爆素颜出门无人认识，相比明星，更愿意做平凡人。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629560.html?meetting=1669330841008" packagename=""/>
+			<image src="57AABC1B00AAE069730B457DEDB17FDA.jpg" title="东方美人刘令姿" content="身材高挑的刘令姿，简直就是行走的衣架子，不管是御姐范还是清新甜美范，她都能轻松驾驭。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7168324037637341731/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433126" packagename=""/>
+			<image src="DD302F490091EE14BBC66C8ECBA89B08.jpg" title="魏大勋的高情商" content="魏大勋在节目中不争胜负，他的高情商，使这部综艺首播就“封神”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223647.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
