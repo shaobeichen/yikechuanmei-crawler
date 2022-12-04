@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022113001" updatetime="20221130">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D561ED7790CB77E23E395106DFAD7FC9.jpg" title="王艺瑾少女心事" content="王艺瑾动情演绎新歌《无法再靠近》，将少女心事娓娓道来。©音乐" cpname="" download="" contenturl="https://portal-drcn.music.dbankcloud.cn/music-apph5-service/h5/index.html#/musicShare?songid=NGQbA6yBhE7_xI-zn&amp;shareChannel=copyLink&amp;fromWhere=1117" packagename=""/>
+			<image src="32B8995A57F1DF4872B59327C50CD942.jpg" title="虞书欣秀好身材" content="虞书欣不愧是百变女王，每一次出场都能带来意想不到的惊喜。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/328043_0.html" packagename=""/>
+			<image src="9DDFC5141718948E250877EDDAA80189.jpg" title="圈内的童颜女星" content="这些女星长着一张娃娃脸，笑起来灵气十足，是名副其实的“童颜美人”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629465.html?meetting=1669330842002" packagename=""/>
+			<image src="E7883E273952FF5911983716CBDC0327.jpg" title="许凯新剧开播" content="许凯新剧高糖开局，御姐与“小奶狗”的搭配碰撞出了不一样的火花！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223641.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3A46196E3C85470E10DE1508A63553CE.jpg" title="金莲花最佳女主" content="赵露思提名金莲花最佳女主角，与多为实力大咖竞争视后。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7171051569042276875/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=434052" packagename=""/>
+		</type>
+	</switch>
+</layout>
