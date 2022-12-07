@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022120802" updatetime="20221208">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="11A3D0E67DA54ACED3AC589E3D8A64CB.jpg" title="古风美人林允" content="林允身上有一种古典美感，置身在浪漫花海里的她，宛如古画里走出来的美人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/325547_0.html?1111" packagename=""/>
+			<image src="9D0B082263BA48DA93BF603610F67332.jpg" title="圈内的混血美人" content="这些女星兼具中西方美人的优点，个个明艳大气，美得不可方物！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629169.html?meetting=1668669041509" packagename=""/>
+			<image src="F57DB12466967A6D5FDCB22AE6D5F639.jpg" title="金鹰节红毯造型" content="任敏金鹰红毯身穿文艺小白裙，显得格外轻盈俏丽，步履之间透着一股不食人间烟火气。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7162349919284494885/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433802" packagename=""/>
+			<image src="0F4A2E6BFA9241068BF3E50170F9E92A.jpg" title="陈飞宇人气飙升" content="陈飞宇新剧自从开播以来，就引发了收视狂潮，此外还有三部作品，部部有爆剧潜质！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224022.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
