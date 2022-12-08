@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022120902" updatetime="20221209">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CBADA2FF558AB3442382273EF1039F46.jpg" title="鞠婧祎造型惊艳" content="鞠婧祎一袭红色抹胸裙，笑容温婉迷人，宛若亭台楼阁中的国风美人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/326539_0.html" packagename=""/>
+			<image src="830FC11FAAAA2731CE444B4E6BF2AE98.jpg" title="大张伟治愈烦恼" content="一个Nice！大张伟全新创作曲欢乐来袭，治愈你的不开心。©音乐" cpname="" download="" contenturl="https://portal-drcn.music.dbankcloud.cn/music-apph5-service/h5/index.html#/musicShare?songid=NGKFaoaOcqmkYJ7Vm&amp;shareChannel=copyLink&amp;fromWhere=1117" packagename=""/>
+			<image src="18C509D8C97CD2C7B65BEAF31456CFFA.jpg" title="新起之秀95花" content="95花现状盘点：有人万众瞩目成流量宠儿，有人低调处事、默默磨炼演技。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629468.html?meetting=1669330845412" packagename=""/>
+			<image src="908F8F6A5AF00AE39BA15415AC95A498.jpg" title="清甜可人郑乃馨" content="郑乃馨用了三个月的时间练习花滑，在冰上像花一样绽放，被称为“冰雪公主”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7066044241616880139/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433764" packagename=""/>
+			<image src="4BCB6D8B91FF83E8CD98A056041B48E1.jpg" title="陈都灵新剧开播" content="陈都灵主演双女主剧，在两分钟的预告里，两人一共换了46套衣服！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224027.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
