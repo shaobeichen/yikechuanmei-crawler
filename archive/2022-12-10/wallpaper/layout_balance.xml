@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121002" updatetime="20221210">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="76128191A1D64DDD9940D26BAF5AE52D.jpg" title="被误解的唐嫣" content="坚守本心、不骄不躁，唐嫣正默默努力撕去“傻白甜”的标签。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629467.html?meetting=1669330846835" packagename=""/>
+			<image src="9A7F13D49877E600AA816F2A7C01AA2B.jpg" title="内娱年度大事件" content="在这一年里，很多明星因作品、话题等一跃“飞升”，成为了今年最火热的人物。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/328026_0.html" packagename=""/>
+			<image src="74B472B36CAEAAC17EC433C11A7468A4.jpg" title="乐坛天花板周深" content="周深影视歌全面开花，没等上一个名场面褪去热度，下一个高光时刻就已经向我们迎面走来了。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7047706982693732894/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433801" packagename=""/>
+			<image src="EFAE42176BCA888F2233F23617B5FB38.jpg" title="追梦女孩张楚寒" content="夹缝中追梦的张楚寒，不再是那个没有镜头早早被淘汰的姑娘，而是让人惊艳的黑马。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224019.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
