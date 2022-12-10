@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121102" updatetime="20221211">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D4BD1234B44DA4F2A2D88B7DBC715888.jpg" title="人间清醒杨超越" content="杨超越虽然看起来很呆萌，但思想却很成熟，每次都懂得如何做出最合适的选择。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7019186964834370060/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432060" packagename=""/>
+			<image src="C1841BF58BA94DDCE81A63DCF0880D90.jpg" title="高个儿女星盘点" content="看脸仿若一米五，实际身高已达一米七，这些“脸矮身高”的女星太令人意外！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629722.html?meetting=1669878040040" packagename=""/>
+			<image src="2067C64B17F40BAA7839C5BA02826ACB.jpg" title="杨紫回归都市剧" content="杨紫在新剧中，饰演一名新闻记者，并且搭档新生代偶像，上演都市姐弟恋！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224008.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DC062BA9C32559AB58036DBBFF150B51.jpg" title="成毅火出国门" content="成毅作品走出国门，被泰媒称“戏剧之神”，多个古装造型出圈。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329308_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
