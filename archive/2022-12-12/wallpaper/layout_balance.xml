@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121202" updatetime="20221212">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="AFA7CC35B3DEED6035DAF878AB59F96F.jpg" title="耿直女孩李一桐" content="李一桐不论是身材气质，还是业务能力、影视资源都很出挑，绝对算得上行业里数一数二的存在。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7049918081606418958/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432777" packagename=""/>
+			<image src="F38F8CE08742C2FA0DDEAF096DFA5897.jpg" title="宫廷剧演员现状" content="《甄嬛传》主演现状揭秘：有的一炮走红，事业顺风顺水，有的收获甜蜜爱情成人生赢家。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629461.html?meetting=1669330844292" packagename=""/>
+			<image src="284A19F4A303AC1627E021E00213EB0D.jpg" title="孔雪儿破茧成蝶" content="孔雪儿不仅有不服输、不怕吃苦的坚韧品质，她的舞蹈也惊艳了整个舞台！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224016.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="64492342CB32FCAE9B834616A4090F5C.jpg" title="赵丽颖爆款好剧" content="好评如潮！赵丽颖新剧开播即火，多位实力大咖共同演绎90年代奋斗者的故事。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329140_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
