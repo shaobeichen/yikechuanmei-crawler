@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121302" updatetime="20221213">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CA52823CD49E790AC4258DFAF2333397.jpg" title="人间仙女周洁琼" content="提到曾在韩国发展的“归国女星”，周洁琼的名字一定会出现在前列。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7103808383932842537/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=432579" packagename=""/>
+			<image src="F00968B9FC447C42F20AC6E68A6A8967.jpg" title="热巴雕塑感大片" content="迪丽热巴的杂志造型美成一座“雕塑”，五官棱角感强烈，让人眼前一亮！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/328199_0.html" packagename=""/>
+			<image src="331E4ED1064C295DF6881658D0D585E0.jpg" title="费启鸣励志成长" content="费启鸣从网红到圈内的当红小生，他用励志的成长，诠释“英雄不问出处”之理。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224418.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C8E2783935478BF981FF268B16DBABC2.jpg" title="许佳琪闪闪发光" content="既是舞台女王，也是励志偶像，许佳琪正努力成为粉丝的骄傲与榜样。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629666.html?meetting=1669878038551" packagename=""/>
+		</type>
+	</switch>
+</layout>
