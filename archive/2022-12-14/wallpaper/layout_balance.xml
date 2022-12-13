@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121402" updatetime="20221214">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8CC6232DCB2CA109D478D9CDC79FB213.jpg" title="00后的庄达菲" content="需要不断沉淀、踏实学习的表演事业，是庄达菲这辈子想一直坚持的事情。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/327997_0.html" packagename=""/>
+			<image src="16BBC305C212B9B7A7990F5D28D525E3.jpg" title="当红小生王鹤棣" content="出道多年默默无闻，现凭借《苍兰诀》逆袭，来看看王鹤棣火出圈的背后故事。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629773.html?meetting=1669878033961" packagename=""/>
+			<image src="79963967697C12F64ED30C2A626B5EE7.jpg" title="画中美人张艺凡" content="张艺凡身穿红衣行走在漫无边际的山川河流间，微风拂来，裙裾飞扬，飘逸生花。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7140502968599872034/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433912" packagename=""/>
+			<image src="9BFA292A77BBBF61A8B992C9DE1C84AF.jpg" title="何瑞贤成功出圈" content="浓颜系美女何瑞贤，可盐可甜可性感，各种风格她都可以完美驾驭！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224425.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
