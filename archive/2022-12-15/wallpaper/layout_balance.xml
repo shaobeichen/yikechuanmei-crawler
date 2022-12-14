@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121502" updatetime="20221215">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="88EEB64ADE4010C0EB6504322E5E0080.jpg" title="白鹿新剧看点多" content="白鹿有三部待播剧，可以说将古偶、现偶、仙侠剧全囊括了，期待值满满！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329327_0.html" packagename=""/>
+			<image src="2D5C3377E724A1344C021782A5D889FB.jpg" title="宋轶的公主造型" content="梦幻的粉色裙装不光有着强烈的吸睛感，选款得当还能兼具华丽和减龄的效果。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7050679103019647496/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433901" packagename=""/>
+			<image src="BA18E4E5BEAABB5A2B544324862288E1.jpg" title="叛逆女孩吴宣仪" content="有种叛逆叫吴宣仪！她多次因着装奇特被热议，却仍能坚持自我，不受外界影响。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629999.html?meetting=1670559033692" packagename=""/>
+			<image src="D5C2BBC2C910EAB51926A362F7DC3EA9.jpg" title="李宇春回忆往事" content="李宇春在访谈节目中亮相，开启一场关于心灵的对话，那是独属于她的夏日旧电影。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224419.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
