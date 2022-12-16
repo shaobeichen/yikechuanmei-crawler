@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121702" updatetime="20221217">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D8FE1C160020628598B01A69BEE5D455.jpg" title="内娱校花大盘点" content="盘点娱乐圈的名校校花，个个气质不凡，极具辨识度。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7171330302630134311/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=434051" packagename=""/>
+			<image src="3DFFB2AD128BC72B68223F3B0A02A231.jpg" title="罗云熙好剧推荐" content="出道多年，长相帅气的罗云熙，饰演过不少作品，带来了许多经典的角色。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329332_0.html" packagename=""/>
+			<image src="E55899FCF02C3BC4731B863E27B0EC8D.jpg" title="95后实力小花" content="这几位95后小花，有的戏路广能抗收视，有的后势奋起，实力不可小觑！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629721.html?meetting=1669878041510" packagename=""/>
+			<image src="3D94DB308C88CF7B5C5D9439CD0147F4.jpg" title="刘涛出演职场剧" content="刘涛与老搭档再次合作，出演都市职场剧，她可圈可点的演技，引无数观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224422.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
