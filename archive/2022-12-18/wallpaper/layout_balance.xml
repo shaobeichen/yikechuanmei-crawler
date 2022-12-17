@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121802" updatetime="20221218">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="875CA8B6BAEBC3E21AE839915F0D9DD8.jpg" title="点击了解" content="凭借青春阳光的气质，以及在影视、音乐方面的出色表现，侯明昊被冠以“超能少年”之称。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329295_0.html" packagename=""/>
+			<image src="1A435F89CF802D1A8A9DEBC900E8D9C0.jpg" title="华丽逆袭的女星" content="从备受质疑到众星捧月，这些女星淡然处世，最终华丽转身。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629964.html?meetting=1670558435190" packagename=""/>
+			<image src="5B6FB99F0BF8550B335C9B7075D42262.jpg" title="哈尼克孜美如画" content="哈尼克孜，被称“新疆四大美女”之一，她异域风情的美冲击着观众的视觉神经。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224431.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="168E103052DACE6DBC98EB14AA06A53C.jpg" title="蒋依依仙气飘飘" content="蒋依依的美极具辨识度，可谓是一见皆惊，一眼千年。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7174562197983576591/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435126" packagename=""/>
+		</type>
+	</switch>
+</layout>
