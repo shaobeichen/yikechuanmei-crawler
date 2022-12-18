@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022121902" updatetime="20221219">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7BC52F0364606A8B2CE4F9E58FDF6984.jpg" title="古装男神茅子俊" content="茅子俊携四部未播先火的古偶剧来袭，造型一部比一部惊艳，引发了无数观众的期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_223649.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="FB8BBEC19ACE559238101E2184BB8143.jpg" title="孙怡肆意绽放" content="身为演员，孙怡似乎完全没有被演艺的洪流所影响，而是简单纯粹着，慢慢享受着自己的步调。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/328139_0.html" packagename=""/>
+			<image src="AD993F9EBF544AE4E42ECC0E7CD64399.jpg" title="励志女星赵露思" content="从18线网红到当红流量小花，赵露思的演艺之路太励志！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629981.html?meetting=1670559037588" packagename=""/>
+			<image src="42D3D759C2F95726E280639106FF259C.jpg" title="气质女神刘诗诗" content="芭蕾舞科班毕业的刘诗诗保持着良好的身形与体态，举手投足间尽显优雅。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7175073756791063072/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435097" packagename=""/>
+		</type>
+	</switch>
+</layout>
