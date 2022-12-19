@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122001" updatetime="20221220">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="03E66D1596DFCA210B53FB05D962E536.jpg" title="慢热选手檀健次" content="在被大众看到发光之前，檀健次一路拾阶而上，已经把自己打磨了许久。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/329262_0.html" packagename=""/>
+			<image src="ABA43C76E270A10784D3E605F63A401D.jpg" title="圈中的旗袍美人" content="这些女星用旗袍传达了万种风情，其造型惊艳，堪称一绝！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629955.html?meetting=1670559038262" packagename=""/>
+			<image src="F27BEEC4D1C7E1D535423E8C11FF01BF.jpg" title="霸总赵丽颖" content="一连2天全网热度第一，赵丽颖这剧，堪称是大女主剧的天花板。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7171651979020632614/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433900" packagename=""/>
+			<image src="_E16B657A89FBC5AD95E4D4F6AE6F5F22.jpg" title="傅菁无糖恋曲" content="用《我们不要在一起太久》当做对爱情的期待，每延长一天都是惊喜！©音乐" cpname="" download="" contenturl="https://portal-drcn.music.dbankcloud.cn/music-apph5-service/h5/index.html#/musicShare?songid=64146995&amp;shareChannel=copyLink&amp;fromWhere=1215" packagename=""/>
+			<image src="589DC0BA98A26D7BA1565FA900A97EBB.jpg" title="年少成名的小凯" content="王俊凯的热门电影，除了在影院放映外，还被改写为剧本杀，极具商业价值！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224848.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
