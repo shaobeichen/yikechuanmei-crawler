@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122102" updatetime="20221221">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="47064658D03C0C93B7B9153B25B37A08.jpg" title="圈中的气质女星" content="这些女明星脖颈修长、体态优雅，总是合影中最亮眼的存在。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629736.html?meetting=1669878043485" packagename=""/>
+			<image src="FAFD1106677BFD1E8D8D8B8E36E3E8E2.jpg" title="新晋顶流王鹤棣" content="从“古偶丑男”到“流量密码”，一起用数据解读王鹤棣的蜕变之路。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7160484694281175563/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=434539" packagename=""/>
+			<image src="A4ECA738A3AE159B43C3754D04C08CED.jpg" title="宋祖儿戏路极广" content="宋祖儿今年才24岁，却已经出道了17年，可以称得上是“老演员”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224853.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3BB84A769F401AC54B83A916E115B9F1.jpg" title="不可小觑的演员" content="有颜值有演技的她，拥有着独特的个人魅力，是一位很有潜力的演员。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/331397_0.html?1208" packagename=""/>
+		</type>
+	</switch>
+</layout>
