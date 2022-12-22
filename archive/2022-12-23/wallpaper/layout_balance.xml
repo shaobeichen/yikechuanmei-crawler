@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122302" updatetime="20221223">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A9CAD09628DDF1EAD6463F55E0410AE0.jpg" title="白鹿的闺蜜情" content="从网红模特逆袭成为娱乐圈红人，成名后却不忘提携闺蜜，她的这个举动惹全网称赞。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629996.html?meetting=1670559036609" packagename=""/>
+			<image src="_E9B77DBAA533563E2877C8DC1A686700.jpg" title="万里归途" content="张译王俊凯携外交小队，带领被困同胞脱离险境，回归祖国怀抱。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/iJIEIVlmhy" packagename=""/>
+			<image src="0EEFD6C3BD4FDDF0717EFC765A50F7A9.jpg" title="许凯新剧来袭" content="许凯爱情剧还在热播，又有两部新剧将袭，阵容强大，看点十足，爆款预定了！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224854.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="4A1CF9A5C18EFF1E8D3019F0B226E9F9.jpg" title="00后演技担当" content="有人评价她是“剧抛式演员”，每次塑造的角色都没有被以往的角色形象所禁锢。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/330545_0.html?1204" packagename=""/>
+			<image src="AA5E039ACE7FA9A659AEBB09D86A6CEC.jpg" title="拼命三娘柳岩" content="柳岩用顽强的意志不断逆袭，除了有傲人的成绩外，她还有激励人心的正能量。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7177294450501485111/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435391" packagename=""/>
+		</type>
+	</switch>
+</layout>
