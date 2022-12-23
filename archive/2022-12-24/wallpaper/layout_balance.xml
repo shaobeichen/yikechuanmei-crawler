@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122402" updatetime="20221224">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="40D812FDE632FE8DC80CF61321C06160.jpg" title="孟子义意外出圈" content="如果要盘点娱乐圈让人“黑转粉”的明星，列表中一定会出现孟子义的名字。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7110193566856659488/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433255" packagename=""/>
+			<image src="B1D62F235E2BF61E9AA404EE80C3F1BD.jpg" title="人气小花周也" content="新晋小花周也资源逆天，4部电视剧、3部电影待播，部部都有爆款相！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224852.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E7AA7302283CC58AE386617D9E2A539A.jpg" title="张天爱成功背后" content="张天爱默默努力，演了6年配角，最终一夜爆红备受瞩目。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630081.html?meetting=1671606635176" packagename=""/>
+			<image src="817D886DB4822EFC1F2D313A7B16F8B2.jpg" title="陈飞宇爱上表演" content="在聚光灯下成长的陈飞宇，在一次次的接触表演后，彻底爱上了表演。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/332835_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
