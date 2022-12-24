@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122502" updatetime="20221225">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="BF5FA77518EBC7FA1BFBC9D40B0B35F2.jpg" title="低调演员王凯" content="王凯的航天题材剧即将上星播出，大牌演员强势助阵，观众们开始期待他的精彩演绎！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224851.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="D0EF7059BCE4751AE0DD7C529890E682.jpg" title="低调女演员宋轶" content="宋轶一直不争不抢，始终保持着独一份的清醒，用角色与观众对话。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/330954_0.html?1206" packagename=""/>
+			<image src="169E9ACA1485CF2409289E7B3AFD058E.jpg" title="唐艺昕的晋级路" content="笑容甜梦、灵气逼人的唐艺昕，出道就或认可，如今在演艺路上一路锐变，成为众人眼中的幸运儿。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630058.html?meetting=1671606637925" packagename=""/>
+			<image src="FFCF94A84BE27960C1CCF194945D514F.jpg" title="张小斐演员典范" content="金鸡得奖之后张小斐选择沉淀，选择用好的作品回馈给喜欢她的观众，这才是好演员的典范。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7177694667134288387/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435689" packagename=""/>
+		</type>
+	</switch>
+</layout>
