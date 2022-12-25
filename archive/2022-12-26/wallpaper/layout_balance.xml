@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122602" updatetime="20221226">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A7E55672C80592280C21A584ECC6C633.jpg" title="年末待播剧盘点" content="2022年末待播剧盘点，王鹤棣新剧热度高，有望成为“黑马”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_224841.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F3FB986CA5EEAF27A3CFDB6F52A88AE6.jpg" title="中式古典美人" content="赵露思“中式古典美人”的氛围感，源于她发型选择，基础盘发把古典美人的质感诠释的淋漓尽致。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7173353775850078754/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435382" packagename=""/>
+			<image src="CFCED48D93E48EAF8A4398E7460A4482.jpg" title="陈妍希撕掉标签" content="从沈佳宜到小龙女，陈妍希勇敢地撕去了所有的标签，只做最真实的自己。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630079.html?meetting=1671607235012" packagename=""/>
+			<image src="820A46FDD6DC123C88B8701882399834.jpg" title="毛晓彤的新身份" content="以主持人身份惊喜亮相的毛晓彤，身穿一袭白色花朵长裙，气质非常出众。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/332850_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
