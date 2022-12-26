@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122701" updatetime="20221227">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3A43F98ED973EF40E5A501A56D686255.jpg" title="陈都灵气场全开" content="多以柔弱淑女形象示人的陈都灵，在新剧中挑战飒气十足的女总裁角色，让人眼前一亮。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7170981646454456867/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435374" packagename=""/>
+			<image src="7E4E49C4DB6C3FAC05223C81AE4098F7.jpg" title="川渝美男子盘点" content="巴蜀多产美男子，这些来自川渝的男明星，个个俊秀如玉，半数是顶流。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627335.html?meetting=1664439635499" packagename=""/>
+			<image src="A18C75F50DECC1B5B8FCBA2122418E9C.jpg" title="刘亦菲自信之美" content="刘亦菲谈出道20年的变化和成长，坚持本心，朝着自己想要的目标前进。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/332603_0.html" packagename=""/>
+			<image src="55C5F6C46C817EF7B4289AE1A2A757FE.jpg" title="蔡文静新剧来袭" content="蔡文静新剧集聚当下热门话题，更多实力派演员加盟，阵容强大，看点十足！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225377.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
