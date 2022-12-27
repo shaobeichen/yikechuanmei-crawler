@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122802" updatetime="20221228">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="743B2B8180AC0DDAC0F7B58FC81F6486.jpg" title="剧抛脸赵丽颖" content="赵丽颖热播剧中挑战复古造型，角色代入感十足，被网友认证：演什么像什么。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630071.html?meetting=1671606637063" packagename=""/>
+			<image src="06ECC7246CF7F1B54AAF5567A6077E29.jpg" title="周洁琼野蛮生长" content="凭借着自己的脚踏实地一步一步地往目标前进，周洁琼正在蜕变成为一名优秀的演员。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/332860_0.html" packagename=""/>
+			<image src="BFF37720763A7D2AEA0715ECB0B75262.jpg" title="李泽锋成功出圈" content="李泽锋凭实力出圈，再次出演现代甜宠剧，与女主的对手戏精彩在线！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225371.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="236C1294A41D432731E6324164761B6E.jpg" title="人间清醒孙怡" content="孙怡谈自己的婚姻：没有归属感，但不后悔那么早结婚生子。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7145658329115787810/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436001" packagename=""/>
+		</type>
+	</switch>
+</layout>
