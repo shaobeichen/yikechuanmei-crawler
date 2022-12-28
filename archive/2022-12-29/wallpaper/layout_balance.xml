@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022122901" updatetime="20221229">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="F50D42DF39B26791A05CD389B8148A0C.jpg" title="迪丽热巴成名史" content="从无名女配到圈内顶流，迪丽热巴终于得到了最好的回报。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629738.html?meetting=1669878042470" packagename=""/>
+			<image src="EE35B5B1FE86DAC9646D3185EA2C8B9B.jpg" title="蒋依依演绎古典" content="蒋依依穿古装演绎古典美女，阳光下倚墙而立唯美动人，一颦一笑好似仙女下凡。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/331145_0.html?1207" packagename=""/>
+			<image src="01FA6CFD85C66D9DF15E411A9B405B0A.jpg" title="傅菁新剧热播" content="傅菁不仅有热播的古装轻喜探案剧，而且待播剧也与众多明星合作，引无数观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225373.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="447C14DABE214E079BF22E470C59236E.jpg" title="龚俊语录大盘点" content="龚俊：“做自己喜欢做的事情，把脚下的路踏实了，就是不负好时光。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7064218243799663139/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436003" packagename=""/>
+		</type>
+	</switch>
+</layout>
