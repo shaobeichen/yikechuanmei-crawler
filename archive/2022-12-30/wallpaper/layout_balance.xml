@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022123002" updatetime="20221230">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="893754F06FD63D63CFB735EDB5C5C96D.jpg" title="年少成名王源" content="少年出道、一夜成名的音乐人王源，从迷茫到强大，最终找到了属于自己的舞台。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630144.html?meetting=1671607236486" packagename=""/>
+			<image src="D2A2BE6372E3D692605B7931DED451EA.jpg" title="王鸥参加真人秀" content="推理类真人秀回归，本季王鸥“接棒&quot;，4位明星确认加盟！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225388.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="D0F218D45BA2C273D586B287B984A701.jpg" title="最佳甜妹田曦薇" content="灵动的大眼睛、笑起来还有浅浅的梨窝，演员田曦薇是标准的甜妹长相。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7167668082201100839/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436012" packagename=""/>
+			<image src="EE02E69FD51B55816CE9BD12FCD9D4B5.jpg" title="年度受欢迎女主" content="2022年很多剧都收获了不错的热度和口碑，同时也出现了很多人气很高的女演员。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/333884_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
