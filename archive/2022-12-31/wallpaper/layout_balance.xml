@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022123102" updatetime="20221231">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5D9AFBA1E4A1B17A7A1AA3AFC4A0D174.jpg" title="杨超越爆红原因" content="从默默无闻的普通人，到聚光灯下光鲜靓丽的明星，杨超越的持续爆火是偶然，也是必然。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630150.html?meetting=1671609635689" packagename=""/>
+			<image src="CD4678908D815EC6EA03A86DE8C101AC.jpg" title="年终演唱会阵容" content="2022年终演唱会重磅官宣，众多明星倾情加盟，真的是大咖云集，天降惊喜！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225894.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="9AE3AB98E33D5ACCEFED81393CA47BF8.jpg" title="低调女星陈瑶" content="陈瑶被称为“惹人喜爱的反派”，出道多年无绯闻，年近三十仍少女感满满。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7151697742359085608/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436000" packagename=""/>
+			<image src="A6A67F576E3ABC81C801F950DBAE4336.jpg" title="娱乐圈年度赢家" content="2022年的娱乐圈可谓是热闹非凡，时刻都在宣传正能量的他们，成为了最大赢家。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/333800_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
