@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010102" updatetime="20230101">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="357AF4BBB6B6CBED3D3BE9C1E27CE466.jpg" title="小花红毯表现力" content="每年都会举行大大小小的颁奖典礼，小花们的“红毯表现力”也被广大网友时刻关注着。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/332843_0.html" packagename=""/>
+			<image src="D98A33BF1060423F4B7409C6C2CF59A8.jpg" title="新晋顶流陈飞宇" content="陈飞宇电影氛围感雪景海报公布，漫画感十足，惹人期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225376.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="33FDCF55953B475DB90A8FD60C21D3A8.jpg" title="未来可期吴宣仪" content="吴宣仪为梦想过关斩将，向年轻人佐证“向阳而生，逆风翻盘”的含义。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6693782259318653443/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436014" packagename=""/>
+			<image src="B11227A0D91F6AE541EE200C3A265433.jpg" title="美得惊人的女星" content="这些女星的气质灵动、古装造型绝美，让人回味无穷。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630249.html?meetting=1672268434986" packagename=""/>
+		</type>
+	</switch>
+</layout>
