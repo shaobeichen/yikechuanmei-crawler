@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010202" updatetime="20230102">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="2E8A489D95C5FF0453BF88C7D8AE9DE6.jpg" title="真性情女孩周也" content="做天真的女孩，也做认真的演员，面对未知的未来，周也已经准备好了。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/330427_0.html?1201" packagename=""/>
+			<image src="053C01B4FCA1DD40EC7EA62B0B2EB934.jpg" title="周洁琼网剧将袭" content="由周洁琼领衔主演的武侠甜宠剧，获网剧发行许可证，引发无数观众的期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225382.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F534CDBDC446E3884455DA56E5590101.jpg" title="张予曦实力走红" content="从不知名的模特到实力派演员，张予曦转型成功靠的是不负观众的实力和作品。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7031554325692564006/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436015" packagename=""/>
+			<image src="449517D6B00C6CAB2593946DA0C3CEBB.jpg" title="张若昀的眼光" content="张若昀凭多部优秀作品圈粉无数，意外导致续作人气指数爆棚，让人期待满满。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630251.html?meetting=1672209041000" packagename=""/>
+		</type>
+	</switch>
+</layout>
