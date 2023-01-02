@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010302" updatetime="20230103">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C7D21A3B8C7C8027AA572DC2B60E3E72.jpg" title="明星过往的职业" content="明星们出道前都在做什么？这些明星的过往职业可能会让你意想不到。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/331659_0.html?1210" packagename=""/>
+			<image src="C83689C5A01D35CDB5B48A7A675A9C9F.jpg" title="自律女神张天爱" content="张天爱早上起来就开始做运动，工作化妆期间还会举哑铃，睡前护肤运动两小时，自律到让人佩服。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116153706797695522/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=435386" packagename=""/>
+			<image src="180FEBD619A6944CBF8F3E28E1DA4D9E.jpg" title="明星对粉丝态度" content="娱乐圈的明星有多宠粉！这些明星三观正，尊重粉丝，态度超暖心。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630259.html?meetting=1672213233398" packagename=""/>
+			<image src="DAA9034F1451927FDAE411F790E4BC11.jpg" title="刘芸无比真实" content="刘芸在综艺中，与老公的相处模式太爆笑！她毫不做作，让观众对她充满好感！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225803.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
