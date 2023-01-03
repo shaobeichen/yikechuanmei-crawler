@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010402" updatetime="20230104">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D5C44D350A71351B1E3E87E276078DE4.jpg" title="杨颖的绝美古装" content="杨颖的这些古装造型，长发飘飘、凤眼迷人，美出了新境界！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630250.html?meetting=1672209041634" packagename=""/>
+			<image src="C51700E7395CE48092D74B1386B447C2.jpg" title="高个子女星盘点" content="娱乐圈美女如云，不乏一些高挑美女，而这些女星的身高却令人意想不到。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/333794_0.html" packagename=""/>
+			<image src="E7EDDD8547518F1891975FFA63A70EFB.jpg" title="黄晓明综艺开播" content="黄晓明动情讲述剧组小白辛酸史，引发大家的共鸣，同时也分享了不少职场干货！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225804.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="B4D03A591FD182C1BC167A7278FA1D9D.jpg" title="互联网嘴替乔欣" content="真的有被乔欣的言论惊艳到，节目中乔欣金句频出，被观众称为“互联网嘴替”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7169593677831094795/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436522" packagename=""/>
+		</type>
+	</switch>
+</layout>
