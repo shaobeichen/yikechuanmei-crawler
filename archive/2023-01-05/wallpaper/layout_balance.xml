@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010502" updatetime="20230105">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="46612931597272D4DF2DAF5FF1100A5B.jpg" title="角色万花筒" content="赵丽颖挑选剧本真的是目标很明确，不顺应时势，而是创造时势。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7178532196951704103/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436004" packagename=""/>
+			<image src="084F2C825CBE3A0D9ADF01A973B1475D.jpg" title="神仙哥哥于朦胧" content="“陌上公子人如玉”，于朦胧并不只是个古装惊艳的哥哥，选秀出道至今他经历了许多。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630264.html?meetting=1672219233328" packagename=""/>
+			<image src="42EAEA30796C2022BEABF0C1EAAD0E8B.jpg" title="淡然处世的文淇" content="从艺九年、誉满荧屏，文淇仍然不改初衷，始终保持着一份蓬勃的生命力。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/333863_0.html" packagename=""/>
+			<image src="CBD1B9A0636404882ED6FC1B80948242.jpg" title="倪虹洁实至名归" content="出演情景喜剧不会限制戏路，只要演技过硬，总有转型成功的一天！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225806.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
