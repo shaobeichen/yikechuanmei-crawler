@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010601" updatetime="20230106">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="CC627BC6114B7408D814E58D30ED18EB.jpg" title="女星美人鱼造型" content="女星COS美人鱼盘点，有的素颜出镜，一脸清纯、表情呆萌惹人怜爱。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630253.html?meetting=1672284635585" packagename=""/>
+			<image src="5306C5AB4C70B54AC7A585C8381ED97D.jpg" title="沈月的反差感" content="沈月在新综艺中看点十足，成功推动了这部综艺的热度！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225807.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="7B535B151CD6AB11050FEA424C83946F.jpg" title="甜美可人赖美云" content="赖美云：“温暖的笑容与生俱来的，努力的种子也能开花结果。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7005768664842502686/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436521" packagename=""/>
+			<image src="B3C3D8BF7A3F2674BBE693648DE3E101.jpg" title="女星甜妹天花板" content="审美或许是个轮回，甜妹再度“攻陷”娱乐圈，谁才是你心中的甜妹天花板？©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334608_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
