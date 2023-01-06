@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010702" updatetime="20230107">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="628C1C672C6B175EB4F2C000A69374BD.jpg" title="破格公主陈卓璇" content="从默默无闻到作为女团成员出道，陈卓璇敢想、敢言、敢做，她的成功从来都不是意外。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630248.html?meetting=1672218634258" packagename=""/>
+			<image src="918A8712B5C7AEA1A360BAF79D0007AD.jpg" title="钟楚曦国风之美" content="钟楚曦古装再现柔情美，一身红纱穿出别样风情，美到骨子里。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/333894_0.html" packagename=""/>
+			<image src="4A12CD18C5DDBF06793E50EAE3B35C97.jpg" title="实力演员刘敏涛" content="刘敏涛新剧开机，与新搭档共同演绎“医院风云”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225808.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="2BE94E3070F752A3D95893F20F3C82BD.jpg" title="李现新剧播出" content="剧中邻里街坊，一蔬一饭，这些再寻常不过的生活小事在被温暖演绎过后都变得有趣起来！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7184374931772211724/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436602" packagename=""/>
+		</type>
+	</switch>
+</layout>
