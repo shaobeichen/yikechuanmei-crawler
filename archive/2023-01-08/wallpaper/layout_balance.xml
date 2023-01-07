@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010802" updatetime="20230108">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D49C64AE785F44713EDEE2D3769E6AF1.jpg" title="明星亲姐妹盘点" content="这些明星亲姐妹守望相助、抱团打拼，并肩走过艰难岁月，实属难得。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630262.html?meetting=1672285233568" packagename=""/>
+			<image src="C91D8087A285BDECE587E2ADDAC4E427.jpg" title="女团转演员盛行" content="娱乐圈的影视行业就是一块香饽饽，盘点一下从女团成员成功转型为演员的明星！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226137.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="71B07DB5C61E2D932587C3B8400961F2.jpg" title="95后男主演" content="他们是未来可期的95后男明星，每一位都潜力十足，备受关注。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334555_0.html" packagename=""/>
+			<image src="43CABD0672FF8327CEFC8C3E37469650.jpg" title="神仙颜值佟丽娅" content="佟丽娅献唱美出新高度，在灯光的映射下，光芒万丈宛若仙子。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7181101041143415300/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436214" packagename=""/>
+		</type>
+	</switch>
+</layout>
