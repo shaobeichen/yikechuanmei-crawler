@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023010902" updatetime="20230109">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="801C5E1B04BBE0CE052DEBC572511436.jpg" title="不完美的张艺凡" content="张艺凡自爆玻璃心，常有脆弱的时候，是不完美小孩。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630252.html?meetting=1672209040418" packagename=""/>
+			<image src="1E58DD0D9F4BAC0431256386791FBD22.jpg" title="非科班出身演员" content="娱乐圈有不少非科班出身的明星，他们的演技精湛，凭借努力闯出了一片天。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334557_0.html" packagename=""/>
+			<image src="B22A0EDFFA493B18AB3E7FE8AC68D59F.jpg" title="脸蛋天才周也" content="一袭黑色连衣裙展现了周也迷人的肩颈线条，既有女孩子的活泼之美，又有女明星的自信风范。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7183663787516723768/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436600" packagename=""/>
+			<image src="0FA07A7F6B65B3301FB704AEB9074EF2.jpg" title="哈妮克孜美如画" content="盘点一下新疆美人哈妮克孜参演的影视剧，她的一举一动实在令人赏心悦目！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226352.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
