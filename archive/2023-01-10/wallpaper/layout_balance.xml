@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011002" updatetime="20230110">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1B59C92BDB0C630A76C8587F65445008.jpg" title="人间锦鲤杨超越" content="锦鲤少女杨超越可谓是无人不知，自出道以来，不断收获大批的流量与热度。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7125961413650153991/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433252" packagename=""/>
+			<image src="11ED1AF3F7B522CDFA4BC17CF936D872.jpg" title="章若楠真性情" content="从国民初恋到真诚不做作的章若楠，她不忘初心，一步一个脚印走出了属于自己的路。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630266.html?meetting=1672284638762" packagename=""/>
+			<image src="E70AECB38FD24CBD8CFE8E5B451C1FBE.jpg" title="龚俊资源了得" content="龚俊的待播影视剧资源全面开花，一部接着一部，让观众应接不暇。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334619_0.html" packagename=""/>
+			<image src="07D6C7CD95F9A89FC77C7D471FF1EDB4.jpg" title="刘诗诗新剧路透" content="刘诗诗新剧中侠女风英气十足，观众对她侠女形象的塑造以及精彩的打戏充满了期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226366.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
