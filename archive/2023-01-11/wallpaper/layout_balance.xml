@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011101" updatetime="20230111">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C678D600141E8C1CA9D17E3738C4E76E.jpg" title="王鹤棣的新高度" content="王鹤棣的演艺事业刷出新高度，以火热的人气，直接预约2023霸屏一整年！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_225813.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="76DBDA4DDF73CA331E95731E3DDAC90E.jpg" title="杨颖百变造型秀" content="杨颖以三套不同造型亮相，在舞台上散发出她迷人的风采，给人留下深刻的印象。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334615_0.html" packagename=""/>
+			<image src="0E7757BD01826B80B0891048F0375ED7.jpg" title="于文文华丽转身" content="于文文不止一次地强调过：“演戏走红就是一场意外，音乐才是自己的起点和归宿。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7151929145201541663/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=436616" packagename=""/>
+			<image src="8695DC5AC4E7A84E5C93D5760B107A8D.jpg" title="张小斐的逆袭史" content="从默默无闻的小透明到一夜爆红，张小雯能成功，靠的是实力的点滴积累。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630359.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
