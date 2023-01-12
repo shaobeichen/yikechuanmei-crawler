@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011201" updatetime="20230112">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="827BDBACD43E8F82EEE648BAE71F4888.jpg" title="花瓶水位小帖士" content="喜水的花材一定要避开暖气及空调出风口，这样才能减少花卉发蔫及快速凋谢现象！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226257.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="449F5F7D2EC6304BF6ADF72779C8DF5A.jpg" title="质感轻奢风家居" content="空间将雅致都市生活与现代艺术相结合，营造出简洁又大方的生活氛围。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226243.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
