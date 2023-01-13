@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011402" updatetime="20230114">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4EC46358DB115D77789682F43B7318E1.jpg" title="女星经典造型" content="当女星再扮经典角色，她们从妆容到服饰都高度还原，纷纷上演青春回忆杀。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630337.html?meetting=1672959634283" packagename=""/>
+			<image src="1A31CFFF60E1C43202191BD0262B7F80.jpg" title="百变男神张艺兴" content="张艺兴被称为“拼命三郎”，因为不管是综艺还是影视剧，观众都经常看到他的身影。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226359.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="BD05A6EEF346E035355A60B98740264B.jpg" title="年度最佳表演者" content="这些演员让我们看到：好的表演，是让角色成为一个能走进观众的真正的人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336128_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
