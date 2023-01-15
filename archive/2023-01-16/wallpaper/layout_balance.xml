@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011602" updatetime="20230116">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B338183E92386F261E9617192E6B43A0.jpg" title="马思纯做回自己" content="哪怕生活中曾布满荆棘，马思纯也大胆向前，不畏惧流言！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226365.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F97FCE9771827C40A1AB5F612BA8A65E.jpg" title="圈中的冻龄女星" content="岁月从不败美人，这些女星经过岁月的沉淀，变得越来越美。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630423.html?meetting=1673496635482" packagename=""/>
+			<image src="82CEDD92B83360B9BE38885318FD29D7.jpg" title="杨洋重新被定义" content="杨洋始终是在不同类型题材里稳扎稳打、坚持用作品说话、用质量赢得记忆。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335576_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
