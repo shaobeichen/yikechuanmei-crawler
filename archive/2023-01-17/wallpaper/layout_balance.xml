@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011702" updatetime="20230117">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="598810F305686D07D8AE23460B1B7D22.jpg" title="大有可为的林允" content="作为一名青年演员，林允一直在打磨演技的道路上兢兢业业，稳步前行。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/334630_0.html" packagename=""/>
+			<image src="07EE0436BF50E5386447985185B210C5.jpg" title="娱乐圈钢铁直男" content="娱乐圈“三大钢铁直男”出炉，他们个个性格耿直、心直口快，无偶像包袱。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630435.html?meetting=1673497861659" packagename=""/>
+			<image src="F9DA531E8591378CEA43923283D9092F.jpg" title="徐璐新剧亮点" content="徐璐的新剧不仅剧情紧凑，而且特效精良，美轮美奂的东方美学场景，让你目不暇接！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226745.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
