@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011802" updatetime="20230118">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7EFADDC93C05EA7A2A74B6F08EF8D169.jpg" title="圈内的大眼女星" content="这些女明星的眼睛又美又灵，眼中仿佛有星辰大海，一眼就让人沉沦。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630417.html?meetting=1673496035957" packagename=""/>
+			<image src="A2FEB0BB5EA0EC8B9C8416655ADFC631.jpg" title="孟子义清醒自知" content="孟子义在不断的历练和试错中悄然地发生着改变，面对分歧和攻击时，已然学会心平气和。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335959_0.html" packagename=""/>
+			<image src="362C7A9F22A95CEBB5515722EFD75461.jpg" title="新晋偶像何洛洛" content="何洛洛分享活动Vlog，成功追星，在工作中完成了心愿！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226755.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
