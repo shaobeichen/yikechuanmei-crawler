@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023011902" updatetime="20230119">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="74C02852E8FD6C29B788C3428F2C2F4D.jpg" title="“美瞳眼”女星" content="这些女星的天然“美瞳眼”好美，不仅辨识度高还充满灵性，给人留下深刻印象。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335271_0.html" packagename=""/>
+			<image src="57B37C21D56253715891707702CF780C.jpg" title="李晨再演男主" content="李晨时隔5年再演男主，又带来一部生猛新片！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226764.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F392FBCD318F30803DD7A6B2AE4E83D3.jpg" title="人间清醒范丞丞" content="范丞丞用努力证明自己不仅是闪闪发光的爱豆，也可以是有潜力的演员。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7038236498025939486/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437473" packagename=""/>
+			<image src="4966EBCE9057AFE2765F502B58CEB051.jpg" title="虞书欣追星日常" content="细数虞书欣的追星经历，公开表白、朋友圈为其拉票，完全就是个真情实感的小粉丝。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630519.html?meetting=1674019234238" packagename=""/>
+		</type>
+	</switch>
+</layout>
