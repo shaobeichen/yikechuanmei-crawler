@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012002" updatetime="20230120">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="1CDA8473364A2B8D837B5167EFF3C9EE.jpg" title="人气小花章若楠" content="章若楠与流量小生出演甜宠剧，他们可甜可盐，颜值又很出众，让观众沉浸其中！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226766.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="B552241FDEB90C226AD7561C03FAEA0D.jpg" title="李现再度火出圈" content="谁能想到，许久没有在荧幕前出现的李现，竟然会以如此温柔的方式强势的回归！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336587_0.html" packagename=""/>
+			<image src="BD2208C2FA8AE4F66B6377DA4113B197.jpg" title="关晓彤趣事多多" content="爱吃香菜豆腐皮，率性活泼毫无偶像包袱，关晓彤原来还有这么多惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630481.html?meetting=1673996441165" packagename=""/>
+			<image src="09FD910300A7E242A286452903B7E66C.jpg" title="宝藏艺人郭晓婷" content="郭晓婷以表演专业第一考入了上海戏剧学院，她的作品从来没让我们失望过。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7183883953517052420/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437982" packagename=""/>
+		</type>
+	</switch>
+</layout>
