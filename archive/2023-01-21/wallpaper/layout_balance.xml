@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012102" updatetime="20230121">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4A4AB9857D1987327189D347E4326298.jpg" title="硬糖少女近况" content="硬糖少女303解散后，曾经的爱豆境遇大不同，有人忙拍剧，有人频上综艺。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630438.html?meetting=1673498436404" packagename=""/>
+			<image src="C39798700599D8831F5E90ECB9F22865.jpg" title="许凯新剧杀青" content="许凯新剧杀青，片场物料曝光，演员阵容豪华引期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226770.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="15902F11F227C42F451F4D408C366279.jpg" title="赵丽颖新春祝福" content="新年到来，赵丽颖为人们送上新春的祝福，并与大家分享她自己对于幸福的理解。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336497_0.html" packagename=""/>
+			<image src="2FF1A80198F8105DA55A810E5CB2EC81.jpg" title="励志女孩鞠婧祎" content="经过近十年的打拼和努力，鞠婧祎逐渐成为理想中的自己。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7107994065932796428/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437905" packagename=""/>
+		</type>
+	</switch>
+</layout>
