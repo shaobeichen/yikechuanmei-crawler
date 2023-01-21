@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012202" updatetime="20230122">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4EC224CDAAF119A0A9A592D0C75160AD.jpg" title="明星过年尴尬事" content="不管你是路人，还是明星，谁都敌不过家里七大姑八大姨那颗探寻八卦的心！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336110_0.html" packagename=""/>
+			<image src="4C31156006089342C5AD023EF6F99045.jpg" title="金晨有多美" content="被北舞写进教材，誉为“第一校花”，真实的金晨究竟有多美？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630350.html?meetting=1673497867129" packagename=""/>
+			<image src="7E3A5AE22374334879A11FE26A794CDA.jpg" title="徐梦洁的新综艺" content="徐梦洁综艺热播，传递“爱与坚持”，与搭档好似“欢喜冤家”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226772.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="DC72B716891125EF185B3BF743CFD8EA.jpg" title="刘亦菲成名过往" content="刘亦菲出演的第一部电视剧是《金粉世家》，15岁的她可谓出道即成名。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7183613550404043296/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438087" packagename=""/>
+		</type>
+	</switch>
+</layout>
