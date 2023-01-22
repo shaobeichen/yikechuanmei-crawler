@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012302" updatetime="20230123">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C85F770D3F7C0D37CD951A9089E3A74F.jpg" title="易烊千玺转型记" content="告别了曾经的青涩，选择沉淀下来的易烊千玺，已经发生了“翻天覆地”的变化。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336282_0.html" packagename=""/>
+			<image src="DFF81C0963B029E0ECEA173D4D52C1E6.jpg" title="实力演员张小斐" content="从前有多认真，现在就有多成功。张小斐从一个毫不起眼的小角色，蜕变成了闻名遐迩的大赢家。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7062900994547466790/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437211" packagename=""/>
+			<image src="75AA4DDA45A196831A9ACE90E2DAC0EA.jpg" title="85后花旦状态" content="细数85后花旦的状态，她们有的生活低调，有的活成少女。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630498.html?meetting=1674015035937" packagename=""/>
+			<image src="7CED7217B1840B76777A6B4B37E26979.jpg" title="姚晨综艺首播" content="姚晨首次常驻综艺播出，她大方玩梗，又飒又有趣，好评如潮！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227234.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
