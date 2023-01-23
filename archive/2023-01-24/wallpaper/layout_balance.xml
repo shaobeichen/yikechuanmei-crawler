@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012402" updatetime="20230124">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C71FCFCFBF54AEA3B6EEE91EDC13D374.jpg" title="必追剧单盘点" content="今年有更多职场、悬疑、冒险等强档剧正在等待开播，每一部都值得推荐！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335585_0.html" packagename=""/>
+			<image src="792AE37E94A5AA6A44D8C22FF7C95C5E.jpg" title="当明星遇上国风" content="告别曾经的日韩风，这些风靡娱乐圈的国风潮流彰显文化自信！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630348.html?meetting=1673497864187" packagename=""/>
+			<image src="0786D3E8FC6FFFA459D637D5D532D9C7.jpg" title="春晚路透照流出" content="年轻演员吴磊作为娱乐圈的知名童星，这已经不是他第一次参加春晚！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_226762.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="A3AD3F2614BD3068E61E212D6915885F.jpg" title="元气少女周洁琼" content="周洁琼不仅气质灵动，还有着精湛的舞艺与丰富的舞台表演经验。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7085314424948654628/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437985" packagename=""/>
+		</type>
+	</switch>
+</layout>
