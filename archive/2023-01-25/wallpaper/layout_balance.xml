@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012502" updatetime="20230125">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A18A18C6A7538D7F2FC12785D2E56E05.jpg" title="令人期待的演员" content="有着“民国初恋”之称的周也，凭借着不俗的气质和过硬的演技，成为了令人期待的小花。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336354_0.html" packagename=""/>
+			<image src="D8826B684B8B17A960DE79055901B26E.jpg" title="国民妹妹—邢菲" content="邢菲“国民妹妹”的形象深入人心，她属于越看越有魅力的元气少女类型。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7130839512833376798/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437342" packagename=""/>
+			<image src="B5E8A54DF6469B449AB5513531719271.jpg" title="女星飞天造型" content="女星飞天扮相盘点：有人仙气十足闪闪惹人爱，有人靠它一“战”成名。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630464.html?meetting=1673854234372" packagename=""/>
+			<image src="CA12E5F6D6D3595C672D7457C61304B9.jpg" title="白鹿古装剧来袭" content="白鹿的古装剧未播先火，不仅剧组氛围浓厚，而且男女主角也CP感满满！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227238.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
