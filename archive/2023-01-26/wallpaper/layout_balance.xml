@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012602" updatetime="20230126">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="E2038ADC0413BB44E7226E7F400CFCE3.jpg" title="新春影单看点多" content="春节档将有七部新片上阵，涵盖了多个题材，主创和演员阵容强大，看点多多。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336214_0.html" packagename=""/>
+			<image src="2A0D70195AB4AE98560B6131B2EC78E0.jpg" title="温柔浪漫马嘉祺" content="马嘉祺的距离感不是严肃凛然，而是一种寥落和平静。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7178394354329911843/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437747" packagename=""/>
+			<image src="B88462AE6732CDA7CF714F4E6B47B88F.jpg" title="草根女孩杨紫" content="没有显赫家世的杨紫，从被劝退逆袭成当红花旦，离不开这3个人的帮助。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630516.html?meetting=1674016260722" packagename=""/>
+			<image src="276BE373BFC6A634587ACF5C13FA774A.jpg" title="龚俊新剧将启动" content="龚俊首次挑战年代剧，开启一次全新的挑战！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227241.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
