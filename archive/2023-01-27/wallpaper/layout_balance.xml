@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012702" updatetime="20230127">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5D24BF86AA8DF60FD5A6D4F102EA575C.jpg" title="杨超越爆笑喜剧" content="杨超越抽中了王炸剧本，以情景喜剧塑造自身，让更多观众记住了她塑造的角色。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336095_0.html" packagename=""/>
+			<image src="D14863F7982092D46FA53A9217CB1CB1.jpg" title="流量小花孟子义" content="饰演女二却意外出圈，上综艺造梗不停、圈粉不断，孟子义实现影视、综艺两边开花。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630372.html?meetting=1673497867947" packagename=""/>
+			<image src="F9AA23311C6D5BA3617F02BD5078CD27.jpg" title="实力演员张予曦" content="本可以“靠颜值吃饭”的张予曦，凭实力撕掉刻板印象标签，演技获得观众认可。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6921999686446481931/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437347" packagename=""/>
+			<image src="57FADD641D044DDB332690CE3CA1D526.jpg" title="虞书欣新剧路透" content="虞书欣新剧路透曝光，她的紫衣造型仙气飘飘，仿佛从动漫中走出一般！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227242.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
