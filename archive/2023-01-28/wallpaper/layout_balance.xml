@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012802" updatetime="20230128">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="F670BEAA578BF63A0F1DE035A3C8ACE4.jpg" title="硬汉小生黄景瑜" content="无论是偶像剧里的霸总，还是正剧中的正义硬汉，黄景瑜都能诠释得自然而恰到好处。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336616_0.html" packagename=""/>
+			<image src="489C85D9444B316858537EC26D1734B6.jpg" title="百变女神王珞丹" content=" 盘点王珞丹的4个经典角色，米莱心地善良、钱小样古灵精怪。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630483.html?meetting=1673996439887" packagename=""/>
+			<image src="2450DB2F0BE525AD63DCDC4E84AD15AC.jpg" title="张月换脸式演技" content="张月用实力证明了自己，她的“换脸式”演技，吸引了无数观众的眼球！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227244.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8C85A3B6BF3EC01A1C5F375A656FF657.jpg" title="殷桃新剧官宣" content="笑对人生新式结构，自信化解现实疑难，共同谱写家庭美好，期待殷桃的新剧播出！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7187614976746783235/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437485" packagename=""/>
+		</type>
+	</switch>
+</layout>
