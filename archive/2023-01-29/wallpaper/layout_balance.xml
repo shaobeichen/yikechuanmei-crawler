@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023012902" updatetime="20230129">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="14923F736CD401BBB3FD2824554506B1.jpg" title="女团中的神颜" content="娱乐圈中有很多女团出道的女明星们，她们不仅会唱会跳，颜值还非常高。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335955_0.html" packagename=""/>
+			<image src="12B20C15B66020EB979D78C2D2799DF4.jpg" title="温婉美女胡冰卿" content="胡冰卿是一位很受观众喜欢的90后女演员，被行业内誉为“兰草型”女孩。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7072665884577301003/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437340" packagename=""/>
+			<image src="091222A412A8F2D990CAC8CFA53B2BEE.jpg" title="身材完美的女星" content="这些女明星身材匀称、比例超好，一点也不输专业运动员。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630486.html?meetting=1673996439026" packagename=""/>
+			<image src="98ECDECC323248B1B9792AFA97031D9E.jpg" title="赵丽颖的仙偶剧" content="赵丽颖新剧未播先火，预约人数已破100万，成为当季爆款有力的争夺者！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227249.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
