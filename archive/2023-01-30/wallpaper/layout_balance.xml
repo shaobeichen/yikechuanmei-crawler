@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023013002" updatetime="20230130">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="28EA350B07C9F348C943BF54467B23F6.jpg" title="女明星生娃年龄" content="有种“想不到”叫女明星生娃年龄，一起看看这些女星的生娃年龄到底是多大吧！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335336_0.html" packagename=""/>
+			<image src="9A03675BB9769E0914FC6441DC256C82.jpg" title="女星的敦煌舞" content="当她们跳起敦煌舞时，就仿佛千娇百媚的飞天仙女，让人惊艳不已。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630518.html?meetting=1674017435236" packagename=""/>
+			<image src="ADDC7758404394E06ADB3767B9AD0ABE.jpg" title="傅菁新剧待播" content="傅菁眉眼如画，多才多艺，又一部新剧待播，引无数观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227253.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="6020E451D50E7B8DF5E07E78826B50EA.jpg" title="人间清醒宋祖儿" content="宋祖儿童星出道，留学归来后依然热度不减，她的实力不容小觑。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7101517541356454435/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438026" packagename=""/>
+		</type>
+	</switch>
+</layout>
