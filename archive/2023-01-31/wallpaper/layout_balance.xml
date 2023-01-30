@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023013102" updatetime="20230131">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="AD7AD94012E58C556FB4184F21D7F15F.jpg" title="娱乐圈电竞男神" content="盘点娱乐圈隐藏的电竞高手：罗云熙多次被拍现身电竞赛，还曾担任赛事解说。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630419.html?meetting=1673496637478" packagename=""/>
+			<image src="05947726710D59310FD57CA759B65687.jpg" title="李溪芮古韵大片" content="李溪芮身穿一袭紫色长裙仙气十足，撑着伞极具东方美韵，优雅中带着泼墨山水的惬意。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335309_0.html" packagename=""/>
+			<image src="C39157EDABEB0E23BBA78A13C7AF4B1C.jpg" title="实力美男毕雯珺" content="这几年的毕雯珺一步一个脚印，踏实地走人生的每一步路，相信他未来可期。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7184048491847746087/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437350" packagename=""/>
+			<image src="13943EAEDA35D2853082BDB9FEC0B29D.jpg" title="李现新剧热播" content="李现在新剧中，饰演一位大城市返乡创业青年，开启一段温暖的治愈之旅。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227413.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
