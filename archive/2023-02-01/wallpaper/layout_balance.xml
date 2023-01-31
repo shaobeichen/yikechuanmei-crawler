@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020102" updatetime="20230201">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="20EA4219A2DD3C0E68AD6757A052C348.jpg" title="95后甜妹" content="这些95后甜妹小花撑起一片天地，各有各的风格，个个都十分讨喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630437.html?meetting=1673498434429" packagename=""/>
+			<image src="5CD26C9263869B6C7C7A1AD3124DCF37.jpg" title="95后侯明昊" content="在百变的角色中一边看尽各色人生，一边认识自己，侯明昊成长进行时。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335110_0.html" packagename=""/>
+			<image src="6092315C7184463DC2E59DD3CD0FFCEB.jpg" title="宝藏演员杨雨潼" content="99年杨雨潼的神明少女图来啦，因演技出圈，曾让无数观众为她流泪。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7158023851593630240/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437360" packagename=""/>
+			<image src="CAE509889A64653533F041EED59A4AF6.jpg" title="励志偶像周洁琼" content="从练习生到歌手到舞蹈导师再到演员，周洁琼的每一次自我提升和转型都很励志！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227442.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
