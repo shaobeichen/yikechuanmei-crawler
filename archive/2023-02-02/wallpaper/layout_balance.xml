@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020202" updatetime="20230202">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A59E93D03D8C5547872494DF72CDB6D0.jpg" title="蔡文静私服穿搭" content="蔡文静真的赢“麻”了！居家私服圈粉无数，不用宣传就能攒够人气。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6838030818942648835/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437357" packagename=""/>
+			<image src="EA217277067DB4714FCB3C8D607709B8.jpg" title="陈都灵让人期待" content="陈都灵五部新剧将袭，未播先火，每一部的造型都美丽动人！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227415.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="7B89B1E78541556883FBF6199ED7074E.jpg" title="音乐圈的那些事" content="近些年的中国流行乐坛，一批“老人儿”再度走红，聚光灯外，引起人们的无限遐思。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336549_0.html" packagename=""/>
+			<image src="D0F04722B2DF4BC892C9067D1279617B.jpg" title="明星的辛酸往事" content="她们如今有多耀眼，成名前就有多能吃苦，她们能逆境翻身实在太难得。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630583.html?meetting=1674964834605" packagename=""/>
+		</type>
+	</switch>
+</layout>
