@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020301" updatetime="20230203">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3729B19CBF523B342E076B57FCB6328F.jpg" title="新生代小花盘点" content="盘点科班出身的校花级新生代小花，她们各具魅力，都是独特亮眼的存在！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227445.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E764103CB7FC6E514E82EADCE3DDFECC.jpg" title="佛系女星杨蓉" content="杨蓉的长相没有多惊艳，却很温婉，可塑性极强，扮演反派也更有味道。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6589796181038072334/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438097" packagename=""/>
+			<image src="188A93A4126EA5203F827D4AC8FD43DA.jpg" title="刘亦菲风采依旧" content="刘亦菲回归小荧幕，连续播出的电视剧皆成爆款，成功实现转型。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/337271_0.html" packagename=""/>
+			<image src="DB7283BE220DB95C4126EA1DBEEC1A5C.jpg" title="戏份少的女主" content="她们虽是女主角，但戏份却不多，偏偏靠演技、颜值，一登场就惊艳观众。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630642.html?meetting=1675292434298" packagename=""/>
+			<image src="_DD79B01C891CF6D128FC7B49606A361F.jpg" title="去有风的地方" content="一部剧带火一座城，跟随刘亦菲、李现一起追风！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/k0vQgJjiJq&amp;from=zzspqyfddf" packagename=""/>
+		</type>
+	</switch>
+</layout>
