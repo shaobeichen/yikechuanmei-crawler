@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020401" updatetime="20230204">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="FDBB23F6D23E0D7CC2BC90FC269C0AB2.jpg" title="人间清醒杨超越" content="杨超越曾发言：“我没有敌人，我有的只是把我假装成他们的敌人的人。”©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7059723358363058722/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437907" packagename=""/>
+			<image src="84DE04C7075C00482ED7F6A9AEB3F792.jpg" title="白鹿新剧宣发" content="实力派青年演员白鹿，自从踏足影视圈后，主演的作品不计其数，每一部都堪称经典！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227450.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="4DEC5B63165DD1CA64A9B63D89CFABDC.jpg" title="唐嫣综艺初体验" content="唐嫣上综艺能有多好玩？实力搞笑、综艺感十足，状态好似少女！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/338341_0.html" packagename=""/>
+			<image src="78A0517719259BFADD273B0C7D946E61.jpg" title="明星开工营业" content="新的一年明星开工送祝福，有人发应景兔年照，有人开工就进组。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630634.html?meetting=1675226434753" packagename=""/>
+		</type>
+	</switch>
+</layout>
