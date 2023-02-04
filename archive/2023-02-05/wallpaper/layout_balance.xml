@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020501" updatetime="20230205">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9E0CB151103D04224EFE514786E0D5D5.jpg" title="娜扎开年古装剧" content="娜扎领衔主演古装热血成长励志剧，她的服化精美，惹人期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227454.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F1B7DD63B7923138ACD68AD15C42AB4F.jpg" title="天赋型演员任敏" content="她谦虚守教，礼貌待人，演戏不拘一格，是人物耀眼之处，是演员任敏。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7186559703139287608/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438086" packagename=""/>
+			<image src="A7A90C13650A169ED58C1F8AF4EB7EB8.jpg" title="韩雪的成名故事" content="顶着三不原则入圈，“影视歌”全面发展、曾多次上春晚，韩雪活出了真正的自我。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630581.html?meetting=1674946838432" packagename=""/>
+			<image src="B255A8F99AFCCFA53401725287C70FFD.jpg" title="炽热少年陈飞宇" content="在陈飞宇身上有一种“温和的叛逆感”，时不时给人惊喜，令人期待。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/338167_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
