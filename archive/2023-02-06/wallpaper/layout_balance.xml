@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020501" updatetime="20230205">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="AF8A3682BC79243B94C934121E388E07.jpg" title="最危险潜水地" content="水下面连续的陡坡会让人不小心会迷失方向，这对新手来说十分危险！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5543610" packagename=""/>
+			<image src="08FE11F7A927B3175516A6FE69B1E7E9.jpg" title="户外运动大全" content="户外运动不只是一种简单的体育运动，而是融休闲、娱乐及健身于一体的集体项目群。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_227278.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3F26449BF0078B193FFC76DE48B68C36.jpg" title="深度疗愈的瑜伽" content="8个“ 入门级 ”瑜伽动作，不仅可以放松身体，而且还能深度调节情绪。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7186964537139413541/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438403" packagename=""/>
+		</type>
+	</switch>
+</layout>
