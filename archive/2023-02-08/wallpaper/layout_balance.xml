@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020801" updatetime="20230208">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D6F35878CF4809B587A881CA2C6A2A03.jpg" title="圈内的不老女神" content="这六位娱乐圈内的“不老”女星，任凭年岁增长，魅力丝毫不减当年。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630597.html?meetting=1674964233784" packagename=""/>
+			<image src="537FF082E27457CFD1ABCBBB0AF7E3E3.jpg" title="娱乐圈国风美男" content="当男明星们遇上国风造型，清爽俊秀的长相和古风古韵的长襟，呈现出一场视觉盛宴。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/337962_0.html" packagename=""/>
+			<image src="FE803E0415B6CDF9747C34551F15DA7D.jpg" title="谭松韵的少女感" content="原来谭松韵“少女感”真的不是吹出来的，她不仅长着一张“不显老”的圆脸，而且还很会穿搭。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7188927671617897018/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438292" packagename=""/>
+			<image src="B8FF499FC923E24FCFCDA36EAF070BEC.jpg" title="刘诗诗新剧杀青" content="刘诗诗古装剧美女云集，她时隔多年重演古装，引无数观众期待！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_228027.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="_4DC4F0BC314CCD95F708D0BEB002EC9B.jpg" title="万茜新剧热播" content="万茜、刘敏涛、邢菲诠释职场女性生存法则，演绎都市“她故事”，《女士的品格》热播中。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/ksJDvkwJQk&amp;from=zzspnsdpg" packagename=""/>
+		</type>
+	</switch>
+</layout>
