@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023020902" updatetime="20230209">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C1D2E34CFB543ECC650FC4FD7A5AF3DD.jpg" title="赵今麦的初舞台" content="星圈学霸赵今麦初登春晚，颜值与实力并存，年纪轻轻已成为“人生赢家”。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/337621_0.html" packagename=""/>
+			<image src="2B2040872ACD2EACCB1E5545723692BD.jpg" title="钝感美女张婧仪" content="张婧仪整张脸带着股不服输的倔强感，笑起来氛围感十足，被网友戏称为“爱情犟种”脸。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7175485210623017505/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438272" packagename=""/>
+			<image src="1BCA6570E1F8F98A3B6B3D29195F2C3C.jpg" title="人气之星陈飞宇" content="陈飞宇迎来人气高峰，又一新剧筹拍，争角大战一触即发，让观众惊喜不已！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_228006.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="_40C2E035C8321EAB82443244D9D34301.jpg" title="郑恺超宠溺苗苗" content="《妻子的浪漫旅行6》郑恺苗苗自曝卡点1314领结婚证，羡煞众人。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/jt3Awafzby&amp;from=zzspqz" packagename=""/>
+			<image src="D9B007E299C78CCE66EB511B186CED3B.jpg" title="新晋顶流张译" content="张译创纪录了！1个月内喜提热搜50+，再深挖这个人，越扒越惊讶。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630702.html?meetting=1675822834054" packagename=""/>
+		</type>
+	</switch>
+</layout>
