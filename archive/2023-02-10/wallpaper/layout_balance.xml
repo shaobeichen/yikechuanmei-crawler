@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021001" updatetime="20230210">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="AE51D2D873EE3D65AA817621BE1C4958.jpg" title="吴昕全新再出发" content="曾经还是腼腆害羞的女孩，现已蜕变成一只美丽的“天鹅”，吴昕正在自己的舞台上翩翩起舞。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/338303_0.html" packagename=""/>
+			<image src="912AFECDF7FF4E84F32A453D529D9106.jpg" title="关晓彤新剧启动" content="关晓彤出演的新剧改编自同名人气小说，女主人设简直为她量身定做！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_228657.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="_7ACE9DD440706372750B570884066CC9.jpg" title="《三体》" content="外星文明降临，人类物理学遭遇重创，一场未知战争就此打响！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kawIPZa8fu&amp;from=zzspsanti" packagename=""/>
+			<image src="66501E14D674324EDD0C506C26802635.jpg" title="实力爱豆周洁琼" content="周洁琼的成功绝非偶然，她一直苦练舞蹈和唱功，这才使得她能够脱颖而出。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6612119028255162883/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438832" packagename=""/>
+			<image src="2EB7DF7A83538862DF109B85D6533831.jpg" title="热播剧演员演技" content="把《狂飙》中的青年演员放在一起，谁的演技炸裂、谁演得自然真实，一目了然。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630698.html?meetting=1675822837606" packagename=""/>
+		</type>
+	</switch>
+</layout>
