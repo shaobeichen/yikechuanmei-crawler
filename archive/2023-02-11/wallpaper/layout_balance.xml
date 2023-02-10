@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021102" updatetime="20230211">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7F660A83818AEC89B10B1189AC193DA4.jpg" title="内娱高颜值小花" content="内娱新生代小花强势崛起，她们气质、颜值、能力无一不突出，渐渐成为影视剧中的常客。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336207_0.html" packagename=""/>
+			<image src="FC8EEF1CA352E6641DD6F799E7F3FEF2.jpg" title="娇嗲公主虞书欣" content="娱乐圈娇嗲小公主的爆火或许早已注定，一起来看95后小花虞书欣的流量密码。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630580.html?meetting=1674946839639" packagename=""/>
+			<image src="91653ABC07F354692B0F5B9A3889388E.jpg" title="蔡卓宜甜蜜综艺" content="蔡卓宜新综艺中，和男友的相处简直就是情侣约会界的“天花板”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_228018.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="5B7DF2380B59FBE8CEB4E7C7FE3B3776.jpg" title="沈月私服开挂" content="沈月的穿搭造型有一些非常巧妙的“小心机”，扑面而来的活力与青春气息，非常值得我们去借鉴。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7196941768024326688/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438838" packagename=""/>
+		</type>
+	</switch>
+</layout>
