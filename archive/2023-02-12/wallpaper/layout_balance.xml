@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021202" updatetime="20230212">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="07637C9A06421F1AB463762458F0B188.jpg" title="赵丽颖突破界限" content="很多人都羡慕赵丽颖有如今的成绩，但都是因为她攥得住机会，顶得住压力，迎得起挑战。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336253_0.html" packagename=""/>
+			<image src="A27EE2862919DA6B9431346083AC6503.jpg" title="张嘉倪的年代剧" content="张嘉倪年代剧将播，实力派明星云集，两位女主角称得上是女神级的演员！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_228022.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="A2928B2960D4C7142826C85B7A539345.jpg" title="人美声甜祝绪丹" content="“周芷若”的扮演者祝绪丹，可圈可点的演技，让她人气一路飙升，深受观众的喜爱。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7036633164529484292/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438834" packagename=""/>
+			<image src="60FC7CA79B035EAC9B3EC57BE904D21B.jpg" title="成毅霸屏" content="他是演艺圈新晋小生成毅，曾因《琉璃》爆火，今年携五部新剧强势来袭。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630646.html?meetting=1675311037004" packagename=""/>
+		</type>
+	</switch>
+</layout>
