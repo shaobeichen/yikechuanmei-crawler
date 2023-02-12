@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021301" updatetime="20230213">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="688F1BF04790358921D53279ED1882C6.jpg" title="难复刻的千玺" content="沉稳冷静、脚踏实地、不争不抢，难怪内娱再难有下一个易烊千玺。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630496.html?meetting=1673996436679" packagename=""/>
+			<image src="4D55304F3DB028163EA534E355FA878A.jpg" title="在逃公主毛晓彤" content="毛晓彤身穿黄色连衣裙，气质优雅灵动，宛如从漫画里逃出来的公主。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7129751719281590792/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438318" packagename=""/>
+			<image src="D6F3A4D8A7A09250BE10AC03D82323AA.jpg" title="鞠婧祎元气满满" content="鞠婧祎纯欲校园风写真释出，眼神纯澈清透，氛围感十足，化身为校园女神。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339266_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
