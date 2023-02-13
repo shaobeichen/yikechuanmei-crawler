@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021401" updatetime="20230214">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="535E2B2141210C38D923A8F7A5755DF7.jpg" title="草根女孩杨超越" content="回顾草根女孩杨超越的成名路，她的逆袭比你想得更不易。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630612.html?meetting=1675057836195" packagename=""/>
+			<image src="6A97AA27D11687DC4E1B617ED7481C1D.jpg" title="檀健次双重身份" content="无论是做歌手还是当演员，檀健次都在对应的领域里滚烫着，真诚地表达自我。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339279_0.html" packagename=""/>
+			<image src="6A3765866939DDD8FA88F5A2FE9419DD.jpg" title="听说你喜欢我" content="一起看彭冠英、王楚然甜到“失智”的恋爱！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kvLjWfE3WU&amp;from=zzspxhw" packagename=""/>
+			<image src="47CE2D688813F799F16AF6F0A2D808FB.jpg" title="李一桐出道历程" content="作为非科班出身的演员，李一桐不断打磨自己的演技，终于通过努力站在了观众面前。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7070044201941058061/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439164" packagename=""/>
+			<image src="92664D699EC62972566076F42D267195.jpg" title="辣妹的正确穿搭" content="想要甜辣，短上衣必不可少，小腿靴也是帅气满分的单品。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5545922" packagename=""/>
+		</type>
+	</switch>
+</layout>
