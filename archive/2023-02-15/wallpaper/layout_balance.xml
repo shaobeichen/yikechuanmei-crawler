@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021501" updatetime="20230215">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C7E11AB3B4A16028A37C0D41EA21E9B4.jpg" title="95花大乱斗" content="这些95后小花来势汹汹，个个实力不凡，值得期待！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630094.html?meetting=1671607235623" packagename=""/>
+			<image src="52D33CCF98B5F5D5F349C6677389AB1A.jpg" title="宝藏男孩许魏洲" content="于许魏洲而言，唱歌也好、演戏也好，把眼前的每一件事做好，才是最重要的。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/335341_0.html" packagename=""/>
+			<image src="B75C1BD2B8698C681263EC98D653DC9A.jpg" title="气质女星刘诗诗" content="一袭蓝色露肩长裙，手持蓝色花朵，衬托出刘诗诗清新淡雅的气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7042092365364101644/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439172" packagename=""/>
+			<image src="EA82023130014172FB6118C538F74BA8.jpg" title="赵丽颖的奋斗史" content="赵丽颖已经活成自己的靠山，她是戏里的女主角，更是人生这盘大戏中当之无愧的大女主。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546712" packagename=""/>
+		</type>
+	</switch>
+</layout>
