@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021601" updatetime="20230216">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3230D83B43953883738A1118515B4601.jpg" title="娱乐圈气质女神" content="这些女星的颜值惊艳气质出众，而且各有千秋，深受粉丝喜爱，人气也是一直居高不下。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/336019_0.html" packagename=""/>
+			<image src="FB037789A675C2A1763BC47428F0B819.jpg" title="吴谨言逆袭" content="凭借魏璎珞一角爆红后，她却沉寂四年，如今凭实力翻身。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630647.html?meetting=1675311034784" packagename=""/>
+			<image src="69063DBC5E8EA891B23CD1B9D969BFBB.jpg" title="唐嫣心率升高" content="听到罗晋名字的唐嫣心率飙升，满眼是光，爱意满满！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7196123059760136764/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438921" packagename=""/>
+			<image src="CB89704D7FAD40FCDEF2CF0ACD0C362C.jpg" title="明星的减肥秘诀" content="关晓彤吃播时只吃蔬菜，鞠婧祎吃面包要嚼33下！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546060" packagename=""/>
+		</type>
+	</switch>
+</layout>
