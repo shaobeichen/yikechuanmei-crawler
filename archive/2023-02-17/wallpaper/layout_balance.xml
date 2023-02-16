@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021701" updatetime="20230217">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3ECF9BD71DE4AD47016D4F0657F9F740.jpg" title="张含韵逆风翻盘" content="15岁超女出道、中青年时期强势翻红，张含韵的经历实在太励志。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630528.html?meetting=1674082835247" packagename=""/>
+			<image src="FD1FAEEFE1C2C537A3D54CF848E68F2B.jpg" title="雪地男神龚俊" content="龚俊冬日大片释出，简约大衣搭高领衫，漫步于冬日暖阳之下拉满浪漫氛围。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339328_0.html" packagename=""/>
+			<image src="FA81DC5E67FE6FEB4F8E5F561D4AD561.jpg" title="低调女演员宋轶" content="作为演员，宋轶在多种角色之间自在流转，真实地表达每个人物，让人如痴如醉。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7111994229374730783/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=438937" packagename=""/>
+			<image src="81D1CA5411F092014F2029317A0B36FF.jpg" title="沈月的成名之路" content="沈月身上有种邻家女孩的气质，一双会说话的眼睛，颇有灵气。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546706" packagename=""/>
+		</type>
+	</switch>
+</layout>
