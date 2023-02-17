@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021802" updatetime="20230218">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="FADFB8401022C12980A5C449DDF7A494.jpg" title="女明星汉服造型" content="国风服饰究竟有多火？不光普通女孩被种草，就连女明星们也爱不释手。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339316_0.html" packagename=""/>
+			<image src="621FEE393D806D51C0931E59BE9F8B55.jpg" title="星圈学霸赵今麦" content="赵今麦忙于工作的同时，还在努力提升自己，星圈学霸果真名副其实。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7026659799022912007/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439104" packagename=""/>
+			<image src="EA2285CAC5D631F29107018972AF0281.jpg" title="娱乐圈骨相美人" content="钟楚曦有一张高级脸，走到哪里都有一种自带超模气场的魅力！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546728" packagename=""/>
+			<image src="4CCB5F57BDBC7B313F3746907C8F348C.jpg" title="极致节俭的明星" content="这些明星是越有钱、越节俭的代表，他们有的买十元包包，有的苦等7个月仅为省1块。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630842.html?meetting=1676520035256" packagename=""/>
+			<image src="_852CCC0501494DBFD20D9040C5914666.jpg" title="推理高手张若昀" content="常在悬疑剧中探案的张若昀，在《大侦探8》也发挥出强大的推理能力。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kjkvSbiF0Y&amp;from=zzspdzt" packagename=""/>
+		</type>
+	</switch>
+</layout>
