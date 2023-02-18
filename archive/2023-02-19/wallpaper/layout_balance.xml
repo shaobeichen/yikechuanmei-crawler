@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023021902" updatetime="20230219">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="00E7AB47289541B2A2F568DE9D8E83A0.jpg" title="成毅拾阶而上" content="成毅历经了人生中的浮浮沉沉，时间却温柔似水地拂过那颗未曾改变的演员初心。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339413_0.html" packagename=""/>
+			<image src="5D34756F8FA19CAECA6A5B0ABBABDDC2.jpg" title="邢菲解锁新身份" content="邢菲新剧《女士的品格》开播，这也是邢菲首次挑战妈妈角色，期待不一样的邢菲！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7197026960063922746/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439020" packagename=""/>
+			<image src="ECDB964102749BFCB081F0DBF644C034.jpg" title="真正的佛系女神" content="胡冰卿的美，就像是气质清丽却又独自盛开的清莲，淡淡的，不争不抢。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546714" packagename=""/>
+			<image src="D69458F574D4A4668050B70B36F8B20B.jpg" title="圈内的隐形大佬" content="这五位女明星的眼光、实力都很突出，她们不靠他人，独自打拼成富豪。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630844.html?meetting=1676521233526" packagename=""/>
+			<image src="_F20242793A6824CDD5FB415A588C03C7.jpg" title="小乞丐逆袭修仙" content="杨超越《重紫》甜虐爽逗！仙魔造型太养眼，配角个个人气高。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kAXoLTHBrG&amp;from=zzspcz" packagename=""/>
+		</type>
+	</switch>
+</layout>
