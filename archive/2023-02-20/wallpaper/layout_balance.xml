@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023022002" updatetime="20230220">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D166D4B7FF53D2959A1E4E5258FB8F53.jpg" title="杨超越国风系列" content="杨超越的国风造型盘点，她宛如画中走出来的女子，美得惊艳四座！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/339317_0.html" packagename=""/>
+			<image src="85DE564688283FAC71C03B16C76F4371.jpg" title="励志童星杨紫" content="即便杨紫年少成名，她的演艺之路也并不是一帆风顺，靠着不懈努力和永不放弃的精神才走到今天。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7083689480560984611/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439163" packagename=""/>
+			<image src="4505D8676C5DFA7C42EC0850EA975711.jpg" title="乔欣一角成名" content="乔欣凭借一部《欢乐颂》大火，也通过自己的努力让大家所熟知！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5546716" packagename=""/>
+			<image src="5E6D0933CF7010228CE53EC5AFE69287.jpg" title="琼瑶女郎真抗老" content="张嘉倪的皮肤状态很好，五官立体，眉眼如画，精致的樱桃小嘴尽显韵味。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230214/91404.html" packagename=""/>
+			<image src="EC76B97769FB03F0B8151427E1C8ED07.jpg" title="女星的瑕疵美" content="这些女星的五官“缺陷”明显，却个个大火，或许美女“微瑕”会更有魅力！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630845.html?meetting=1676531432475" packagename=""/>
+			<image src="_6852487FDA0E576002933FF2A3F9898C.jpg" title="星落凝成糖" content="陈星旭李兰迪先婚后爱，天界战神爱上人族&quot;弃女&quot;！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kB0VVfpXs4&amp;from=zzspxlnct" packagename=""/>
+		</type>
+	</switch>
+</layout>
