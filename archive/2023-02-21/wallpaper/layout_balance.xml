@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023022101" updatetime="20230221">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="A21DED0D96786C9080CADA9036F0879B.jpg" title="魅力无限朱一龙" content="朱一龙是一位创作型演员，他不急功近利，总是用心演好每一个角色。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7198146457248334397/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439162" packagename=""/>
+			<image src="6E4E0C8348B7A425E619DAF3F2555C57.jpg" title="徐正溪逆袭成功" content="在小鲜肉遍布的“古偶市场”，徐正溪依然拥有了自己的一席之地。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230214/91415.html" packagename=""/>
+			<image src="BE86A46673ADD6A9815A23C3421C98C8.jpg" title="常被叫错的明星" content="这几个明星的名字中，有一些比较生僻的字，因此常常被人喊错。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630839.html?meetting=1676514634408" packagename=""/>
+			<image src="532FCF56C5F7946ACD7CFAD87369058C.jpg" title="唐嫣的成名之路" content="唐嫣可以说是真正意义上的千金大小姐，从小的梦想却是当空姐。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5547583" packagename=""/>
+			<image src="D65BE2C1BD56374DE0DEABF7EB1D7CA9.jpg" title="赵今麦不落俗套" content="和外表的甜美略有不同，在赵今麦的自我认知里，她有着没有公之于众的另一面。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/341113_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
