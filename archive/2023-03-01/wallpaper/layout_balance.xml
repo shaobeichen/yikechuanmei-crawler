@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023022801" updatetime="20230228">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="F8BD3165C156ADC7335DB6FB32D31259.jpg" title="翼装飞行" content="低空翼装飞行起跳点可以是悬崖、大桥或者高楼，也可以是直升机。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5292586" packagename=""/>
+			<image src="296F411A87121E5EBEEA161F7DC3575F.jpg" title="开启你的越野跑" content="在越野跑训练初期，要学会抛开自我、放慢脚步，专注于寻找新的节奏，让自己与山融为一体。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LDTIH5XE.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
