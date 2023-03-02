@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023030204" updatetime="20230302">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="A3267FC42FCBB3CB06F314B6A8749999.jpg" title="危险的极限运动" content="定点跳伞是从一个特定的地点跳下，使用降落伞或飞鼠装来抵达地面，极具危险性。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LDFIK6RM.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
