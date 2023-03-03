@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023030201" updatetime="20230302">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="27F8B26EBD53E6D2E58BB493A7F6FDE8.jpg" title="实力爱豆谢可寅" content="既是酷酷的rapper，也是实力派演员，谢可寅每一次的表现都让观众为之惊叹。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7089988629787230754/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=439424" packagename=""/>
+			<image src="54C453C71B06E3249DF10F0F2E4DCF89.jpg" title="硬实力女爱豆" content="C位出道的希林娜依·高，除了能飙高音以外，她的综合能力也很强。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230221/91915.html" packagename=""/>
+			<image src="62274015F6040406B37143023C7DEC46.jpg" title="刘诗诗气质出众" content="身处异乡街头，刘诗诗自带时尚气息，镜头捕捉之处皆是令人惊艳的绝美之瞬！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/342510_0.html" packagename=""/>
+			<image src="AB7C2AD1F926568436240E5B9AE12071.jpg" title="娶了粉丝的男星" content="追星成功，这些明星与自己的粉丝结婚！ 其中有的幸福，有的事业翻红。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3439690.html?meetting=1677575433970" packagename=""/>
+			<image src="_A5734A56031E9B645F54CE57E2F7E507.jpg" title="三世虐恋" content="《重紫》杨超越与经典仙侠IP的碰撞，期待不一样的火花！©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kAXoLTHBrG&amp;from=zzspcz" packagename=""/>
+		</type>
+	</switch>
+</layout>
