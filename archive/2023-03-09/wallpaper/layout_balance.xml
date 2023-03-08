@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023030807" updatetime="20230308">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9C6EFF12EDED88DD0C6B92EF643F8182.jpg" title="圈内的流量密码" content="被江疏影带火的女配角，有人事业腾飞，有人弯道超车成一线大咖。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3630932.html?meetting=1677055237333" packagename=""/>
+			<image src="C0C722AC45C305825A5AEB8D41F4641C.jpg" title="四朵小花已就位" content="她们是不同的热播剧中让人惊鸿一瞥的存在，是演技与颜值并存的00后小花。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230228/92537.html" packagename=""/>
+			<image src="4D9DD3C50F32FE3104A631BECD3BEF24.jpg" title="杨颖待播剧" content="杨颖四部新剧即将上线，将演绎不同角色的多面人生。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7201748176444015143/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=440055" packagename=""/>
+			<image src="_834DA418BBFF4A5ABDFEC2ECC8C001B1.jpg" title="半熟恋人陈妍希" content="《半熟恋人2》中陈妍希常把陈晓挂在嘴边，神仙感情令人羡慕。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/knGJfM5Ftu&amp;from=zzspbslr" packagename=""/>
+			<image src="6C5B941B479F7377B4E1B5293522CD11.jpg" title="跟着明星学穿搭" content="四美小花宋祖儿在穿搭上是可纯可艳，又不媚俗。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5549242" packagename=""/>
+		</type>
+	</switch>
+</layout>
