@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023031007" updatetime="20230310">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C8F839C40D802A98691F5DA191805F2F.jpg" title="冷面男神盘点" content="这些男星有张俊美、邪魅的脸，气质出尘，看一眼就心动。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3448719.html?meetting=1677577234090" packagename=""/>
+			<image src="9F43DAC4BC1A1A4998C7064B0C55EB1C.jpg" title="零绯闻女爱豆" content="鞠婧祎从出道至今一直都忙于自己的事业，是妥妥的事业型“女强人”。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230228/92539.html" packagename=""/>
+			<image src="519BC02BCE694DCA1AB2840CEB20EB03.jpg" title="气质美女李兰迪" content="十岁出道便喜获称赞无数，李兰迪年纪轻轻演技超棒，相信她未来可期。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6719754669054231044/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=440580" packagename=""/>
+			<image src="176A2789C4D8628B33A939C545CA3948.jpg" title="老戏骨刘涛" content="她既演得了青春灵动的少女，还演得了充满英气感的角色。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5548559" packagename=""/>
+			<image src="9840C32E7ED4BDBA8B9E27C089A22594.jpg" title="王鹤棣一如初见" content="王鹤棣自带一种轻快的感觉，在他的世界，好像没有什么复杂到难以面对的事。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/343724_0.html" packagename=""/>
+			<image src="_DE467485EAD0059E233C16EEF525634A.jpg" title="韩东君年代大戏" content="“小胡同”抒写“大时代”，热依扎与韩东君上演京味情缘。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kBURy3dDna&amp;from=zzspqmjdw" packagename=""/>
+		</type>
+	</switch>
+</layout>
