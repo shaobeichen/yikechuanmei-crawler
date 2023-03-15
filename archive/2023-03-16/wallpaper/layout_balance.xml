@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023031501" updatetime="20230315">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="FBA7B566A987B38CF9B3B0A169AB9BA9.jpg" title="户外的玩水神器" content="划艇动作协调性很重要，强调动作和技巧结合，用巧劲而不是蛮劲。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5549203" packagename=""/>
+			<image src="13159FF258A1717AE9A5ED89DD09AAB9.jpg" title="户外骑行的好处" content="骑行可降低患上高血压的风险，能有效降低血糖值，对于三高和患有痛风的人群也有很好的帮助。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LEC6NFCU.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
