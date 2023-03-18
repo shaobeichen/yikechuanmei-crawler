@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023031801" updatetime="20230318">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D0C50595B6B65441F7E9551C0A3FD63C.jpg" title="那些明星的本名" content="明星的本名能有多好听？有的洋气，有的略显侠女气息。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631031.html?meetting=1677739239071" packagename=""/>
+			<image src="B1E9D46544207D869261CEF034136601.jpg" title="人间清醒周笔畅" content="周笔畅自出道来几乎没传过绯闻，唱功也在不断精进，这样清醒而自律的周笔畅，值得更多人喜欢。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7198328773111857725/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=441240" packagename=""/>
+			<image src="1C77A576872A66D4157C878D490AB869.jpg" title="气质女神过生日" content="刘诗诗的状态可真好，过生日穿一身渐变纱裙，整个人仙气十足。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230313/93494.html" packagename=""/>
+			<image src="A3DA020E007CA4ED0A0F66880B9D4812.jpg" title="侯明昊张弛有度" content="侯明昊一直是一个直面挑战的人，表演上如此，生活中亦如此。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/344561_0.html" packagename=""/>
+			<image src="_9DCB616A3E4112AAA04BAA98F38DF8D3.jpg" title="毛晓彤人美声甜" content="毛晓彤献唱电视剧《心想事成》片尾主题曲，治愈歌声传递春日温暖。©音乐" cpname="" download="" contenturl="https://portal-drcn.music.dbankcloud.cn/music-apph5-service/h5/index.html#/musicShare?songid=NPvNBUfan5mWq-wgi&amp;shareChannel=zzsp20230318&amp;nopage=1" packagename=""/>
+			<image src="5CD5B525D0B177ECC7F184B6DD857C66.jpg" title="中国乒乓" content="真实历史改编，再现上世纪90年代中国男乒由低谷重返巅峰的往事。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/kSxJQLJlEQ&amp;from=zzspzgpp" packagename=""/>
+			<image src="5BE4DF967B752EC58C900D334A6440C9.jpg" title="零差评的宋轶" content="她五官精致而淡雅，面部留白多，皮相又好，所以能驾驭中式美。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5551442" packagename=""/>
+		</type>
+	</switch>
+</layout>
