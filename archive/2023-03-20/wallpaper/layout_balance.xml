@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023031901" updatetime="20230319">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="E70D59FA3E924A2875734ECFCE57482E.jpg" title="家居地毯有妙用" content="地毯不仅可以填补视觉上的空白，还可以使空间显得更为丰满。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_230258.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
