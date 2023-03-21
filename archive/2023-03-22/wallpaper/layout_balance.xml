@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023032101" updatetime="20230321">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="D5054D46334388958D4B66B04ECB1C1D.jpg" title="越简单越高级" content="全屋简约整洁，收纳有序，大白墙不做任何造型，也能美出新境界！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_230251.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
