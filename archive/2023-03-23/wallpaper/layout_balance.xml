@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023032207" updatetime="20230322">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="270FA203C330A937FE415C91ED48305C.jpg" title="丁禹兮在线撩人" content="丁禹兮凭借出众的颜值和演技，赢得了一众网友的关注。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230313/93500.html" packagename=""/>
+			<image src="19C9CD1C98721780D54DB6E374453C15.jpg" title="宋祖儿成长之路" content="宋祖儿的眼神总是坚定的，透过她的眼睛，看到的是一个敢想敢做，敢拼敢闯的姑娘。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7154550675383517731/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=440748" packagename=""/>
+			<image src="713F5B86B568137B6BAFB5C7A9A5B205.jpg" title="樱花仙子大PK" content="春天到！这几位女星争当樱花女神，她们人比花更娇，让人赏心悦目。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3451574.html?meetting=1679025036456" packagename=""/>
+			<image src="D27A9121191C8628D855C1E59EAC8056.jpg" title="娱乐圈的眼神杀" content="没有人能在宋威龙的深情凝视下坚持10秒吧！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5551064" packagename=""/>
+			<image src="CBFF0EFA40F3513948186021C4B27BBD.jpg" title="王楚然气场大开" content="时而清纯时而甜美，时而高冷时而酷飒，王楚然的时尚驾驭能力相当出众。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/345721_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
