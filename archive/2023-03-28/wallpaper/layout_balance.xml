@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023032501" updatetime="20230325">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="F7BC31F5FFB880E69D08B232D1B594D6.jpg" title="十大冲浪圣地" content="坚持热爱，为梦想打拼而无所畏惧，这十个冲浪胜地刺激有颜值！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5551513" packagename=""/>
+			<image src="8143F4CBE666D4F0A0B00014B2AA969B.jpg" title="呼吸黄金准则" content="腹式呼吸是360度的呼吸模式，你要有觉知地感受腹部前侧、两侧，甚至下背的位置收紧。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LEWUTSAL.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
