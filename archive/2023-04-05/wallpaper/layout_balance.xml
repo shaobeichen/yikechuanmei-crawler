@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023040401" updatetime="20230404">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="908B643E37D67DC516D81C879E14F57B.jpg" title="简约优雅空间" content="北欧风不同于传统欧式风格，它抛去复古繁杂的装饰，强调简约与实用。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_231416.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
