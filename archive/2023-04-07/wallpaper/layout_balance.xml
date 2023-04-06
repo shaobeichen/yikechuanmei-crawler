@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023040601" updatetime="20230406">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="F690E490E86F06E0465DDA5A08FC20C2.jpg" title="攀岩装备清单" content="主绳是攀岩保护中不可或缺的生命线，它是贯穿攀登者、保护点和保护器的结合线。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LFEW9S9T.html" packagename=""/>
+			<image src="1A22E99121789326EF21D3D8C4EE1F10.jpg" title="进击的棒球" content="在国际上，公认棒球的缝线一定要是108条，不可多也不可少。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5553685" packagename=""/>
+		</type>
+	</switch>
+</layout>
