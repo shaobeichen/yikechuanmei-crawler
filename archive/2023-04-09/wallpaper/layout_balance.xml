@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023040702" updatetime="20230407">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8342A25F347CCF6F719E55A2F53E3365.jpg" title="古代年龄的雅称" content="从赤子到豆蔻，从而立到知天命，古人对年龄的称呼，每一个都那么美！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3573468.html?meetting=1680576636764" packagename=""/>
+			<image src="C94C5604030EADBD228E708A5D2CF548.jpg" title="气质美女万鹏" content="万鹏在荧幕上是彪悍女汉子，但在现实生活的她，美得让人窒息，气质温柔干净。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7127180931156230697/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=441737" packagename=""/>
+			<image src="1F5747B2F487225C5B9BDF2A3F54E535.jpg" title="范丞丞胖若两人" content="范丞丞为了转型非常努力，为新电影直接增肥到170斤，完全没有偶像包袱。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230331/95198.html" packagename=""/>
+			<image src="89ABAC2A260DF7EEE09CEFEF0F894E9C.jpg" title="孔雪儿的美人计" content="她的妆容自然清透感，越是简单的造型，就越容易抓人眼球。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5552853" packagename=""/>
+			<image src="8B32C73AC8B9BC8912E773C2D61DBB85.jpg" title="孙怡带火新穿法" content="孙怡带火了一种穿法，叫“外面去上班、里面去度假”，新潮又别致。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/348038_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
