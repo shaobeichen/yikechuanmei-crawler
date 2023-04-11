@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041102" updatetime="20230411">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="07925DF9C469151DE2EB780789487CAF.jpg" title="圈中的“腰精”" content="这些女星靠腰火出圈，有人因腰“封神”，有人靠腰洗白。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631461.html?meetting=1680601836850" packagename=""/>
+			<image src="12D1F18E153A7D1C09231EF21D3884A3.jpg" title="用奋斗书写人生" content="成功没有一蹴而就，优秀又努力的白鹿一路腾飞。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5553340" packagename=""/>
+			<image src="B18D262C5527A5CCB7532A77E6F5777F.jpg" title="时尚红人杨颖" content="杨颖在穿搭上常常成为粉丝们的参照，她的时尚品味清新简约，极具个性。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/348774_0.html" packagename=""/>
+			<image src="182D5EE926CC9D776E93FF6630B80B21.jpg" title="热巴全新造型" content="迪丽热巴来自新疆的少数民族，她不仅长得漂亮、身材好，也是时尚穿搭的一把好手。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7215422947664855609/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=444810" packagename=""/>
+		</type>
+	</switch>
+</layout>
