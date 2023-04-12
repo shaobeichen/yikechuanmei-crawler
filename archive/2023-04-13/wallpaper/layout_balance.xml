@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041201" updatetime="20230412">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="902548A7F5EEF3041F6EE5D899B8F69C.jpg" title="山地骑行小贴士" content="定期清洁自行车和润滑自行车的链条能够减少骑行时的噪音，并使你的自行车齿轮使用寿命更长。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LFQ3PNVS.html" packagename=""/>
+			<image src="7A84A075568E057E9C1A653F78C1868B.jpg" title="进击的山地车" content="合理使用变速器，通过变换档位，找到省力又出速度的最佳配比。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5551361" packagename=""/>
+		</type>
+	</switch>
+</layout>
