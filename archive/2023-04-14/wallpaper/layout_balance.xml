@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041302" updatetime="20230413">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B7962109C4CFCC4C2556D399A69AEDE6.jpg" title="李沁新剧接地气" content="李沁新剧太敬业，为角色在脸上涂黑粉，观众纷纷叫好。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631462.html?meetting=1680748834971" packagename=""/>
+			<image src="1D71D85AB5EF98B6090B88E44E51FC8C.jpg" title="张杰的成长之路" content="成功没有捷径，他通过自己过硬的实力，才能牢牢把握住机会。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116510321241604611/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=445660" packagename=""/>
+			<image src="F42F84EDE18CBE0B95C6375A7D4A0EA2.jpg" title="爱松弛感美人" content="这朵松弛明媚、摇曳生姿的玫瑰美到极致！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554281" packagename=""/>
+			<image src="4C0DD4DE580C7C0DAFCD7C2248F05631.jpg" title="宋祖儿清冷大片" content="宋祖儿自信出场，即是主场，给人新鲜而曼妙的视觉盛宴。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/348674_0.html" packagename=""/>
+			<image src="BCE800E2AF8E10100096655C8F7330A1.jpg" title="吴谨言古装真美" content="原来央视镜头里的吴谨言这么美，再次扮起古装的她格外清新淡雅。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230410/95735.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
