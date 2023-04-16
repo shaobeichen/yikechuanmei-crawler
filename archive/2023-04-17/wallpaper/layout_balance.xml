@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041501" updatetime="20230415">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="365AA42BB1431B254BEA1D61D3D5839D.jpg" title="健身塑形好方法" content="自然站立，双手将瑜伽球举过头顶，这样可以调整我们大腿的肌肉，伸展臀部、胸部和肩部。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LFP4DSM1.html" packagename=""/>
+			<image src="2416B99230C162040F0BCB4673955C14.jpg" title="随浪竞风的自由" content="帆板是一种向海而生的运动，极有新奇性、惊险性、神秘性。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554698" packagename=""/>
+		</type>
+	</switch>
+</layout>
