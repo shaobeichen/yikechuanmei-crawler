@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041801" updatetime="20230418">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="785A10FED2F3B9B96259BCA8E6CC8FEC.jpg" title="高颜值混血男星" content="娱乐圈有这几位男星，他们不仅颜值高，还是隐藏的混血儿。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3456315.html?meetting=1681254045879" packagename=""/>
+			<image src="3503D10F37479518044F556C4F5FB38B.jpg" title="肖战心中有旷野" content="不把目光放在外界的纷扰上，是肖战的处事状态，他对进步和作品的渴求已经占满了生活。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/348582_0.html" packagename=""/>
+			<image src="D2B6BE93DBDE554CDEDBD2806220F3CA.jpg" title="明星的华丽转身" content="明日之星把握人生方向盘，果然每一个有意志的人都是潜力股。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554956" packagename=""/>
+			<image src="57BDEA226071B1E01E8EACFE76E427F5.jpg" title="一眼万年关晓彤" content="身穿丝绒公主裙，仪态万方，举止优雅，笑容甜美，尽显女神风范。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7216916809440723517/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=446378" packagename=""/>
+		</type>
+	</switch>
+</layout>
