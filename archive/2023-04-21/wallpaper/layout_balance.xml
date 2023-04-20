@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023041901" updatetime="20230419">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="3C0A441DD1E389CB14D5528ACA3A3E16.jpg" title="极具魅力的网球" content="一不小心就会让人爱上的运动，非常值得试一试！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554862" packagename=""/>
+			<image src="DBE7BFF2EFE6051A8917E9BB5201F47E.jpg" title="正确的跑步姿势" content="当在平坦道路上跑步时，不要把膝盖抬到90°，而是要把它压低，这样就不会浪费能量在膝盖上。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1646823368114077697.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
