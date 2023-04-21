@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023042102" updatetime="20230421">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5583BF7FCA18DF82FFEF1FE75BB24F42.jpg" title="圈内的撞脸女星" content="这些女明星长相太相似，每一对都像孪生姐妹花，让人傻傻分不清。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631547.html?meetting=1681197638860" packagename=""/>
+			<image src="4FBEF7D56152168228214662E1035373.jpg" title="毛晓彤演技出众" content="对毛晓彤来说，所有用真心打磨过的角色，即便隔着漫长岁月，仍会持续闪闪发光。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/349330_0.html" packagename=""/>
+			<image src="2A87298AA511152C99C8AA0E3BBB5A4A.jpg" title="杨超越完美衣品" content="黑色系搭配迎合巴洛克风格，流苏点缀优雅娇俏！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554756" packagename=""/>
+			<image src="A01CF98B2861782137CFDB052777DF7E.jpg" title="配角也能逆袭" content="她曾给景甜、刘亦菲做配小火一把，如今首部女主剧热度直接爆了。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230413/96223.html" packagename=""/>
+			<image src="0A523897D9BF52DC2413471C6109A086.jpg" title="毛晓彤异域风情" content="毛晓彤五官精致，穿藏服演绎异域风情，明媚的笑容真的很动人。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7220084948336804409/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=447394" packagename=""/>
+		</type>
+	</switch>
+</layout>
