@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023042402" updatetime="20230424">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="DCB6FAC34C5C3B472CF053D09BE13149.jpg" title="杨紫圈中好人缘" content="“团宠”杨紫的幸福时刻，每演一部戏就能收获一圈好朋友。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/347493_0.html" packagename=""/>
+			<image src="12FDD5CECDE3DDF2DFB57196B39A9F68.jpg" title="“顿感”少年" content="从某种程度来说，每个人都是“笨小孩”！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5555229" packagename=""/>
+			<image src="88AC58688CC9B4474C6A057F7134773E.jpg" title="古装剧天选神女" content="盘点那些古装惊艳的女明星，每一位都容貌姣好、身姿绰约。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631653.html?meetting=1681807235573" packagename=""/>
+			<image src="A4FB609567F93C0F8370F8A89B9D3D83.jpg" title="搞笑美女蒋依依" content="不愧是“怪力少女”！蒋依依红毯拍照扯掉裙摆，一点美女包袱都没有。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230413/96206.html" packagename=""/>
+			<image src="3F4FEAC10C59B137CC62C587B7C3B9A8.jpg" title="任敏变居家妹妹" content="任敏彻底打破了自己原有的形象，展现出来的是一种女神美感和女神气息。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7220413978340803072/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=447385" packagename=""/>
+		</type>
+	</switch>
+</layout>
