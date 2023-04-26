@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023042604" updatetime="20230426">
+	<switch>
+		<type id="42544" src="icon_20220419161744.png" title="汽车" selected="true">
+			<image src="AC4EA4190626BBE12B800C14F12EC0B0.jpg" title="汽车漏油现象" content="这5个种漏油现象一般是汽车出现了故障，车主千万不要掉以轻心。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230411/95948.html" packagename=""/>
+			<image src="893E458E4D96E080C70A4E06E5E700C2.jpg" title="行车喜提新车道" content="新车道出现！一旦走错就扣3分，罚款200元。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/351325_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
