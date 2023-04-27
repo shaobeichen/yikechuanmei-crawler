@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023042701" updatetime="20230427">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="3DB859546F433DE89B1678A259CD7CFB.jpg" title="玫瑰养护宝典" content="玫瑰本身喜光，适合在阳光充足的环境中生长，如果长期光照不足，会引起花头下垂。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_231423.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
