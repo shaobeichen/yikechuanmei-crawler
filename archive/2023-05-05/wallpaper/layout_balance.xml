@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023050402" updatetime="20230504">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C9182C9092F0BC6DA2BB028278E21F2D.jpg" title="旗袍女神盘点" content="能将旗袍穿出神韵的女星，她们各有各的风采，最后一位惊艳了时光。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3449684.html?meetting=1678353035909" packagename=""/>
+			<image src="B276807DFE12E81A7ED61EA22B2CD221.jpg" title="内娱小花童年照" content="95后女星童年照对比，个个都是等比例长大，从小美到大。©品鉴传媒" cpname="" download="" packagename=""/>
+			<image src="B8171ED3783F1031DC35DF9351370FCE.jpg" title="自信的女人最美" content="宋雨琦喜欢有创新有想法的穿搭，为自己打造出更加时尚的造型。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116501771530289701/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=449046" packagename=""/>
+			<image src="17633C34F49CBB416EBBF2EB0F843D1E.jpg" title="陈晓连续霸屏" content="陈晓的戏路太宽了，古装和现代剧无缝衔接，2年相继带来6部热播剧。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/352179_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
