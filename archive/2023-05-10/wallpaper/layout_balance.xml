@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023050906" updatetime="20230509">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="493D05B603A0B73CEC38CAFCF1FC8DE6.jpg" title="山地车骑行" content="骑行和其他运动相比，它不会磨损你太多的关节，而是为你的关节创造了一个平稳而有节奏的运动。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LFYNXNF1.html" packagename=""/>
+			<image src="E2D666E2DF516536375B909544485E5F.jpg" title="棒球必学技巧" content="学会一些挥棒、投球的技巧，对于个人水平的提升是大有裨益。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5557293" packagename=""/>
+		</type>
+	</switch>
+</layout>
