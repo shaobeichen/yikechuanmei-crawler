@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023051307" updatetime="20230513">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="ECA268FE1FD0BAAFA3F4A4A55BD0F360.jpg" title="《浪姐4》女星" content="这些女星的身姿绝美，美貌值爆表，让人移不开眼。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631780.html?meetting=1682550049231" packagename=""/>
+			<image src="622C44B7145A2EC941A2508052A48C64.jpg" title="赵丽颖转型" content="赵丽颖的转型是在现实主义作品中起步，在现实主义氛围中锤炼自己。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7220602455460184613/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=448314" packagename=""/>
+			<image src="89887544669BA7881107F09FBD5890B1.jpg" title="娱乐圈劳模" content="赵丽颖是娱乐圈中的劳模，不仅拍摄了多部影视作品，综艺杂志、时尚活动也没有落下。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5557137" packagename=""/>
+			<image src="DA7F1D00C2076FC3FCB590C1C718FDB2.jpg" title="罗云熙超自律" content="罗云熙直播说“不能再吃了”，网友不解：饮食观念过于苛刻。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230502/97842.html" packagename=""/>
+			<image src="2284DF666C7D688641AAF6A163671B04.jpg" title="肖战的惊艳登场" content="这是一个年轻人获得机会的故事，一切都开始于2015年的夏天。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/352873_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
