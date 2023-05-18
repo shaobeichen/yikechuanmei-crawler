@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023051806" updatetime="20230518">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="62BF025377C317A4E4E065867DE9C7D5.jpg" title="短道速滑小科普" content="短道速度滑冰，简称短道速滑，是冰场上扣人心弦的“速度与激情”。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1654787129693220866.html" packagename=""/>
+			<image src="06E52399127B5E9EFAB6789D23838FC2.jpg" title="棒球投掷方法" content="身体开始转动，侧向对着目标，投球的手要持球放在胸前附近。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5557781" packagename=""/>
+		</type>
+	</switch>
+</layout>
