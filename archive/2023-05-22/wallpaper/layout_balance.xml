@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023052106" updatetime="20230521">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="E86B8C7C20A63FCFE4DA1BA3D9B6D96A.jpg" title="越倒立越轻盈" content="有规律的练习头倒立能给脑部供应充足的氧气和血压，使健康的血液流入脑细胞，让脑细胞更活跃。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1656489676464209921.html" packagename=""/>
+			<image src="068FCB232CB5CCC14A0F501A51C309CC.jpg" title="徒步必备" content="户外徒步是一项体力、经验、装备缺一不可的运动。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5557506" packagename=""/>
+		</type>
+	</switch>
+</layout>
