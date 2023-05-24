@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023052401" updatetime="20230524">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="E34BB175D2A4AABFA1078781244171D3.jpg" title="极限飞盘运动" content="设备廉价、设施简单、安全易行、运动节奏快等优点，使飞盘运动独具魅力。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1656835947158855681.html" packagename=""/>
+			<image src="A7472401A787902939EB57902D519171.jpg" title="挪威梦幻足球场" content="在绿茵的足球场上奔跑，四周传来海浪的声音，多么令人向往！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5558748" packagename=""/>
+		</type>
+	</switch>
+</layout>
