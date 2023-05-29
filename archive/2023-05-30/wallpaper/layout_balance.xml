@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023052902" updatetime="20230529">
+	<switch>
+		<type id="45700" src="icon_20221031200041.png" title="体育" selected="true">
+			<image src="58D3163E21958C67295509F8D9AC0BC5.jpg" title="篮球的魅力" content="篮球是一项受众很广的运动，它不仅吸引了大量的运动爱好者，更是许多人热爱的一种生活方式。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1650343016709246978.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
