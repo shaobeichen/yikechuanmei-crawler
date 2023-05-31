@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023053105" updatetime="20230531">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="052E7F08A381DFB619AB84124E3923BC.jpg" title="夏季妆容推荐" content="绚烂又美好的季节，需要更多不同风格的妆容来修饰。图：若魔绫©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/233358?lock_screen_content_id=1546" packagename=""/>
+			<image src="6E1E94816E382A29B972586B79174A00.jpg" title="夏日氛围感白裙" content="着一身白裙在夏日里穿行，微风摇曳生姿，一半飘逸，一半仙气。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/35331" packagename=""/>
+		</type>
+	</switch>
+</layout>
