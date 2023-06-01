@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023060107" updatetime="20230601">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7073C068BFB515CFA8097A9548D5EF1D.jpg" title="热巴出圈角色" content="盘点迪丽热巴五大角色，从“高雯”到“白凤九”，每一个都是绝世美人。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631987.html?meetting=1684289442130" packagename=""/>
+			<image src="88A14B075534B68D8A7DBD04B439D541.jpg" title="白月光女孩" content="杨超越身穿白色蕾丝长裙，裙摆飘逸，像极了“白月光”，圣洁又美丽。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230518/99345.html" packagename=""/>
+			<image src="01513CE2CBEF4C74C18BC152945697F0.jpg" title="愈加美好的孙怡" content="生活的真谛在于，找到最舒服的状态然后尽力保持下去！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5558415" packagename=""/>
+			<image src="F9406F72CC0ACDC5E490660A0BE44615.jpg" title="关晓彤亮相戛纳" content="关晓彤亮相戛纳红毯，一袭黑色闪钻礼服精致优雅，尽显高贵气质！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7234457637608456760/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=453485" packagename=""/>
+			<image src="B1DDD979342351CD9F0DD2B92C9EBBF0.jpg" title="朱一龙海岛奇遇" content="在这个短暂的、自我抽离的时刻，朱一龙感到无比放松，与山海的偶然相逢已使他满足。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/355908_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
