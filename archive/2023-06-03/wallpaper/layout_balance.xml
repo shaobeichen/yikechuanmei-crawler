@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022080101" updatetime="20220801">
+	<switch>
+		<type id="16028" src="icon_20190604144239.png" title="汽车" selected="true">
+			<image src="243BF6864F93FE2FC47AFF324E3DDF10.jpg" title="安全驾驶经验" content="日常驾驶车辆，只要涉及变道、超车、左右转弯等情况时，车主都要提前3秒打开相应转向灯。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20220717/74653.html" packagename=""/>
+			<image src="7BDDA4A88F87F969BFD44BF8CE0D135E.jpg" title="常见开车陋习" content="盘点6个常见却极易被忽略的开车陋习，不仅费油还伤车！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/51/1773/308965_0.html" packagename=""/>
+			<image src="2A27E68A552A252558E9E10A380F6135.jpg" title="驾驶细节需注意" content="车主应学会“防御性驾驶”，在行驶过程中“预判”尤为重要。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214927.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="2F5FD252E917A299F24BA202DF37726D.jpg" title="开车换挡诀窍" content="在完成加速或减速操作后，司机应该用左脚将离合迅速踩到底，用右手完成挂挡。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7106036308174619151/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426236" packagename=""/>
+		</type>
+	</switch>
+</layout>
