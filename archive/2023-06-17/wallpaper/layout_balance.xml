@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023061604" updatetime="20230616">
+	<switch>
+		<type id="42544" src="icon_20220419161744.png" title="汽车" selected="true">
+			<image src="24BC45BB36C75562D6BA39BE43AE7837.jpg" title="影史上最贵跑车" content="电影史上有很多昂贵汽车的出现，其中一辆拍卖了1720万美元。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230602/100750.html" packagename=""/>
+			<image src="B76EF9C8514C2D42C1DEF8D51280D3FF.jpg" title="车内暴晒水藏毒" content="进入夏季后，开封的水如果短期内不喝完，很容易滋生各种细菌，发生变质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/358544_0.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
