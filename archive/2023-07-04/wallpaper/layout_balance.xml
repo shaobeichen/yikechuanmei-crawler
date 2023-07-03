@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023070301" updatetime="20230703">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C9DB8DE93501398FA89B2D3EDF79FD88.jpg" title="虞书欣辟谣绯闻" content="“相差十七岁的叔侄恋”太离谱！虞书欣工作室火速辟谣恋情。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230609/101409.html" packagename=""/>
+			<image src="F608C8EC507A9BEE5F4FE3A5880A0DD9.jpg" title="毛晓彤雅致婉约" content="毛晓彤古风国韵造型火上热搜，把水墨画穿在身上，身姿娉婷袅娜，端庄温婉又优雅。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/360350_0.html" packagename=""/>
+			<image src="9A9AD983A6561C9FABA8BB3B02446341.jpg" title="微胖女星盘点" content="在普遍追求纤细身材的娱乐圈，这些女星虽然微胖，但是颜值各个能打。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3632428.html?meetting=1687839632153" packagename=""/>
+			<image src="D2B4EBE9A7D10DFF76D64AE8309D996D.jpg" title="百变的欧阳娜娜" content="少女初长成的欧阳娜娜一直以来都在不断尝试不同造型，摸索新风格。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7167382325800698375/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=458564" packagename=""/>
+			<image src="DADA0D2FB1CB8CF315514E15C7390F0F.jpg" title="国产剧“破圈”" content="如今的国产剧、视频平台是如何在海外站稳脚跟的。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5562816" packagename=""/>
+		</type>
+	</switch>
+</layout>
