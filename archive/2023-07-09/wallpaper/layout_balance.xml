@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023070803" updatetime="20230708">
+	<switch>
+		<type id="42544" src="icon_20220419161744.png" title="汽车" selected="true">
+			<image src="9C832D14DA9420DDA45A1F6231C73B7D.jpg" title="开车恶习要不得" content="4种开车坏习惯要不得，会大大减少汽车使用寿命。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/361464_0.html" packagename=""/>
+			<image src="70FEBC72A9A8FA6321103484033908C3.jpg" title="磨合期注意事项" content="刚提了新车之后别急着上路，备齐这3样，安全出行更享受。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230628/102962.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
