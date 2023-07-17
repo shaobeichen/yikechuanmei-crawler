@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023071801" updatetime="20230718">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="A35DA62468E290B3F2FA3F4EC2C82AB7.jpg" title="人间仙境九寨沟" content="九寨沟的景观，类多景异，湖、瀑、滩、泉，一应俱全，异彩纷呈。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LERYQYFJ.html" packagename=""/>
+			<image src="D329997C3456B90A060831CBCCD92D89.jpg" title="每日一签" content="生活与工作的平衡好比踏单车，你要双眼望着前方。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7090830359088087552/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=459420" packagename=""/>
+			<image src="A5AA5E086A65009C18D159313E237DD5.jpg" title="夏日十大海滩" content="夏日限定丨夏日避暑不知去哪，不妨从西班牙到塞舌尔，看看这些最美海滩。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3491441.html?meetting=1689116443845" packagename=""/>
+			<image src="236FE7D5B3F7B5C4472AE5520AB70906.jpg" title="绝美建筑之都" content="被紫色薰衣草包围的巴洛克建筑，撒发着优雅而古典的魅力。图：Alex.B©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234117?lock_screen_content_id=1789" packagename=""/>
+			<image src="A46C7B1DD109D76F4420230BCE86BDCB.jpg" title="粉色与建筑相遇" content="粉色的建筑如同一个温暖的怀抱，让人感受到爱和温情。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_237684.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="F1D59A21E6EB7429251E70B270E38695.jpg" title="阿尔卑斯山奇景" content="环球脚步 | 清澈透亮的湖面，犹如一颗镶嵌在阿尔卑斯山丛林中的蓝宝石！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/42172" packagename=""/>
+			<image src="670EEDE2C7D7FF80F34785478702BC74.jpg" title="梦幻茶卡盐湖" content="茶卡盐湖如一块巨大的镜子，镶嵌在地面之上，倒映世间万物。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7110595552588382720/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=433127" packagename=""/>
+		</type>
+	</switch>
+</layout>
