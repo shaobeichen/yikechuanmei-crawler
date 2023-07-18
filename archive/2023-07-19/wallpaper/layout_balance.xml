@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023071801" updatetime="20230718">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="D05EE40F32728A5593EC6616A844661D.jpg" title="跳高的正确方式" content="跳高的技术结构分为：助跑、起跳、过杆、落地四个部分，各部分紧密联系，相互作用。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1676836251308756993.html" packagename=""/>
+			<image src="02D93EB19AD579718B1E7037F0D51336.jpg" title="可以升值的运动" content="当你坚持这项高尔夫运动，它所带给你的价值，会远远超乎你想象。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5564377" packagename=""/>
+		</type>
+	</switch>
+</layout>
