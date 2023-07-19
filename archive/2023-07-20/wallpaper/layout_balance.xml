@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023071901" updatetime="20230719">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9236F25929B8CED37E76F8D9A24F5BE8.jpg" title="暑期“课本游”" content="毕业季 | 毕业旅行季开启！“跟着课本去打卡”成为暑期旅游消费新亮点。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/39699" packagename=""/>
+			<image src="E9BFD3F8A780E4769089FD9473DD978E.jpg" title="阿尔卑斯的遗珠" content="多洛米蒂山脉位于意大利北部的特伦托大区和南蒂罗尔地区，跨越了意大利和奥地利两国边界。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1676836728888942593.html" packagename=""/>
+			<image src="CF429D5D265D696B6F4BEAA808B62BE5.jpg" title="每日一签" content="希望你被世界温柔以待，同时也温柔地对待这个世界。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1671078361679556610.html" packagename=""/>
+			<image src="73670AC3329154CE5361029E5A7F83AA.jpg" title="旅游的不同段位" content="青铜、白银、黄金、钻石，旅游的四个段位，快来对号入座！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3494937.html?meetting=1689116441229" packagename=""/>
+			<image src="1CBDC6CD03465F94BEFF08D67AEEFAE4.jpg" title="云游绝美匈牙利" content="布达佩斯的城堡静静站在晚霞的余晖中，沐浴着阳光。图：Tobias.R©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234187?lock_screen_content_id=1827" packagename=""/>
+			<image src="E90D13BDD48E3C756D6391E642F53619.jpg" title="探索银河系的奥秘" content="银河系直径约10万光年，含有数百亿颗恒星和数千亿个星系。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_237025.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="D8A41D6D09B072FF0681F454FD897F7C.jpg" title="紫禁城秘闻" content="故宫能在历史潮流中屹立不倒，还源于它拥有一个“默默无闻的守护神”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7040251754851746336/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=463073" packagename=""/>
+		</type>
+	</switch>
+</layout>
