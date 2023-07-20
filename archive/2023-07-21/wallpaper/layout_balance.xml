@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072004" updatetime="20230720">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="91B7774CF0800986E758A0006CDFCA1B.jpg" title="白色上衣巧搭配" content="一抹白色鲜活灵动，贴合所有斑斓色彩，俏皮感不请自来。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/39831" packagename=""/>
+			<image src="BF373FBE0EB852CD652A1D99EB36A747.jpg" title="夏日胶水底妆" content="掌握这些防脱妆的小秘诀，美丽持久如“胶水”！图：若魔绫©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234227?lock_screen_content_id=1843" packagename=""/>
+		</type>
+	</switch>
+</layout>
