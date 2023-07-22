@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072207" updatetime="20230722">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="2C5033A30FACF4589B823FA8782C17E8.jpg" title="希腊之旅" content="环球脚步 | 这是古神话中西方众神的居住之地，是欧洲文学诞生的摇篮。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/39505" packagename=""/>
+			<image src="B6478CC02B13B043153CFC0D8F2714E3.jpg" title="每日一签" content="心有多大，世界就有多大！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6834771172802953735/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=459425" packagename=""/>
+			<image src="A9B12AC12472DC03E3D4D12F08CF8D04.jpg" title="希腊风情的宝岛" content="圣托里尼岛拥有大量经典的蓝白色系建筑，又以色彩鲜艳的沙滩和纯净唯美的海湾著称。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1677133052884549634.html" packagename=""/>
+			<image src="55EDC23044EB753B4A6B7DA75B67763A.jpg" title="海平面为何上升" content="地球表面究竟有多少水？海平面为什么会上升？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238178.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C60F46AF6FBA10D2F1C2D94CCA69E7D5.jpg" title="夜空的绚丽礼赞" content="极昼与极夜交织，漠河北极村夏至极光绚丽绽放惊叹众人。图：AILSET丨于文平Turman©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234198?lock_screen_content_id=1835" packagename=""/>
+			<image src="BA1FA95C6DB914139F71EA5E1EBFD0FF.jpg" title="这里禁止戴手表" content="这座城市定下奇特规定，所有人不得戴手表，否则就要接受跳海惩罚。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3500009.html?meetting=1689721247669" packagename=""/>
+		</type>
+	</switch>
+</layout>
