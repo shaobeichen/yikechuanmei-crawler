@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072407" updatetime="20230724">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="3672CE0462CC4F4B7D11FAC8C804F06A.jpg" title="奇特景观大盘点" content="胡德山是一座死火山，最后一次喷发约在1865年，现在这里蓝天围着雪山顶，景色非常震撼。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679432276108165121.html" packagename=""/>
+			<image src="766CCEFD745579670AE2FD83832D0F51.jpg" title="平潭岛北线游记" content="蔚蓝大海、风车和公路，勾勒出一幅浪漫画卷。图：睡不醒的猫酱©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234240?lock_screen_content_id=1857" packagename=""/>
+			<image src="47F2A2B2CB8749A7C07DC27800036157.jpg" title="露营“狂想曲”" content="趣露营 | 都市人群的“仲夏夜之梦”，精致露营带来“融入式”的休闲新方式。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/45128" packagename=""/>
+			<image src="DFFEFCE31A39C92BB3E510219B2F39DC.jpg" title="每日一签" content="远方再华美，也不如心中有明媚，做一个能发现平凡而细小的美好的人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/363404_0.html" packagename=""/>
+			<image src="62C354E7228C494593FF85BBD3624159.jpg" title="夏季露营必看" content="趣露营 | 夏季露营，如果晚上计划看星星，那么建议带一件冲锋衣。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238317.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="B713FAB5B2D1AB55B35B787419EF4F3C.jpg" title="容易迷路的城市" content="容易让人找不着北的五座城市，导航都没用，北京上榜！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3505740.html?meetting=1689721252759" packagename=""/>
+		</type>
+	</switch>
+</layout>
