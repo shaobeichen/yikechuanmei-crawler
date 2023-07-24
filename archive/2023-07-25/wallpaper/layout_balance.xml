@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072409" updatetime="20230724">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C5A487E0860B034047150715BBA4C45D.jpg" title="汪苏泷有点甜" content="在音乐这条路上，汪苏泷坚持初心，高产的他创作出许多优质的音乐。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6820316961621148163/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=462292" packagename=""/>
+			<image src="4275075D325321F6FB308A6E3807A88C.jpg" title="才艺双馨的彤儿" content="她不仅有着出色的演技，还拥有一张极其美丽的脸庞。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5563836" packagename=""/>
+			<image src="0BBE65C68CCAF499892B76560F2AD9C4.jpg" title="疼痛文学女主" content="这四位女星身上的“破碎美”好有故事感，演戏时自带悲情。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230713/104295.html" packagename=""/>
+			<image src="B87C90BF1CC41512EB499C27FF526B1C.jpg" title="剧中霸总盘点" content="这几部剧中的“霸总”人设完美，令人心动，总有一款俘获你的少女心。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3632628.html?meetting=1689807638154" packagename=""/>
+		</type>
+	</switch>
+</layout>
