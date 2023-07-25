@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072601" updatetime="20230726">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="B993E5CB5C647E96107E497D567D9233.jpg" title="千“盐”万语" content="中国盐湖之“最”！辽阔无垠的碧色海洋，呈现出万千光影。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/44960" packagename=""/>
+			<image src="CC2A58411E8D08D18746CD6031E91216.jpg" title="每日一签" content="人生很短，你应该活得有趣。当有趣成为一种人生态度，生命也将无限宽广。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/363406_0.html" packagename=""/>
+			<image src="4C570D95C0214357A94E20260A1300D5.jpg" title="古人的消暑方法" content="夏日限定丨 没有空调的夏天，聪明绝顶的古人，想出了各种新奇有趣的消暑办法。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3450498.html?meetting=1689672634447" packagename=""/>
+			<image src="58284E58C70F5BFB22442DA849346B0B.jpg" title="摩洛哥异国之美" content="摩洛哥是一幅艳丽的油画，被阳光点亮的古城屋顶闪烁着金色。图：Alex.A©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234251?lock_screen_content_id=1869" packagename=""/>
+			<image src="E3927F7D5944D1189B9A2D6C4F1AC903.jpg" title="葡萄酒的发祥地" content="它是世界上最古老的红酒产地，它被称为“上帝的后花园” ，它的名字叫格鲁吉亚 。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1681216032271777793.html" packagename=""/>
+			<image src="D1ED49AB48F488087B83B12769890229.jpg" title="神奇的秘境" content="可可西里，是世界上第三大自然保护区，也是世界上海拔最高的自然保护区之一。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238133.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="7731CF80A392C5AA0BB410FB4F26A101.jpg" title="野钓竞技赛场" content="中国地大物博，江流湖泊流域广泛，对于钓友来说，野钓无疑是最受欢迎的！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7237051154214027832/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454894" packagename=""/>
+		</type>
+	</switch>
+</layout>
