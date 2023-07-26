@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072705" updatetime="20230727">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="4B278909EAA9C4746743B90968C6D91C.jpg" title="超短的飞机航线" content="短到令你震惊的飞机航线，全程仅2.7公里，飞一趟不到一分钟。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3496358.html?meetting=1689721246061" packagename=""/>
+			<image src="25922A2FCABA679E5D24688109621FEF.jpg" title="自然遗产的瑰宝" content="阿尔卑斯山脉因其壮丽的山峰、迷人的湖泊和美丽的风景而闻名于世。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1676836734907768833.html" packagename=""/>
+			<image src="99FC0C6C3D6FE2BA5B66C1813D06FB48.jpg" title="大稜镜颜色之谜" content="是超自然力量还是科学奇迹？揭开大稜镜温泉绚丽多彩的秘密！图：Vasilis.K©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234238?lock_screen_content_id=1855" packagename=""/>
+			<image src="D32FE6E64B6F0B0B04799D3C16F92BD1.jpg" title="走进文字的家" content="中国文字博物馆，是集文物保护、陈列展示和科学研究为一体的国家一级博物馆。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238266.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="D17B6B741609ED40AE112A25DC55064A.jpg" title="BC露营兴起" content="硬核BC范儿！作为最小众的露营方式，BC露营有着独特的“野趣”！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/45129" packagename=""/>
+			<image src="CF43848F57052DC5EEFB34C2A80CA7F5.jpg" title="悠闲意大利乡村" content="如果你想从繁忙的城市中逃离，就来意大利的乡村看一看吧。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7228032813969768995/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454980" packagename=""/>
+		</type>
+	</switch>
+</layout>
