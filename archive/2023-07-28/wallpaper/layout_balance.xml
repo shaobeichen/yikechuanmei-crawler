@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072806" updatetime="20230728">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9EE2F5D872C9D11BE632FC6CCB328316.jpg" title="峡谷奇观" content="逼仄幽深的峡谷，波浪起伏的线条，斑斓迷离的色块，构成了位列世界十大地质奇迹的羚羊谷。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679428832152535042.html" packagename=""/>
+			<image src="8850DB032C88285DDB2A9BF7465043F3.jpg" title="凉爽城市大盘点" content="盘点中国四个货真价实的“凉快城市”，空调都用不上，你去过哪一个？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238760.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="EC5EB44B876845BEE89A43B8B9A45B8B.jpg" title="走进水美贵州" content="踏上贵州瀑布之旅，感受水珠跳跃的音符。图：車行摄©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234354?lock_screen_content_id=1893" packagename=""/>
+			<image src="0DE8DAFFC3BF0D044C90F098FC812404.jpg" title="阳朔山水甲桂林" content="桂林山水之美，美在漓江水之“奇”也。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7228130516892107297/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454878" packagename=""/>
+			<image src="4D07E70C0F46D3EFB7076A29B6383A52.jpg" title="课本中的美景" content="语文课本中不止有“背诵全文”，还有这些值得一看的旅游景点。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3506640.html?meetting=1690326041959" packagename=""/>
+			<image src="F5453A42D11F019618AEE4CCB37004ED.jpg" title="新疆自由行" content="新疆喀纳斯因水而美，梦幻河湾“卧龙湾”是其中翘楚。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/48780" packagename=""/>
+		</type>
+	</switch>
+</layout>
