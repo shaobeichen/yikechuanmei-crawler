@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023072907" updatetime="20230729">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="16DD5A55B9FDFA48CA5CF69DD2043D58.jpg" title="每日一签" content="“梦”是心理学中神秘又有趣的话题，它都跟我们的情感需求有关。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230717/104492.html" packagename=""/>
+			<image src="E1DFC67CDE6847D3846E36CD04D82144.jpg" title="巴伐利亚的明珠" content="罗腾堡是巴伐利亚最出名的小镇，有“中世纪明珠”的美称，是著名的古堡之路和浪漫之路的交汇。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679428822144925697.html" packagename=""/>
+			<image src="E84374AE98C6F67229BCA3A79F6E05DF.jpg" title="阿那亚的浪漫" content="阿那亚优美的海滩、浪漫的建筑风格和丰富的娱乐设施，吸引了大量游客前来观光。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238734.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="0E94279D99D7129318AFE1C6E68EA3A0.jpg" title="夏日绿野漫游" content="这个被游人忽视的小众草原，居然是新疆夏日避暑好去处！图：阿亦Eason©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234271?lock_screen_content_id=1876" packagename=""/>
+			<image src="DC494DA01144B2B48BCFAFCE789FDAF8.jpg" title="中国的马尔代夫" content="到过东台吉乃尔湖的人是幸运的，因为美丽在短暂中永恒。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7159910314916987433/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454959" packagename=""/>
+			<image src="511C4E83F57F289FCE278B109413D125.jpg" title="坐缆车出行之地" content="这个国家太“奇特”，人们坐缆车上下班，监狱还要收费！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3508877.html?meetting=1690326044207" packagename=""/>
+			<image src="1E0EF20B30D8ECBE44B7CB3622692853.jpg" title="国内小众游" content="穿过藤蔓交织的“森林氧吧”，寻找盛夏之夜的灵谷萤火虫！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/48778" packagename=""/>
+		</type>
+	</switch>
+</layout>
