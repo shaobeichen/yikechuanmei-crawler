@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023073007" updatetime="20230730">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="39D0CFC5360593B29264398DE62EB2B7.jpg" title="每日一签" content="去做风吧，去做不被定义的风，风是自由的，你也是自由的。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238455.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="DDDDD455DD9EFFFD6667BB7EA538EA57.jpg" title="世界建筑之都" content="巴塞罗那是西班牙的文化古城，棋盘式的城市布局构成了巴塞罗那令人迷醉的天际线。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1682266006703124482.html" packagename=""/>
+			<image src="C4922FE9696C7EFFAE8415590FE11787.jpg" title="大自然的奇迹" content="错觉还是魔法？你难以相信这是地球上的湖泊！图：Bryan.P©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234356?lock_screen_content_id=1896" packagename=""/>
+			<image src="DCE7EB8B8AF035652C30D907E212EA43.jpg" title="澳门渔人码头" content="渔人码头是澳门首个主题公园和购物中心，是中西文化的融合。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7225197361394762277/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=450587" packagename=""/>
+			<image src="7ED70E229C7E91E055CACD9FC738C402.jpg" title="俄罗斯著名景点" content="被亲切称为“战斗民族”的俄罗斯，有着这六个极度浪漫的景点。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3506790.html?meetting=1690326040222" packagename=""/>
+			<image src="EAF00749B3E87CE0F52913A14B7380F6.jpg" title="“世界之檐”" content="人们常说：“不到阿里就不算到了西藏”，这里是万水之源，是生命的禁区！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238763.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="3BF6314A8560FC97CB0C806A3A467544.jpg" title="清新青海游" content="国内最大的内陆湖泊！拥有高原湖泊、雪山沙漠和明朗星空等多种瑰丽风光。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/48777" packagename=""/>
+		</type>
+	</switch>
+</layout>
