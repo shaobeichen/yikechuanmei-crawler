@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023073107" updatetime="20230731">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="5344E5C8A4B05FD177BB2F5EB1914ACC.jpg" title="每日一签" content="无法重来的一生，要把生活过得舒服自在。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238452.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="72F231E3D6CFF0DA1BC3B60165428FA3.jpg" title="“避暑”古镇" content=" 最佳避暑小众地都在这了，想过一个25℃的夏天的话，就来看看。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3489342.html?meetting=1689760236776" packagename=""/>
+			<image src="1B8FB7219039B0EE0A1681595FFF8917.jpg" title="中国最美的小镇" content="凤凰古城始建于明朝，距今已有几百年的历史。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7154686036939915776/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454888" packagename=""/>
+			<image src="5027FED147E02886E0AE5A4B28DF71AA.jpg" title="风车王国" content="荷兰的风车，郁金香，奶酪和木鞋，这四者被称作“荷兰四宝”。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679428819745783809.html" packagename=""/>
+			<image src="E86FCB8DD6F01E5565E6C0F87D7F1D10.jpg" title="探索瑰丽之地" content="心无旁骛地与彩云“共舞”，留下你的云南故事。图：Rine_INF©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234355?lock_screen_content_id=1895" packagename=""/>
+			<image src="D5ECD0D9F76F757168EC30BA923EE0E4.jpg" title="故宫图案大揭秘" content="故宫建筑里有着众多图案元素，那你知道这些图案代表着什么意义吗？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238766.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="EEB72D05F899D66449C8B7C20C4C9DAA.jpg" title="漫游泰国" content="探索清迈周边仙境！这些分分钟出大片的小众景点不容错过。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/48772" packagename=""/>
+		</type>
+	</switch>
+</layout>
