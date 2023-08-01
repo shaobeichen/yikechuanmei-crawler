@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080206" updatetime="20230802">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9D6FE2560857081E45012719EE7F651F.jpg" title="每日一签" content="世事无常，唯有心定。生活就像海洋，只有意志坚定的人才能到达彼岸。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238451.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="4CC1D88E9EE1B0B35589A114DF8392A6.jpg" title="甘南扎尕那航拍" content="甘南被评为“中国十大非著名山岳”，被评为国家4A级旅游景区。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7083875506654921257/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=442721" packagename=""/>
+			<image src="F8393BD5C4856455248B74EEC57350A6.jpg" title="经典美西大环线" content="大峡谷于美国西部亚利桑那州西北部的科罗拉多高原上。全长443公里，是世界奇景之一。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1676836740377141249.html" packagename=""/>
+			<image src="203AFA61F4AAEA2F93E49012406F796E.jpg" title="离岸流如何自救" content="夏天，海边成为人们度假的首选地，但平静蔚蓝的海面下，或许潜藏着隐形“杀手”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238754.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="0DC17EC83BAB304811C79B9FE4B13108.jpg" title="天然的绿色空调" content="解读湖泊生态系统，探寻湖水是如何驱散夏日酷热的？图：极行远方的易川©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234289?lock_screen_content_id=1880" packagename=""/>
+			<image src="B6D3E846FFCE8D648F7D19928C343827.jpg" title="三亚“情人岛”" content="蜈洲支岛被誉为上帝遗落人间的眼泪，美得挪不开眼，适合人们去拍婚纱照。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3509644.html?meetting=1690326043231" packagename=""/>
+			<image src="08CFAD9BDF5D45351D5D70AE7518A13B.jpg" title="武汉美景如画" content="长江边的“天下第一楼”！黄鹤楼兼具文化底蕴和自然景色的双重魅力。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51831" packagename=""/>
+		</type>
+	</switch>
+</layout>
