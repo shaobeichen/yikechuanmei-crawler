@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080307" updatetime="20230803">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9B4B3EB6CAD471216EC254C0E2E53E86.jpg" title="国内避暑胜地" content="夏日限定 | 盘点国内四大避暑胜地，气温不超过25℃，空调已“退休”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3486873.html?meetting=1688511644012" packagename=""/>
+			<image src="601A30426E2A151ED9ACD4AB486B5185.jpg" title="每日一签" content="用心对待每一个瞬间，你会发现生活原本就是一首美丽动人的诗。图/Ishan.S©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234274?lock_screen_content_id=1877" packagename=""/>
+			<image src="6E8DD5D945664BDC5690DE1E9E07BCFF.jpg" title="独库公路沿线" content="中国最美的公路旅行，“一日游四季、十里不同天”的壮美奇景。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7197297534396744249/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=442305" packagename=""/>
+			<image src="4C3CD8C01B7B419DF1F44D830C8DD7FF.jpg" title="伦敦红的魅力" content="伦敦巴士、伦敦邮筒、伦敦电话亭统称为伦敦三红，醒目的红色正是伦敦的色彩。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679432258093629442.html" packagename=""/>
+			<image src="57B98E1DDF32406F7B8D804BF60E3DA2.jpg" title="“电影脸”海岛" content="东山岛冬天温暖，夏天凉爽，树木茂盛，被称为“东海绿洲”。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_238747.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="F607C7F121627E3C7A71FD46F44CD77E.jpg" title="“盐旅游”秘笈" content="给旅行加点“料”，了解下鲜为人知的“盐旅行”。图：Quang.N©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234239?lock_screen_content_id=1856" packagename=""/>
+			<image src="3D815B3FAA3AF40C12916B93A82E4D3F.jpg" title="北疆绝色风景" content="在伊犁苍翠的高山草甸中，收获一场无与伦比的视觉盛宴！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51836" packagename=""/>
+		</type>
+	</switch>
+</layout>
