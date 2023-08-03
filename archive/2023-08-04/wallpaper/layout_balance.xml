@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080407" updatetime="20230804">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="675D44BACF5EA5B88B5674E868BBDEF4.jpg" title="每日一签" content="所谓活着的人，就是不断挑战的人，不断攀登命运峻峰的人。图：Levi.A©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234256?lock_screen_content_id=1873" packagename=""/>
+			<image src="BDB8761C916D860404F66F786A693D7C.jpg" title="北欧旅行—挪威" content="挪威是非常适合列车旅行的国家，搭乘火车可直接穿行于壮美的雪山之中。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6545226097083023879/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=442720" packagename=""/>
+			<image src="8829250DEF0B12F617A1A4833EDE585D.jpg" title="翡翠之城" content="西雅图位于美国华盛顿州西北部的太平洋沿岸，曾被《货币》杂志评为“全美最佳居住地”。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1679428816977543170.html" packagename=""/>
+			<image src="F9951B5BD30E2F4641640CF1F8412398.jpg" title="阿坝达古冰川" content="四川阿坝有个神奇的景区，夏天冰天雪地，游玩还需要穿羽绒服！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239139.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="12A01BF9F28318B87B142BF0CA2CEF24.jpg" title="将绿色拥入眼帘" content="走到窗边眺望远处的风景，让眼睛放松休息寻找身边的绿色天地！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51838" packagename=""/>
+			<image src="DA54D471A2A8F90D8A49B3F8242564E7.jpg" title="查收护眼壁纸" content="这个夏天，带你去新疆拍摄手机壁纸！图：北道先生©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234456?lock_screen_content_id=1951" packagename=""/>
+			<image src="8E57FC417210D15BECAB77F548AA024B.jpg" title="国内“难爬”的山" content="这座山专治各种不服，嘴硬的年轻人爬过后，纷纷缴械投降。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3631607.html?meetting=1690881032509" packagename=""/>
+		</type>
+	</switch>
+</layout>
