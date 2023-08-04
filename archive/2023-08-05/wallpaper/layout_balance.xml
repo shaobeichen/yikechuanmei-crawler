@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080507" updatetime="20230805">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="8A1762F4159A163856FB53D0AC715D85.jpg" title="每日一签" content="将这三个安心锦囊，送给彻夜难眠的你。图：_ZEK_©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234255?lock_screen_content_id=1872" packagename=""/>
+			<image src="75BF962DE3697F997A9B92FD66C55998.jpg" title="唯美集贤亭" content="集贤亭位于杭州西湖公园“晚节流香”石碑对面，在历史颇有名气。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6609032010218340872/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=455527" packagename=""/>
+			<image src="ABAA98410A41E370B3A961BF01514A93.jpg" title="奇怪岛屿大盘点" content="复活节岛位于太平洋东南部，因为岛上巧夺天工而又匪夷所思的复活节石像闻名全球。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684149030839451650.html" packagename=""/>
+			<image src="4F2C4563431C12B0B20C88B609404D03.jpg" title="最美星空观赏地" content="盘点我国十大最美星空观赏地，不用去国外就能欣赏到灿烂星空！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239147.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="97637A5099BAD1388FFB607EAB3CB6F3.jpg" title="走进童话世界" content="极具传奇艺术色彩的布兰城堡，造就一段永久流传的故事！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51823" packagename=""/>
+			<image src="E47EAB36D5C66046CDC15B9D501431CA.jpg" title="世界级风景画廊" content="漓江风景如画，沿途山水倒映，仿佛走进水墨世界。图：Henry浩麟©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234454?lock_screen_content_id=1953" packagename=""/>
+			<image src="01D0989F04290F0DA133C81D1E4AA4AA.jpg" title="方言繁多的省份" content="即使是相同省份，方言也千差万别！有人调侃：隔了条河就听不懂对方的话。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3513602.html?meetting=1690882833722" packagename=""/>
+		</type>
+	</switch>
+</layout>
