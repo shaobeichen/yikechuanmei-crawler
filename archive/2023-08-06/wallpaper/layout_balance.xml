@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080607" updatetime="20230806">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="3176E1C4666E007F95C36B6D59478D6B.jpg" title="心中有盏指明灯" content="只要你心中有座为你指引方向的灯塔，你一定能走过最难的路。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7062994131521667595/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=454940" packagename=""/>
+			<image src="6CC46FB229784E818464C45516FCEE6A.jpg" title="英国景点大合集" content="伦敦眼是欧洲最高的摩天轮，从白金汉宫到大本钟再到圣保罗大教堂，所有景点，都可以一览无余。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684149026129248258.html" packagename=""/>
+			<image src="F9C5CA3E65E76BE6DDC8435498E1B2A6.jpg" title="魔都浪漫数不尽" content="在上海，你能感受到历史的厚重、现代的繁华、文化的多样还有浪漫的气息！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239140.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C61BFE8F75028C89835EE38C285B6693.jpg" title="探寻瑞士风情" content="瑞士不仅有迷人的自然风光，还有多样的旅游体验等待你探索。图：Joel.J©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234472?lock_screen_content_id=1966" packagename=""/>
+			<image src="2059448B9A8B50014DEEFD66BF3C673E.jpg" title="新疆天然沙疗地" content="新疆的这处沙漠是天然的沙疗场所，在这里还能玩刺激的沙漠冲浪！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3515713.html?meetting=1690883434052" packagename=""/>
+			<image src="B0A9EB3761BA73D3F792613F1F8D8A88.jpg" title="一人自由行" content="欧洲湖光山色美如画，深嵌在山谷之中的蓝绿色湖水如隐秘的宝石！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51833" packagename=""/>
+		</type>
+	</switch>
+</layout>
