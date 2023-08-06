@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080701" updatetime="20230807">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="0EA2A32484A1E0C992EEC2EB8F00415A.jpg" title="每日一签" content="看过世界，见过众生，热衷于旅途并不是为了逃避生活中的琐碎，而是人生的一场沉淀。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/45131" packagename=""/>
+			<image src="B0D5FF094861217CF34297091FC03362.jpg" title="有极光的海岛" content="壮阔的峡湾、童话般的渔村、海角天涯的光影，这些都是专属于罗弗敦群岛的独特魅力。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684149024090816514.html" packagename=""/>
+			<image src="A035307D9F02FB484E50CBBCFEF808F9.jpg" title="帕特农神庙" content="帕特农神庙是古希腊文明的最高象征，有“希腊国宝”之称，是人类艺术宝库中一颗璀璨的明珠。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6903309085442130446/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=444802" packagename=""/>
+			<image src="A08D7F91A0B33A9BE4713EED398EA2B9.jpg" title="禁开空调的国家" content="全球不让居民安装空调国家：再热只能开风扇，空调厂商分分钟破产。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3516971.html?meetting=1690930860329" packagename=""/>
+			<image src="1ED01C93513C456D127DDB33C3DF42E9.jpg" title="八月新疆自驾游" content="新疆自驾最佳旅游路线推荐，八月出发正当时！图：包卡利亚©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234433?lock_screen_content_id=1938" packagename=""/>
+			<image src="1A48D89AED2588389D1BF80D62EA27ED.jpg" title="震撼人心的建筑" content="外形超现实、超魔幻的建筑！仿佛让人穿越到科幻星球中一样震撼。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51825" packagename=""/>
+			<image src="CC27D725E2BBB8C1028255B2249D98CA.jpg" title="飞机轮胎的神奇" content="小小的飞机轮胎，为何可以承载几百吨的机身？它是怎么做到的？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239142.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
