@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080807" updatetime="20230808">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="102CAE749DE1D70F56910BC466BB6F7D.jpg" title="每日一签" content="人生旅途中，愿你既有仰望星空的诗意，又有脚踏实地的坚定！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/45132" packagename=""/>
+			<image src="C2AC603861DD19E4366734E362728460.jpg" title="中国的火山岛" content="涠洲岛是火山喷发堆凝而成的岛屿，有海蚀、海积及溶岩等景观，有“蓬莱岛”之称。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1683680816934223873.html" packagename=""/>
+			<image src="1FAD5388A738A410B81D2B1314F8F92E.jpg" title="草坪如何打理" content="庭院草坪一定要定期修剪、适当施肥、正确浇水并且浇水死角也要照顾到。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7026896305293230631/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=442814" packagename=""/>
+			<image src="F3B3F265A8926E7CD1690F87A3F60421.jpg" title="贵州避暑胜地" content="寄情于山水之间，体验一场舌尖上的“清凉大冒险”。图：蚯蚓©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234457?lock_screen_content_id=1950" packagename=""/>
+			<image src="6D86C4C39FDA8F7E7A5B0921AE9E4804.jpg" title="教你拍海景美照" content="海滩拥有元素丰富的场景，很多有趣的细节都可以拿来利用。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/51840" packagename=""/>
+			<image src="2B73E5102B6D7CA456DAE2A5EC66F481.jpg" title="上帝的调色盘" content="这座七彩盐湖就在我国，宛如巨型调色盘，被誉为“中国死海”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3512634.html?meetting=1690882234070" packagename=""/>
+			<image src="403BE0E805491945EABFC09A11F96426.jpg" title="大自然的瑰宝" content="在这辽阔无垠的戈壁，时间似乎变得静止，让人感受到生命的跃动与灵魂的震撼！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239136.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
