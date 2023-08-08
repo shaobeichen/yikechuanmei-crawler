@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023080907" updatetime="20230809">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="AB436C5B7AD4C4DCA69AA6D9E6820C46.jpg" title="露营注意事项" content="趣露营 | 你必须知道的10大露营注意事项，这将直接决定你的露营质量。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_236716.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="190F2523A91563334C92A05092CB9B1E.jpg" title="暑假免费景区" content="谁说出去玩一定要花钱！送你份暑假免费游玩清单，全是5A景区。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3498192.html?meetting=1689807639856" packagename=""/>
+			<image src="93B12977543151CFDDC8963E20C00996.jpg" title="公路旅行的魅力" content="无论你是想来一场说走就走的享受式旅行，或是纯粹的享受自然，公路旅行都将是一个极佳的选项。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684824298839089153.html" packagename=""/>
+			<image src="6E95A8E6B68D95C402685D60085826DE.jpg" title="与自然共舞" content="在纯净的湖畔搭建帐篷，迎接清晨第一缕阳光。图：Drift.S©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234460?lock_screen_content_id=1946" packagename=""/>
+			<image src="E9A1E6C90FA80AADF3CDF88F42452F8A.jpg" title="冰与火的砥砺" content="黄石国家公园拥有五大景区，这五处景区有着一个共同点——地热奇观。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7225928433107370552/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=450308" packagename=""/>
+			<image src="A5675B3FF2AB11B00240E70CE00ECB15.jpg" title="令人心动的极光" content="欣赏永昼与极光的绝佳去处，野地小木屋的探险有何欢乐体验？©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56046" packagename=""/>
+		</type>
+	</switch>
+</layout>
