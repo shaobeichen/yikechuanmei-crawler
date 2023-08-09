@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081007" updatetime="20230810">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="2787AC575353AFB75BBD7AEF255C58BC.jpg" title="美国的神秘巨石" content="魔鬼塔是美国第一个国家纪念地，也是印第安人的神圣之地，同时也被传说为外星人的基地。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684824302039343105.html" packagename=""/>
+			<image src="6BA48779E7CD6E72775C38BFBFC3106F.jpg" title="呼伦贝尔草原" content="额尔古纳湿地是中国目前保持原状态最完好、面积最大的湿地。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7106300612786045472/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=447153" packagename=""/>
+			<image src="52602C8849F0EA3862A6A99E55CBC085.jpg" title="每日一签" content="与其疲惫不堪地到处去找船，不如修筑好一座高质量的码头，到时船便能自然地云集而至。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1681496042069049345.html" packagename=""/>
+			<image src="0479EFB439B894ED96C9418354D4F125.jpg" title="天地间的纯净" content="青海没有海，但是它有着世间纯净无比的湖！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_218978.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="8DB84E9E72893C8A446400C0169717FD.jpg" title="邂逅浪漫国度" content="在普罗旺斯欣赏紫色花海美景，去感受这片土地最原始的气息！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56047" packagename=""/>
+			<image src="13E9363A5385A09D17A23E6C36B2759B.jpg" title="探索古建筑魅力" content="塞哥维亚的建筑蕴藏着岁月的痕迹，叙说着历史厚度。图：Ramon.P©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234557?lock_screen_content_id=2007" packagename=""/>
+			<image src="A3C89EC25BE05D00D9106FD5C53C7611.jpg" title="没有桥梁的河流" content="为什么至今没人在亚马逊河上建桥？原因有三点，看完你就明白了。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3586035.html?meetting=1691487040509" packagename=""/>
+		</type>
+	</switch>
+</layout>
