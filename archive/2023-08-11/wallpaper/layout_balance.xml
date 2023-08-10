@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081107" updatetime="20230811">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="825C2D2DC53527F25CB7A00725449BED.jpg" title="彗星也有极光" content="极光不只在地球上出现，太阳系内的其它一些具有磁场的行星上也有极光。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684834925489954817.html" packagename=""/>
+			<image src="22A83629D38852B4523B961F6EB3492A.jpg" title="每日一签" content="水滴不在意自己的脆弱，一步一个脚印的撞击，终于造就了水滴石穿。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1681496729116999681.html" packagename=""/>
+			<image src="3AB6F0FFFD9C1D0B4F51CE7B1E3D2D9B.jpg" title="台风起名有讲究" content="“杜苏芮”之后又是“卡努”！这些台风的名字怎么来的？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239642.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="0DA5368540E4147623C13034DCD6988B.jpg" title="开启德国之行" content="游览德国的“恶魔之桥”，依山傍水，宛如一个遗失在人间的仙境！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56044" packagename=""/>
+			<image src="E9B597E35FFB033F59D522AA6DE2912D.jpg" title="出境新玩法" content="阳光海滩与碧蓝海水，海岛度假地成为热门目的地。图：Sagar.K©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234544?lock_screen_content_id=1988" packagename=""/>
+			<image src="3607C27F918E79871B40161B34762140.jpg" title="尽是夕阳无限好" content="黄昏落日，晚霞灿烂，火烧云染红整个天穹，毕竟晚霞尚好，还是人间值得。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7005860142776451620/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=461245" packagename=""/>
+			<image src="059B09EA4062C18FFF671895E490EAB9.jpg" title="各国学生下课后" content="课间十分钟能做啥？看完美、中、日、韩的对比，网友：羡慕了！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629811.html?meetting=1691487042185" packagename=""/>
+		</type>
+	</switch>
+</layout>
