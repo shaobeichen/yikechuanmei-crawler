@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081207" updatetime="20230812">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="21DEE9424EF537AA5326CF91763253EC.jpg" title="历史名城之费城" content="费城完整地保存下了独立战争后的文物古迹，让游客能实地感受合众国诞生时期神奇的历史。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684836892467535873.html" packagename=""/>
+			<image src="DCAE9A251580A7946088C3C2E7EB684B.jpg" title="每日一签" content="人生总有走山谷的时候，不要丧失希望，不要停下双脚，前途就在双脚的前方。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1681216021228175362.html" packagename=""/>
+			<image src="64D31B4F118383DDBA16BCCE09FC6186.jpg" title="青岛避暑景点" content="盘点青岛的十大避暑旅游景点，让你在夏天感受到清爽的海风和美丽的风景！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239632.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="14EEEA64BB015500D068ACC5E2DF4505.jpg" title="圣托里尼的浪漫" content="蓝白色的建筑与爱琴海形成对比，探索令人心醉神迷的目的地！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56050" packagename=""/>
+			<image src="F40FE0216C2F754DAA99B9FFDADB41A5.jpg" title="打卡超网红公路" content="近600多个“S”弯道的盘龙古道，蜿蜒曲折的道路如画卷般展开。图：M与光同行©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234541?lock_screen_content_id=1992" packagename=""/>
+			<image src="F9B56771DE565575530A02ADA4A9A229.jpg" title="三大无人区之一" content="撒哈拉沙漠形成于约250万年前，约906万平方千米，有望成为大草原？©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6693819246230635011/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=464231" packagename=""/>
+			<image src="3062091E43C4552BD13DBA5210F7F6BB.jpg" title="独特的岩石瀑布" content="它是不太仙气飘飘的瀑布，周边全是黑色岩石，却备受艺术家追捧！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3608353.html?meetting=1691487038678" packagename=""/>
+		</type>
+	</switch>
+</layout>
