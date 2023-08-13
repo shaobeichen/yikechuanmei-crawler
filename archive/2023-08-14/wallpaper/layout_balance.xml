@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081401" updatetime="20230814">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="1D5BD968A5A232E7425B0C9551A9C56A.jpg" title="倒影拍摄技巧" content="在建筑霓虹灯光亮起的情况下，利用对称式构图去抓拍“虚实交融”的倒影世界。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1685856720422813698.html" packagename=""/>
+			<image src="8C0336DA8D8FC45C157F03267BF12C36.jpg" title="每日一签" content="大海因波澜壮阔而有气势，人生因荆棘坎坷而有意义。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7024304743954547230/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=459424" packagename=""/>
+			<image src="E13FB2278C8A63D4F35E36B17CFA5CD7.jpg" title="解锁雷峰塔美景" content="雷峰塔作为“西湖十景”之一，有五个视角可以完全解锁雷峰塔之美。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7067422441118630415/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=437667" packagename=""/>
+			<image src="30D56C5240B61BDE7C9E91F28D5F9DDB.jpg" title="南浔古镇的魅力" content="南浔古镇，不但有深厚的历史文化和民俗美食，更有着私家大宅第和江南园林！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239637.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="8BEA427FCA3CCA18BC9921A381A99F83.jpg" title="韩国自由行攻略" content="韩国热门影视取景地！建筑设计传统古建筑宫阙，展现木质建造艺术。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56048" packagename=""/>
+			<image src="321202D5732B5EDB05AACDC808743D7A.jpg" title="最适合骑行城市" content="来哥本哈根做一个快乐而自由的骑行者，穿梭于街头巷尾。图：Kirill©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234556?lock_screen_content_id=2005" packagename=""/>
+			<image src="92C6CB4FBBDC677F75828F65928D9C44.jpg" title="重庆的两副面孔" content="白天平平无奇，夜晚璀璨迷离，这座西部网红城市吸引无数人打卡。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3609391.html?meetting=1691488238319" packagename=""/>
+		</type>
+	</switch>
+</layout>
