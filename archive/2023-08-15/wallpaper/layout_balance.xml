@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12172" updatetime="20220627">
+	<switch>
+		<type id="15837" src="icon_20190604144147.png" title="旅行" selected="true">
+			<image src="D329997C3456B90A060831CBCCD92D89.jpg" title="每日一签" content="生活与工作的平衡好比踏单车，你要双眼望着前方。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7090830359088087552/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_ad_sl_wap&amp;cover_id=459420" packagename=""/>
+		</type>
+	</switch>
+</layout>
