@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081601" updatetime="20230816">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="CFAA8D524AC362F5ACFF43CD10F5FE0A.jpg" title="速度与激情并存" content="摩托车越野赛，能够让人领略到铮铮硬汉的血气方钢，带来速度与激情的视觉感。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5566710" packagename=""/>
+			<image src="FC929D20742A4A759C45AA41F79E317D.jpg" title="怎样跑步才正确" content="跑步结束后不要立刻坐下，要在缓缓的走一段路之后，再歇息。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689196371929747458.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
