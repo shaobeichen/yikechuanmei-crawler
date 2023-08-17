@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081805" updatetime="20230818">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9C641809A2CF40F68AD5D44B433532DB.jpg" title="探寻亚得里亚湾" content="这里有迷人的意大利风情和慵懒的希腊步调，搭配绚烂夕阳，就足以成为许多人心神向往之处。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1686993730516594689.html" packagename=""/>
+			<image src="BA1042E7FE0D4AF9BDBC0288060CD1A5.jpg" title="夏日避暑去哪儿" content="炎热夏日，趁此机会逃离城市，解锁高原风光！图：山猫Matias©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234353?lock_screen_content_id=1892" packagename=""/>
+			<image src="5F8ADD150F7D70B2CF547AA6FBCD5C9E.jpg" title="每日一签" content="夏天的未完待续，都将在秋天完成，不负所期。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/366169_0.html" packagename=""/>
+			<image src="32C23A679873711CD2568B2C1E13BBBB.jpg" title="暴雨洪灾防疫病" content="传染病的高发期！暴雨洪灾后，为何感染皮肤病的可能性最高？©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/56041" packagename=""/>
+			<image src="B3093D0155E1258B4FB25CCDC5E59C0F.jpg" title="畅游海滨城市" content="盘点全国十大最美丽的海滨城市，你最喜欢哪一个？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239968.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="FDC934405BB43D972CBFFD3A7CB233FC.jpg" title="国内高评分古镇" content="国内绝美的古镇，去过2个算及格，全去过的就太幸福了©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3520099.html?meetting=1692054039085" packagename=""/>
+		</type>
+	</switch>
+</layout>
