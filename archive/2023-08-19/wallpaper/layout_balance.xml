@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023081907" updatetime="20230819">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="85EFE2C80EDDD9D9F023FA7992367F09.jpg" title="解锁露营技能" content="趣露营 | 在选择露营地点时，应该综合考虑安全性、便利性和美景！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/39752" packagename=""/>
+			<image src="79450EA752DCFCC8FBE0D4BDA36E3603.jpg" title="邂逅海风的夏天" content="蓝绿色的清澈海水，在散落的阳光下尽情书写着夏日的清凉。图：Mohamed.A©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234474?lock_screen_content_id=1968" packagename=""/>
+			<image src="92E4384517B25DC73A246A186EDB1E84.jpg" title="绮丽的彩虹山" content="只需要经过彩色的岩石，登上顶峰后就可以将罗托鲁瓦湖泊、森林和周围群山的景色一览无余。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1686992855333122049.html" packagename=""/>
+			<image src="E53FD68FC90798AC83B3B8C151A442B6.jpg" title="每日一签" content="别犹疑，有些事要去做，才知道结果好不好。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/366175_0.html" packagename=""/>
+			<image src="79F8189022D5260AAA722853270CB8A7.jpg" title="浪漫之路的起点" content="捷克的布拉格和德国的维尔茨堡，两座看起来毫不相干的城市，却时常拿出来比较！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239987.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="98FEF38FEEDD1F74CE8585283D4344CA.jpg" title="挖空沙漠会怎样" content="涨姿势了！沙漠底下是什么样子？如果把沙子挖走，可能会发现宝藏。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3517429.html?meetting=1692054042990" packagename=""/>
+		</type>
+	</switch>
+</layout>
