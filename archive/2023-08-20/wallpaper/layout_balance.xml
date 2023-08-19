@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082007" updatetime="20230820">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="16961AC21737078877E00A8E60CB3AB0.jpg" title="风景不输瑞士" content="今年假期去哪儿旅行？新疆这处古道别错过！图：Guyan_Eric©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234459?lock_screen_content_id=1948" packagename=""/>
+			<image src="C34D309C102637F60799C58E414AB18C.jpg" title="最美岛屿" content="渔山列岛拥有丰富的鱼类资源，被誉为“亚洲第一钓场”，是海钓爱好者的天堂。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5554332" packagename=""/>
+			<image src="67A7E0244FB4092800FE2BB041DC6D7A.jpg" title="森林中的首都" content="莫斯科在城市规划方面做的很好，掩映在一片绿海之中，故有“森林中的首都”之美誉。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1686993735138717697.html" packagename=""/>
+			<image src="A1313E29A3C71938167D47D22133559B.jpg" title="每日一签" content="生活就像一杯白开水，平平淡淡才是真。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239822.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="67427822ADDA99F7CB0420453E10A4A6.jpg" title="流星雨如何形成" content="当地球穿过彗星或小行星留下的碎片时，就会发生流星雨。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239860.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="80CD88883D768F0B7F654CA5E618ECA8.jpg" title="西藏的狂野公路" content="西藏四大“狂野”公路，每一条都惊艳世人，去过的都是勇士。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3521211.html?meetting=1692054037341" packagename=""/>
+		</type>
+	</switch>
+</layout>
