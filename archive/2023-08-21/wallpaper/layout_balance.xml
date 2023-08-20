@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082101" updatetime="20230821">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="6AFE5C2AA8D3EE1C4ABE87605A781674.jpg" title="海洋艺术之珠" content="纯净的双贝壳“亭亭玉立”在海面之上，是珠海最美的地标之一！图：赤甲©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234288?lock_screen_content_id=1879" packagename=""/>
+			<image src="A0C995E074E7CC547381954BF8E16BDF.jpg" title="亘古的红沙漠" content="沙丘造型奇美，风格各异，或柔美，或阳刚。随着太阳角度的变化，沙丘还不断变幻出迷人的色彩。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1686993732882182145.html" packagename=""/>
+			<image src="296BF3BB773AA820C24E2872C0A5C087.jpg" title="每日一签" content="你有多大成色，世界才会给你多大脸色。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/366222_0.html" packagename=""/>
+			<image src="28EBC286067483DDA8961877709C2EA8.jpg" title="去世界尽头撒欢" content="南极，终极向往的朝圣之地，一年中登陆南极半岛的人数寥寥可数！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_237047.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="4D549BA403AABBE4F54D59E25D0B59E3.jpg" title="港剧中的景点" content="别去网红景点打卡了，这些出现在港剧的小众景点也很美。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3522752.html?meetting=1692067831234" packagename=""/>
+			<image src="49A031A2F8EFA68DEF9327D95BA7FB5A.jpg" title="赛里木湖美景" content="被称为“大西洋最后一滴眼泪”，入围国家“神奇西北100景”。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/57927" packagename=""/>
+		</type>
+	</switch>
+</layout>
