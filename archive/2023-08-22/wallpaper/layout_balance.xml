@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082106" updatetime="20230821">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="485BFC370CA1F28D927B6BCAC2061F74.jpg" title="穿越腾格里沙漠" content="我选择了人迹更少的一条，从此决定了我一生的道路。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5561014" packagename=""/>
+			<image src="5BB3DD6306C6194615635A6336E4297B.jpg" title="瑜伽入门级动作" content="给大家推荐8个入门级的瑜伽动作，适合初学者练习，可以放松身体缓解酸胀和疼痛。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689930793180241922.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
