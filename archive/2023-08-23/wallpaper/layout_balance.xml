@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082301" updatetime="20230823">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="EFD79CB9E159836E864E07194195855D.jpg" title="地中海之梦" content="如果你的地中海之梦是温暖的天气和古城墙下蓝宝石般的海水，那么克罗地亚就是你梦中之地。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1686992857530937346.html" packagename=""/>
+			<image src="9067932851ABBC26B6C94275E73C0056.jpg" title="每日一签" content="听说会生活的高手，从来都是自信满满。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6949890693389238817/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=470687" packagename=""/>
+			<image src="9D6574916CB3059086439B57FE5B5F43.jpg" title="探寻杭州之美" content="“上有天堂，下有苏杭”，杭州与苏州齐名，你知道为什么吗？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_239960.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="DDF88853ACAF04F98C40229CCF5AE144.jpg" title="浪漫的心形景观" content="这些无人居住的私人小岛，因形状独特而名气飙升！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3632766.html?meetting=1692140454842" packagename=""/>
+			<image src="5E3506FFCBEF311F3FB89F5C0DDA9216.jpg" title="凌晨六点的西湖" content="中国著名的杭州西湖十景，被誉为“人间天堂”。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7251415589229462076/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472406" packagename=""/>
+			<image src="4EACA6D12A026B3B481EC4CFD4283ADB.jpg" title="赴一场梯田盛宴" content="高山中的梯田随着山脉层层而下，远远望去犹如翠绿天梯一般。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/59098" packagename=""/>
+			<image src="851A994797147417397AAAAC2D2F968F.jpg" title="绝妙的光影画卷" content="新疆赛里木湖变身热门景点名片，这块“蓝宝石”到底有多大的魅力？图：李旭ˡ©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/234304?lock_screen_content_id=2040" packagename=""/>
+		</type>
+	</switch>
+</layout>
