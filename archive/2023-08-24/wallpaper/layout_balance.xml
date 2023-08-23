@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082401" updatetime="20230824">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="112055636FBB2050F37FB286F5BBDA0E.jpg" title="公路之旅" content="如果您正在寻找终生难忘的冒险经历，但沿途会有一些曲折，那么公路旅行会非常有趣。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689196374370832386.html" packagename=""/>
+			<image src="0F95CA1EF301D6CDF6BB7B995FF9F274.jpg" title="每日一签" content="熟谷常弯腰，智者常低头。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6750458124399804942/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=470683" packagename=""/>
+			<image src="B2ED91151642F5CA1AFE415C9098F399.jpg" title="为何要找外星人" content="寻找外星人对人类社会大有益处，怪不得科学家天天找外星人。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3523333.html?meetting=1692140444904" packagename=""/>
+			<image src="62658AC8CDD9608266971954EBE5C527.jpg" title="“洗眼”胜地" content="被誉为“天地之间的仙境”！色达草原拥有独特藏族文化，绿水青山绘就“生态氧吧”。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/59106" packagename=""/>
+			<image src="E6E9573B4879174D6637C7015C12F81A.jpg" title="地球的天然宝库" content="湿地在自然界中担当着“过滤者”的角色，拥有重塑纯净水域的自然魔力！图：阿卡Carson©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235011?lock_screen_content_id=2074" packagename=""/>
+			<image src="C40794DF66EB443F237C94BDA30F9E9A.jpg" title="“云顶天宫”" content="老君山座座山峰如一个个自然盆景，在云雾飘渺间若隐若现，如若仙境！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240315.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="9EB33739F13F5FA55EE63CA69F40F551.jpg" title="巴音布鲁克草原" content="在天山南麓，有一片牛羊成群的自然草原，那就是巴音布鲁克草原。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7259594797370245647/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472040" packagename=""/>
+		</type>
+	</switch>
+</layout>
