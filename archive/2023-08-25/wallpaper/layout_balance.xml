@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082501" updatetime="20230825">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="BC38CEB4D1957D84829E58C5A28F6AC0.jpg" title="石林奇观" content="布莱斯峡谷里无数高低错落的橙红岩柱，延绵数十里的壮丽景致，如同上万勇士列阵抗敌。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684866010525474818.html" packagename=""/>
+			<image src="18588D9AAA66E9A76DD53EA00D8EA13C.jpg" title="每日一签" content="努力是一种生活态度，与年龄无关。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7042573251561914919/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=470686" packagename=""/>
+			<image src="740848C3CCF4815F6ADC5D7BF0F13F82.jpg" title="德国隐藏的温柔" content="巴伐利亚自然景观多样，它多山峰、多森林、多湖泊的特征，造就了唯美的自然景致。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240342.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="5E6A2D8E44339BF0184F19771CF029C1.jpg" title="国内亲子游推荐" content="为你盘点国内最适合亲子游的地方，带小小的眼睛看大大的世界！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/61115" packagename=""/>
+			<image src="DF4DE4486E38F2A948E91EC5BCE90F52.jpg" title="美丽的托斯卡纳" content="意大利最美小镇—托斯卡纳，把欧洲所有的浪漫元素，都凝聚在自己身上。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6780114472452227588/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472043" packagename=""/>
+			<image src="4FFE19BB38EAA0B5B1947824EBF15211.jpg" title="世界级沙漠奇景" content="纳米布沙漠会唱歌，智利沙漠最像火星，这个沙漠竟包裹着大西洋！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628012.html?meetting=1692745272471" packagename=""/>
+			<image src="ED0C85C0AB269630768FBB63BDCC9BD9.jpg" title="雅丹地貌“家族”" content="错综复杂的道路上，巨大雅丹屹立，让人震撼到无法言喻。图：不是大叔©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235030?lock_screen_content_id=2108" packagename=""/>
+		</type>
+	</switch>
+</layout>
