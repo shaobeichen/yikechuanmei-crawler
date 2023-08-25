@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082601" updatetime="20230826">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="AEAEDD1458D4625E8FDD13DD3527DBD0.jpg" title="每日一签" content="人生最高的境界，就是静。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7237313321135931961/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=470976" packagename=""/>
+			<image src="C4CC403F7A71260D107B23270760635F.jpg" title="美国旅行画报" content="亚历桑大州拥有三种截然不同的自然地貌：北部的峡谷、中部的红砂岩以及南部的沙漠。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1682266010566078465.html" packagename=""/>
+			<image src="6BBC681ED33880344DFCF299F8FCCB13.jpg" title="土耳其的热气球" content="土耳其卡帕多西亚放飞热气球，美不胜收，被称地球最像月球的地方。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7210250124356747831/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=442825" packagename=""/>
+			<image src="82AFA7C42F35154EE8B9719D18CDAC2D.jpg" title="摄影的视觉重点" content="利用拍摄的“纵深感”，在周边环境找到辅助物，凸显取景范围的别样质感。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/59111" packagename=""/>
+			<image src="E6D2A6A93088BDA76EE3E86C048338E6.jpg" title="不能错过的图书馆" content="当你踏入这个图书馆的大门，仿佛穿越了时光的隧道。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240221.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C0597F4A2E0AAAF3C96882B6127F7A55.jpg" title="最独特的灯塔" content="盘点世界上五座珍稀灯塔，有的成为国家保护遗产，有的被黄沙淹没。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3629442.html?meetting=1692745245850" packagename=""/>
+			<image src="08F2E66F466643C9ED50F0BD15A1AEEC.jpg" title="盐湖色彩之谜" content="大自然是一位调色艺术家，在盐湖上呈现出绚丽多彩的表演。图：_ZEK_©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235048?lock_screen_content_id=2119" packagename=""/>
+		</type>
+	</switch>
+</layout>
