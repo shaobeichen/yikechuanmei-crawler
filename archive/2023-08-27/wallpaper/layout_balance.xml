@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082701" updatetime="20230827">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="BA4F1C467855604D26CCF9F9FA9EA89C.jpg" title="美国的小瑞士" content="乌雷由于四周环绕着陡峭的落基山脉，独特的山谷奇景也让这里被亲切地称为“美国的小瑞士”。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1684149028578721793.html" packagename=""/>
+			<image src="BED9D8D30F0C5AAADD4FCB80C77FEC8A.jpg" title="伦敦地标建筑" content="环球脚步 | 大本钟是伦敦最著名的地标建筑，是英格兰在欧洲最著名的纪念碑。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6824371477052129795/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=470388" packagename=""/>
+			<image src="DCA80E17CABC6551160BE7AF61A10484.jpg" title="畅游加拿大" content="只有加拿大才有的自然美景，班夫公园的魅力有生之年别错过！©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/57924" packagename=""/>
+			<image src="394BA14EBB87C99627B2AFC48EC84A7B.jpg" title="领略东方明珠" content="东方明珠建筑风格独特，外观呈现出线型的美感，被誉为“东方之冠”！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240245.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="54E442100985B42ECE782E7691D7EC93.jpg" title="魔幻彩虹仙手桥" content="悬空的仙人之手，是现实与意境结合的大美之作。图：你七哥©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235033?lock_screen_content_id=2111" packagename=""/>
+			<image src="182E20EC43BEFBA44B5CDE9F5897F308.jpg" title="这样散步最养人" content="散步看似简单，却藏着大学问！那你知道如何散步对身体最有利呢？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3632952.html?meetting=1692870033704" packagename=""/>
+			<image src="11FC3F58DE9B1D535D69EB017B10701B.jpg" title="每日一签" content="心若累了，让它休息，灵魂的修复是人生永不干枯的希望。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1688827415293349890.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
