@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082801" updatetime="20230828">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="A610AF0D7EEBD5E9AFB7F86EE56714CC.jpg" title="太空针塔" content="到西雅图，没到过太空针塔，就像到巴黎，没看过巴黎铁塔一样的扫兴。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689196381798944770.html" packagename=""/>
+			<image src="D39B4B62174BF063BBC9BE90E465531D.jpg" title="独库公路" content="在“中国最美公路”—独库公路，可以领略一日穿四季，十里不同天。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7123114914918728228/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=442743" packagename=""/>
+			<image src="650E411E386C4A53E4A7982EC485EF36.jpg" title="与冰川有个约会" content="触目所及全都是冰川！在这里，探秘加拿大最壮丽的自然景观。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/59096" packagename=""/>
+			<image src="1FA3069279CC8EFC701BD5510320694D.jpg" title="“上帝的眼泪”" content="如果说上帝真流了无数颗泪的话，那大柴旦翡翠湖的那颗肯定是难得一见的绝色！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240318.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="C655AF9BA5FFDCBB59C47E52828B7E97.jpg" title="戈壁从何而来" content="戈壁滩的前身是什么？在我国的新疆、青海都藏着它的身影。图：A-i©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235031?lock_screen_content_id=2109" packagename=""/>
+			<image src="EA81DACD3CB6924C265AC0BD19AEFE5C.jpg" title="没红绿灯的城市" content="没有红绿灯，只有一条街道的世外桃源，你知道是哪里吗？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3632954.html?meetting=1692870636805" packagename=""/>
+			<image src="644E58D8FE9C72E191E89665E6C4C1D1.jpg" title="每日一签" content="每个人都有一盏心灯，点亮自己的那一盏灯，即照亮了别人更照亮了自己，帮助别人就是成就自己。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1688827612207521794.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
