@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023082801" updatetime="20230828">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="39F3B025F5684A3FB80D2680C033B972.jpg" title="摩托艇那些事儿" content="水上摩托运动是集高科技、观赏、竞争和惊险刺激于一体，富有现代文明特征的高速水上运动。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1691273236987351041.html" packagename=""/>
+			<image src="C21ADD8D6B15737EF21E830287D64258.jpg" title="国际象棋的历史" content="它于五世纪在印度发明，随后传到波斯。这很可能是我们这个时代最古老的游戏之一。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5564583" packagename=""/>
+		</type>
+	</switch>
+</layout>
