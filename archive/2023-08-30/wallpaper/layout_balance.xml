@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023083001" updatetime="20230830">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="24B8546D042109A08181AF7C936C9C36.jpg" title="世界上的岛屿" content="格陵兰岛是地球上占地面积最大的岛屿，而且位于高纬度地区，常年冰冻。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/1531533074221830146/T00000LD2MZLOP.html" packagename=""/>
+			<image src="76A1B6D6BDD644E2FBDC0200CCB76905.jpg" title="绝美峡谷在中国" content="此生一定要去看看的五大峡谷，各个壮阔磅礴、美如仙境。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3627991.html?meetting=1692745260506" packagename=""/>
+			<image src="5CB903F72750269B3B96D827D4A265C0.jpg" title="每日一签" content="在单调的生活中寻觅风景，你会收获美好；在苦涩的生活中品味感动，你会收获幸福。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1688786037427412994.html" packagename=""/>
+			<image src="38CB4C05790789ADD11B6FA54ED27AA3.jpg" title="灯塔的作用" content="灯塔是建于航道关键部位附近的一种塔状发光航标，是一种固定的航标。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7267811617646510628/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472039" packagename=""/>
+			<image src="C99411C70750EACCD7C7CD49F9B71764.jpg" title="时光的见证者" content="长安塔耸立在世博园的中央，宛如一根通天的巨柱，矗立于历史的长河中。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240320.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="690ADBB80BB1195D67AE58532C37D80B.jpg" title="动车为何没E座" content="座位编号只有ABCDF，动车的E座究竟跑到哪里去了呢？图：球腾©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235422?lock_screen_content_id=2164" packagename=""/>
+		</type>
+	</switch>
+</layout>
