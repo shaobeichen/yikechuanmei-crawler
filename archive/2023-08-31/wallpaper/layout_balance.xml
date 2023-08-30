@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023083101" updatetime="20230831">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="3FAE08F27B6BBFD98A872828F1AE4A00.jpg" title="摄影师的伊甸园" content="这里被美国《国家地理》评为“世界第五大风景胜地”以及“一生中不可错过的50个景点之一”。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689196376698671106.html" packagename=""/>
+			<image src="BFFA7E63365FF0E8CCDC4CEFB336E821.jpg" title="邂逅厦门海风" content="在绚丽的东海之滨，梦幻的厦门如一颗明珠般熠熠生辉。图：梦之境©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235419?lock_screen_content_id=2161" packagename=""/>
+			<image src="40AAB614382D472C18B1A952696AE90C.jpg" title="不容错过的古镇" content="这些古镇环境清幽、古朴宁静，累了不妨去小住几日。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3626289.html?meetting=1693263639871" packagename=""/>
+			<image src="3F253A78875C4AF33B668B812F958B2B.jpg" title="马德里艺术之旅" content="马德里就像毕加索笔下的抽象画，色彩斑斓吸引眼球！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240488.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="DDB76BD414EE967D01A729822CA60294.jpg" title="秦皇岛游玩攻略" content="秦皇岛是一个以皇帝尊号命名的城市，这里有天下第一关的山海关，还有国内著名的海滨度假胜地。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7267721803257365026/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472041" packagename=""/>
+		</type>
+	</switch>
+</layout>
