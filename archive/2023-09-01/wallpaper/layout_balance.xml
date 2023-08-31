@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090101" updatetime="20230901">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="134CE6FF7048C2375C893D3F72990358.jpg" title="有火之地" content="火地岛最大的特点气候常年很冷、多风暴天气。这里年平均气温低于10℃。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689549504568631297.html" packagename=""/>
+			<image src="CC1E6B2F6467B7B20289C52B21A15BC1.jpg" title="穿越森林的旅行" content="乘车在森林公路上飞驰，让绝美的风景和清新的空气，净化你的心。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7137594258462392832/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=443969" packagename=""/>
+			<image src="7F4ED9FBE44423BC185D12386A978192.jpg" title="鲜为人知的秘境" content="比起贡嘎雪山，格聂神山人迹稀少，充满着原生态的气息！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240599.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="887327E346BD164A7DA0DE8A48C8455D.jpg" title="地球上的“生命禁区”" content="这些地方神秘又危险，人类至今无法涉足，它们究竟有多可怕？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628811.html?meetting=1693350052024" packagename=""/>
+			<image src="8D281E16096E12062AC5CA3F3A0AF305.jpg" title="漫游海滨风情" content="漫步在天津的街头，感受传统与现代建筑的对撞魅力。图：几奥-©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235421?lock_screen_content_id=2162" packagename=""/>
+		</type>
+	</switch>
+</layout>
