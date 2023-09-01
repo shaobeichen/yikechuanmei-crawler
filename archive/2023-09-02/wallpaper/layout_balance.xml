@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090201" updatetime="20230902">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="54AC3117112A82B63DB7B8A5F7B1BDCA.jpg" title="瑞士风光" content="瑞士不仅是个人民生活水准高的国，也是一个风光秀丽，景色迷人的度假胜地，有世界公园的美誉。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689549498272980993.html" packagename=""/>
+			<image src="6967452E6DA3D34CEA562E86A41F2D01.jpg" title="每日一签" content="心安才是制胜的法宝，越是处于困难境地，就越要保持内心的平和。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/61902" packagename=""/>
+			<image src="5B813CFAD0B131E55CF35D4893D5ADDF.jpg" title="追随极光之路" content="在挪威，有一趟神秘的北国列车，它往返于两国之间，穿越阳光与暗夜。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7166479037936845349/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=454910" packagename=""/>
+			<image src="CA5347A4CBF6A5102CC7F58E29D57397.jpg" title="醉游庐山三叠泉" content="“不到三叠泉，不算庐山客”，此言果然不虚！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240598.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="65A966AECBCB20C19C9E004235599D5E.jpg" title="云南十八怪到底是什么" content="鸡蛋用草穿着卖、老太爬山比猴快，云南的这些怪事你都听过吗？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628713.html?meetting=1693350046125" packagename=""/>
+			<image src="A572519352AF0F725CA18154C6C78E2F.jpg" title="自然“鳍”观" content="是什么让这片海湾如此引人注目？答案藏在那形似鲨鱼鳍的海蚀柱之中。图：Patrick.A©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235403?lock_screen_content_id=2142" packagename=""/>
+		</type>
+	</switch>
+</layout>
