@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090301" updatetime="20230903">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="62BEB0B898C276A79732C5FDA075FDCE.jpg" title="奇石谷" content="这里的岩体会随着阳光照射的角度不断变换颜色的，像油画一般绚丽，吸引着全球各地的游客。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689549492921049089.html" packagename=""/>
+			<image src="0E0AB3976C4B9C9C3C1D631D7600E2D5.jpg" title="马尔代夫冷知识" content="马尔代夫古称“溜山国”或者“溜洋国”，郑和下西洋两次来到过这个国家。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7218191039331648060/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=455564" packagename=""/>
+			<image src="99038AB332ABEA228970031B936F9FBD.jpg" title="每日一签" content="学会及时止损才能领悟人生真正的价值！不纠缠才会有好结果。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/61923" packagename=""/>
+			<image src="9D5284AD71AAF7DE05C4486E6BED0AA7.jpg" title="神秘的天山神脉" content="天山大峡谷就好似浓缩版的新疆旅行日志，它囊括了新疆除沙漠以外的所有自然景观！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_231840.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="8CE8B6FAA9931E419680F58EFD1C821F.jpg" title="全国秋日时长PK" content="这个地方的秋天晴天多，最让人羡慕，那全国哪个地方秋天最短？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628860.html?meetting=1693350043337" packagename=""/>
+			<image src="836FDD29435BABF06BBEB0FB039ADADA.jpg" title="追寻内心之旅" content="旅行不仅是一种享受，它如同一面镜子，照出更好的你。图：八色©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235390?lock_screen_content_id=2150" packagename=""/>
+		</type>
+	</switch>
+</layout>
