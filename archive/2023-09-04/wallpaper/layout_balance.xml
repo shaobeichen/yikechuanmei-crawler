@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090401" updatetime="20230904">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="B09BD8C99C5681CEFEA7EAFF8D7C3E34.jpg" title="水上都市" content="这里的房子，颜色绝不相同，房屋错落有致，人行其中，如同坠入充满童趣的梦幻世界。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689549502198849538.html" packagename=""/>
+			<image src="6BCCE4C939EF33CCFA7F81D1CD6A633E.jpg" title="极光越美越危险" content="美丽的极光在夜空中舞动，令人仿佛置身于魔幻般的世界。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6879296996826579467/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472542" packagename=""/>
+			<image src="9EE6A64B5B71965148E40EA85F1FD569.jpg" title="每日一签" content="拥有一颗自我愈合的心，不卑不亢，不慌不忙，自在生长。©疯狂E族" cpname="" download="" contenturl="https://html_screen.baizhan.net/huawei/4/279_0.html" packagename=""/>
+			<image src="D33727B4AEF68E933F0F8CDFF864733C.jpg" title="古都风华再现" content="南京的旅游资源很丰富，从自然景观到现代建筑几乎无所不包！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240589.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="6DE1FD821C686B1406D3219215EED65C.jpg" title="最知名的深度休息法" content="这六大最有用的休息法，用完浑身轻松，整个人都变聪明了！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628762.html?meetting=1693350049122" packagename=""/>
+			<image src="6CAB0275436894B2BB3AB35C1019E81F.jpg" title="海洋趣味小课堂" content="海水明明是透明色，那为什么海洋却是蓝色的？科学的解释来了！图：阿希金©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235429?lock_screen_content_id=2166" packagename=""/>
+		</type>
+	</switch>
+</layout>
