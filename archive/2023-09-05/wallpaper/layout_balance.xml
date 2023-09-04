@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090501" updatetime="20230905">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="9CCAC0D4213D9AF7984BF9B350284500.jpg" title="探秘喜马拉雅" content="喜马拉雅山脉是世界著名的山脉之一，也是人类最为神奇和崇高的自然奇观之一。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689549506791612418.html" packagename=""/>
+			<image src="2C927B1B33C379EF3952EF9339131DEE.jpg" title="每日一签" content="人生，一半努力，一半随缘；生活，一半烟火，一半诗意。©疯狂E族" cpname="" download="" contenturl="https://html_screen.baizhan.net/huawei/4/276_0.html" packagename=""/>
+			<image src="DA204853C6E4E8D1386046946C255B64.jpg" title="小众神仙海岛" content="万宁，全年温暖如春，这里一半是蔚蓝大海，一半是绿野仙踪！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240616.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="088D25BA5CAB076136FA11CADD36E91F.jpg" title="搬离城市的快乐" content="搬离城市，坐火车上班的年轻人：获得了真正的快乐！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7248516397511344680/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=473868" packagename=""/>
+			<image src="A328B78E56FA94798A6908250D6C243C.jpg" title="树竟然也会睡觉" content="树睡觉的原因是什么？它们也和人类一样需要恢复体力吗？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3574054.html?meetting=1693436435157" packagename=""/>
+			<image src="08B220E88322F36D6F28A9888FFE6925.jpg" title="大海中的指南针" content="作为航行船只的守护者，灯塔在黑夜中闪耀出希望之光！图：Erik.M©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235426?lock_screen_content_id=2154" packagename=""/>
+		</type>
+	</switch>
+</layout>
