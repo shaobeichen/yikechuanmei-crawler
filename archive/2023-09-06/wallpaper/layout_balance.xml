@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090601" updatetime="20230906">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="AC2FD7208ABE76019B92538233867B00.jpg" title="奇幻的羚羊谷" content="这里曾是叉角羚羊的栖息之处，也有人看过羚羊常在谷底漫步，这就是“羚羊谷”名字的由来。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1689196384672043010.html" packagename=""/>
+			<image src="584591996D37F37E543D65828CA86CC8.jpg" title="心灵的净土" content="东山岛，别称陵岛，形似蝴蝶亦称蝶岛，是福建省第二大岛。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6727249822576804365/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=472037" packagename=""/>
+			<image src="DA15F1DD45B1C094934096D12961E7CE.jpg" title="每日一签" content="花将色不染，水与心俱闲。修养好心态，万事都能事半功倍。©疯狂E族" cpname="" download="" contenturl="https://html_screen.baizhan.net/huawei/4/278_0.html" packagename=""/>
+			<image src="EF2CC59A9D1A55295D7E998C301A557B.jpg" title="小心“龙”出没" content="漫游《权力的游戏》取景地，眺望如画般的亚得里亚海美景。图：Diego.F©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235405?lock_screen_content_id=2140" packagename=""/>
+			<image src="3B44D903AEB1DF8B11E1F53BB87A5771.jpg" title="地球换个方向转会怎样" content="当地球自东向西转时，地球会有何变化？沙漠面积居然会缩小！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3572784.html?meetting=1693436439652" packagename=""/>
+			<image src="98448EBF58BF128E294C2FD881A8300A.jpg" title="壮美的摩特诺玛瀑布" content="在俄勒冈州的广袤山脉和峡谷间，藏匿着一道令人心醉神迷的天然奇观！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240991.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
