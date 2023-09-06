@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090701" updatetime="20230907">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="485D54A5288425690EA6842DF882405A.jpg" title="世界之都" content="纽约是世界闻名的全球之都，也是全球金融中心之一，以其独特的魅力吸引着来自世界各地的游客。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1687394033766240257.html" packagename=""/>
+			<image src="726838B85E32D1F9D7B6923F9AE67A6E.jpg" title="世间奇观棉花堡" content="这些台阶宛如柔软的棉花，从山坡上连绵不断地延伸下来，形成了棉花堡的壮观景观！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_240952.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="63B12A988E5B2164B5CE2D762654242A.jpg" title="巴音布鲁克草原" content="巴音布鲁克草原有着深厚悠久的历史，这里气候凉爽，不燥不热。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7160131290254033416/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=474480" packagename=""/>
+			<image src="35E76E804B8FEA60194F833C1BC0E42A.jpg" title="我国十大湖泊" content="国内绝美的十大湖泊，个个都恍若人间仙境，一个比一个惊艳。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3628338.html?meetting=1693819834169" packagename=""/>
+			<image src="0964E7A75AD670C9E0D4E4F4E0A9CEB7.jpg" title="跟着电影去旅行" content="被称为“天堂之岛”的印尼巴厘岛，也是众多影视创作的灵感源泉。图：Asad.P©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235407?lock_screen_content_id=2137" packagename=""/>
+		</type>
+	</switch>
+</layout>
