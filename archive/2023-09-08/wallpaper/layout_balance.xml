@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090801" updatetime="20230908">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="5C60EE7169DD79DD79FF3F01B5E5BF25.jpg" title="德国秀丽宝藏地" content="德累斯顿被称为艺术和建筑之城，从巴洛克式建筑到格哈德·里希特的抽象创作在这里都能看到。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1696093498954072065.html" packagename=""/>
+			<image src="02971008D63E1863C76D08F719F99104.jpg" title="紫禁城秋游清单" content="金秋出游季 | 故宫的金色繁华，什刹海的热闹非凡，走在古老的宫墙里，空气弥漫着秋的味道。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6751674568454177283/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=475473" packagename=""/>
+			<image src="CA36FCAAA09266A1AE85237377763042.jpg" title="国庆徒步旅行计划" content="黄金周攻略 | 国庆节8天小长假，你的出游计划做好了吗？©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_241098.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="F971407F4A1BE438E3F74D0D41A19A44.jpg" title="为何高铁在半夜停运" content="中国高铁也“怕黑”？原来它在晚上停运都是为了乘客考虑。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3576714.html?meetting=1693899037088" packagename=""/>
+			<image src="FD7D897245DBDE8B1742AD3DA0A071CC.jpg" title="新疆秋日之旅" content="金秋出游季 | 让我们一同进入新疆的怀抱，领略秋日风光的壮丽之美。图：一知肥夏©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235805?lock_screen_content_id=2221" packagename=""/>
+		</type>
+	</switch>
+</layout>
