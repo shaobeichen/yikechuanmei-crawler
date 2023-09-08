@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023090901" updatetime="20230909">
+	<switch>
+		<type id="42533" src="icon_20220418153820.png" title="旅行" selected="true">
+			<image src="A00B76E27F8D3AE7F05CF195646FAAEA.jpg" title="每日一签" content="这是后半生最高级的活法，拥有一个都是赚到。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230828/108624.html" packagename=""/>
+			<image src="53B23CEC074C87CBA54225AB65EC4EAA.jpg" title="东方美学建筑" content="北京天坛有着厚重的历史底蕴，历经六百余年风雨洗礼与时代的变迁，更凸显韵味。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1696073297260822530.html" packagename=""/>
+			<image src="144E6D6FF80CA2F1C549FDA0EBFCD1E5.jpg" title="北极和南极谁更冷" content="同样是地球的极地，南极和北极究竟谁才是寒冷之王？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3574339.html?meetting=1693898435412" packagename=""/>
+			<image src="3556C747B9C7B428A566DA7453BEB0AB.jpg" title="舌尖上的广州" content="黄金周攻略 | 作为“吃货天堂”的广州，为你带来味蕾的极致体验！图：几奥-©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235843?lock_screen_content_id=2249" packagename=""/>
+			<image src="9D0534937BC4C7D668B96C806F1EDD87.jpg" title="秋季的川西" content="金秋出游季 | 打遍国内无敌手，秋天不来这真的亏大了！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com//article/article_241130.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="719DB9115BEBC38F2EB3F19EB835C42E.jpg" title="邂逅塞尔维亚" content="塞尔维亚是一个位于巴尔干半岛的国家，拥有丰富多样的旅游和文化资源。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7234695437532267042/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=454905" packagename=""/>
+		</type>
+	</switch>
+</layout>
