@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023101001" updatetime="20231010">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="743739CDAFF7F9167E2CE2D2EE467B74.jpg" title="登山前后的注意事项" content="这是一项比较耗体力的运动，但却越来越被人喜欢！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5572956" packagename=""/>
+		</type>
+	</switch>
+</layout>
