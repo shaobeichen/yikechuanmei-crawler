@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023102101" updatetime="20231021">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="60A9AE265305D081309489E9388D6D6B.jpg" title="任敏、张晚意首次合作" content="又一部古偶大剧来袭！任敏搭档张晚意出演《长街长》，剧中造型首曝光。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20231010/112342.html" packagename=""/>
+			<image src="867C5F23F614DD3A1066EC917BAFDED4.jpg" title="《无敌破坏王》" content="动画沿袭了奥斯卡情有独钟的“复古和致敬”风，是一部极富趣味性的合家欢作品。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/67840" packagename=""/>
+			<image src="6D54B4365A87B0A3C3CF0D586A8E13F6.jpg" title="国剧佳作《天盛长歌》" content="匠心之作高口碑落幕，故事结尾隐含深意，新古典主义铸就华流影视佳作走出国门。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/69285" packagename=""/>
+			<image src="9C609F66D0B0B65DD964BD42AEC8DA75.jpg" title="土耳其安哥拉猫" content="丝绸般的长被毛，颜色丰富且多样的杏仁大眼睛，让土耳其安哥拉猫充满魅力。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1714897586097225730.html?clearMargin=1" packagename=""/>
+		</type>
+	</switch>
+</layout>
