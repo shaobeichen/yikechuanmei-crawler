@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023102201" updatetime="20231022">
+	<switch>
+		<type id="42547" src="icon_20220419162555.png" title="生活" selected="true">
+			<image src="82128EEAE37E8C28A7C12D87220CE979.jpg" title="每日一签" content="半宅主义：一半时间留给自己，另一半时间留给世界。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20230926/111470.html" packagename=""/>
+			<image src="A1A7162488394F93B957A69FF809CD29.jpg" title="《金牌客服董董恩》" content="被称为“懂行”的甜宠剧！商业“斗争”与搞笑爱情并存，看金牌客服如何“智斗”甲方。©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/67875" packagename=""/>
+			<image src="ED3BA2099A066DC21AC30D8496CDA106.jpg" title="《坏蛋联盟》特别集" content="“金盆洗手”的大反派们再次集结，《坏蛋联盟：坏坏假期》又将带来怎样的搞笑故事？©时尚盒子" cpname="" download="" contenturl="https://page.dspower.cn/detail/10002/69241" packagename=""/>
+			<image src="E34E17AC9767487510F72979536DE7EF.jpg" title="“草原之王”" content="狮子因其强壮的体魄、锋利的爪牙和敏锐的猎杀技巧，让它在草原上享有无可匹敌的地位。©有料画报" cpname="" download="" contenturl="https://h5detail.yiyouliao.com/rivers/newsfeed/04e94e27125945d28492b41421d44e65/1714225619061006337.html?clearMargin=1" packagename=""/>
+			<image src="2C189CC18412234D06542C4F0BCD76B0.jpg" title="医疗剧《问心》来袭" content="医生也能当爽文大男主？金世佳新剧饰演天才良医，与各类病人“斗智斗勇”。©品鉴传媒" cpname="" download="" contenturl="https://www.pinbaitai.com/huawei/20231010/112365.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
