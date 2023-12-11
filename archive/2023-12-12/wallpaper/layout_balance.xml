@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023121101" updatetime="20231211">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="426B882CB2C01EB07537BD4D3BF0C5C3.jpg" title="驰骋雪原的运动项目" content="在户外探险活动中，雪地摩托车也可以做出跳跃等技术动作。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5577997" packagename=""/>
+		</type>
+	</switch>
+</layout>
