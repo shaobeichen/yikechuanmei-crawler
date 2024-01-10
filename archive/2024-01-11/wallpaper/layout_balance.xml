@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024011001" updatetime="20240110">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="F3055A5CC050F8B7EC2DDB28D8E3D5C5.jpg" title="山地骑行入坑指南" content="成为一名优秀山地车手，秘诀也许就是对于身体位置的控制。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5582559" packagename=""/>
+		</type>
+	</switch>
+</layout>
