@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024012201" updatetime="20240122">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="72741B82A406A5E9F0542070B88AAB6E.jpg" title="冲浪的技巧" content="冲浪板放在地上时要轻放、风很大时摆在沙地上要用沙子盖在冲浪板上，避免被风吹走。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5581624" packagename=""/>
+		</type>
+	</switch>
+</layout>
