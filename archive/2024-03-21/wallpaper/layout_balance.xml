@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2023091001" updatetime="20230910">
+	<switch>
+		<type id="42543" src="icon_20220419161600.png" title="时尚" selected="true">
+			<image src="587B6FBBE57E58E164A07DFC7B5761A4.jpg" title="令人心动的古风女孩" content="手把手教你拍出氛围感十足的古风写真，感受历史文化之美！图：苏蓝sherry98©米拍摄影社区" cpname="" download="" contenturl="https://m.mepai.me/outarticle/235823?lock_screen_content_id=2231" packagename=""/>
+		</type>
+	</switch>
+</layout>
