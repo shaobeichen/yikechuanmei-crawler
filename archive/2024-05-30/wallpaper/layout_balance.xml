@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024052901" updatetime="20240529">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="798B4A6A1DFC4B1B9F8E8B4EC08F509E.jpg" title="女足运动的转折" content="人类需要从体育中获得强健、勇气和智慧，无分男女。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5569940" packagename=""/>
+		</type>
+	</switch>
+</layout>
