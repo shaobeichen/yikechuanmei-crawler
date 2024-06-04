@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024060301" updatetime="20240603">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="A7A3ABD54F2F7971CB99B97DE43DD977.jpg" title="骑行初学者指南" content="骑行新手？别怕！备好头盔，调整好姿势，与小伙伴，保持节奏，及时补给，骑行之旅，乐趣无穷！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5598738" packagename=""/>
+		</type>
+	</switch>
+</layout>
