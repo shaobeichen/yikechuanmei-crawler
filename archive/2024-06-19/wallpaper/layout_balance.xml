@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024060801" updatetime="20240608">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="67ACC511F7E64310A7CD607F69DE9A4E.jpg" title="实用的网球技巧" content="走出舒适区，进阶网球新境界！练习不停歇，技术更精进！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5600297" packagename=""/>
+		</type>
+	</switch>
+</layout>
