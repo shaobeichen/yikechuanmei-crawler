@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024071101" updatetime="20240711">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="AB775FF2DC2799C4E479010986ADDE45.jpg" title="高尔夫入门知识" content="高尔夫入门：挥杆推杆进洞，备球钉球标，规则简单乐趣多！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5606339" packagename=""/>
+		</type>
+	</switch>
+</layout>
