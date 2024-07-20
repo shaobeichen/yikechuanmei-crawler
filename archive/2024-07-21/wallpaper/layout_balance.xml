@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024071801" updatetime="20240718">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="6781BEEE40FA0A7CB7F0B35F809CA7FB.jpg" title="乒乓球小知识" content="如何快速提高自己的球技，在乒乓球对战中轻松赢下比赛呢？©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5607801" packagename=""/>
+		</type>
+	</switch>
+</layout>
