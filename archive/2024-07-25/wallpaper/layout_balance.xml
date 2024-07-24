@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024072401" updatetime="20240724">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="B8AC50C9936BB26DBD3AE767ED9EE16A.jpg" title="网球发球技巧" content="掌握了这几个网球发球要点，漂亮上手的发球离你还会远吗？©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5610809" packagename=""/>
+		</type>
+	</switch>
+</layout>
