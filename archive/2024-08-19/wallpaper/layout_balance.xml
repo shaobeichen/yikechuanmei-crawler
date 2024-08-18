@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024081701" updatetime="20240817">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="DA15F3496E98DBF70FEDEBC7D26F19B2.jpg" title="网球发球类型" content="发球可以通过不同程度的旋转或切削来帮助自己获得优势。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5620351" packagename=""/>
+		</type>
+	</switch>
+</layout>
