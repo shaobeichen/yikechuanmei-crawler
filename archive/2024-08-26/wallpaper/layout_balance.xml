@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024082301" updatetime="20240823">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="33B2A56D5A2209569F20C40DDD74BE2C.jpg" title="提升网球水平" content="如何有效提高网球水平？这4个针对性练习少不了。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5620975" packagename=""/>
+		</type>
+	</switch>
+</layout>
