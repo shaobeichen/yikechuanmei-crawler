@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024090101" updatetime="20240901">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="1D3135986227873E42278F97C8BDE668.jpg" title="秋季骑行指南" content="伴随凉爽的秋风享受收获的季节与骑行的美好。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5568905" packagename=""/>
+		</type>
+	</switch>
+</layout>
