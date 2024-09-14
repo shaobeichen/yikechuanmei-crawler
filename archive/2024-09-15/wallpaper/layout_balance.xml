@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024091301" updatetime="20240913">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="06CC066D2CACEF6DC5D2AB04A392B994.jpg" title="滑雪安全小贴士" content="冰雪运动很有趣，安全防护是第一，防护贴士要注意。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5626524" packagename=""/>
+		</type>
+	</switch>
+</layout>
