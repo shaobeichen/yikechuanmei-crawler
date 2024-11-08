@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2024110601" updatetime="20241106">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="FBF628C9C3F5E47343A5EE12FA518B95.jpg" title="骑行的诸多好处" content="骑行的好处有哪些，哪些人不适合骑车呢？©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5631114" packagename=""/>
+		</type>
+	</switch>
+</layout>
