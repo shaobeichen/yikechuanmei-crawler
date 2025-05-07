@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2025050601" updatetime="20250506">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="9B4E3891C9D4481B903349A83CADACF0.jpg" title="骑行的隐形门槛" content="真正骑行上瘾的人，哪怕刮风下雨，他们也想着出去兜一圈。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5654191" packagename=""/>
+		</type>
+	</switch>
+</layout>
