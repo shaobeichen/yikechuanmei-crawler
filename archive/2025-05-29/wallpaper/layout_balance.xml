@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2025052601" updatetime="20250526">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="DE550888237EA1D47425254DC98AC1A1.jpg" title="激昂的青春" content="如果长期坚持打篮球，你会发现身体在优化！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5640057" packagename=""/>
+		</type>
+	</switch>
+</layout>
