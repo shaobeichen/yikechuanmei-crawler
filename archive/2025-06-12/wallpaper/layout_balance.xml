@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2025061101" updatetime="20250611">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="0413C63C7EE3D537B9EDBF5EA1B5EE44.jpg" title="骑向人生的旷野" content="骑行可以是任何时候开始都不晚的一场华丽冒险！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5657725" packagename=""/>
+		</type>
+	</switch>
+</layout>
